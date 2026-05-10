@@ -47,12 +47,12 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               {COLLEGES.map((c) => (
                 <li key={c.slug}>
-                  <a
-                    href="#partners"
+                  <Link
+                    href={`/${c.slug}`}
                     className="hover:text-[color:var(--gold-soft)] transition-colors"
                   >
                     {c.shortName}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>

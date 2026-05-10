@@ -1,0 +1,360 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - paragraph [ref=e6]: Admissions 2026 are now open · GECET registration live
+        - link "Apply Now →" [ref=e7] [cursor=pointer]:
+          - /url: "#apply"
+      - generic [ref=e8]:
+        - link "Graphic Era deemed to be University" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e10]: GE
+          - generic [ref=e11]:
+            - generic [ref=e12]: Graphic Era
+            - generic [ref=e13]: deemed to be University
+        - navigation [ref=e14]:
+          - link "Academics" [ref=e15] [cursor=pointer]:
+            - /url: "#programmes"
+          - link "Programmes" [ref=e16] [cursor=pointer]:
+            - /url: "#programmes"
+          - link "Campus Life" [ref=e17] [cursor=pointer]:
+            - /url: "#campus"
+          - link "Research" [ref=e18] [cursor=pointer]:
+            - /url: "#research"
+          - link "Admissions" [ref=e19] [cursor=pointer]:
+            - /url: "#apply"
+        - link "Apply Now" [ref=e20] [cursor=pointer]:
+          - /url: "#apply"
+    - generic [ref=e22]:
+      - heading "Admissions" [level=1] [ref=e23]
+      - navigation [ref=e28]: Home › Admissions › Overview
+    - navigation [ref=e29]:
+      - generic [ref=e30]:
+        - link "Overview" [ref=e31] [cursor=pointer]:
+          - /url: "#overview"
+        - link "Admission Process" [ref=e32] [cursor=pointer]:
+          - /url: "#process"
+        - link "Scholarship" [ref=e33] [cursor=pointer]:
+          - /url: "#scholarship"
+        - link "GECET" [ref=e34] [cursor=pointer]:
+          - /url: "#gecet"
+        - link "Programmes" [ref=e35] [cursor=pointer]:
+          - /url: "#programmes"
+        - link "FAQs" [ref=e36] [cursor=pointer]:
+          - /url: "#faqs"
+        - link "Apply Now" [ref=e37] [cursor=pointer]:
+          - /url: "#apply"
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - heading "Take your First Step towards success!" [level=2] [ref=e41]
+        - paragraph [ref=e42]: Choosing the right university is an important decision for any student, for the professional success one aspires for in their lives, depends on this very decision. Graphic Era (Deemed-to-be-University) offers its prospective students more than 85 UG, PG and Doctoral programmes to choose from, spread across various domains such as Engineering, Computer Application, Management, Commerce, Life Sciences, Food Technology, Hospitality, Paramedical, Humanities and Social Sciences, and more.
+        - generic [ref=e43]:
+          - strong [ref=e44]: "Note:"
+          - text: Graphic Era (Deemed-to-be-University) doesn't outsource its admission process. The application form on this page reaches the official admissions team directly.
+      - img "Students at a Graphic Era University campus event" [ref=e47]
+    - generic [ref=e50]:
+      - article [ref=e51]:
+        - heading "Top Placements" [level=3] [ref=e53]
+        - paragraph [ref=e54]: Consistently high placements at top MNCs like Amazon, Adobe, Microsoft and Google.
+      - article [ref=e55]:
+        - heading "Merit-Based Scholarships" [level=3] [ref=e57]
+        - paragraph [ref=e58]: Merit scholarships in all courses for the entire duration of the course.
+      - article [ref=e59]:
+        - heading "Additional Scholarships" [level=3] [ref=e61]
+        - paragraph [ref=e62]: 10% additional scholarship for siblings, alumni wards and defence personnel children.
+      - article [ref=e63]:
+        - heading "Global Exchange" [level=3] [ref=e65]
+        - paragraph [ref=e66]: Active student exchange tie-ups with universities in the US, UK, Germany and Singapore.
+      - article [ref=e67]:
+        - heading "85+ Programmes" [level=3] [ref=e69]
+        - paragraph [ref=e70]: UG, PG and Doctoral programmes across Engineering, Management, Sciences and Humanities.
+      - article [ref=e71]:
+        - heading "Industry-Aligned Curriculum" [level=3] [ref=e73]
+        - paragraph [ref=e74]: Curriculum reviewed annually with industry experts. Capstone projects and live internships.
+    - generic [ref=e76]:
+      - heading "Complete Admission process by Paying the fee" [level=2] [ref=e77]
+      - paragraph [ref=e78]: Five steps from interest to confirmed seat. Most candidates complete the entire flow in 7–10 working days.
+      - list [ref=e79]:
+        - listitem [ref=e80]:
+          - generic [ref=e81]: "01"
+          - generic [ref=e82]:
+            - heading "Choose your Course of Interest" [level=3] [ref=e83]
+            - paragraph [ref=e84]: This is the most important step of your application process since there are more than 85 programmes to choose from at UG, PG and PhD level. Considering your core skills, aptitude, passion and career goals, talk to our counsellor and choose the right programme.
+        - listitem [ref=e85]:
+          - generic [ref=e86]: "02"
+          - generic [ref=e87]:
+            - heading "Check Eligibility & Apply Online" [level=3] [ref=e88]
+            - paragraph [ref=e89]: Each programme has a defined eligibility criterion based on the qualifying examination. Fill the application form on this page — you will be guided through the upload of your 10th, 12th and qualifying-exam mark sheets.
+        - listitem [ref=e90]:
+          - generic [ref=e91]: "03"
+          - generic [ref=e92]:
+            - heading "Appear for GECET / Submit Score" [level=3] [ref=e93]
+            - paragraph [ref=e94]: Most undergraduate engineering programmes require GECET (Graphic Era Common Entrance Test) — a 90-minute online test. JEE Main, CUET, GATE, MAT and CAT scores are also accepted for relevant programmes.
+        - listitem [ref=e95]:
+          - generic [ref=e96]: "04"
+          - generic [ref=e97]:
+            - heading "Counselling & Provisional Offer" [level=3] [ref=e98]
+            - paragraph [ref=e99]: Shortlisted candidates are invited for counselling. The provisional offer letter is sent within 48 hours of counselling along with the fee schedule and scholarship slab.
+        - listitem [ref=e100]:
+          - generic [ref=e101]: "05"
+          - generic [ref=e102]:
+            - heading "Pay Fee & Confirm Seat" [level=3] [ref=e103]
+            - paragraph [ref=e104]: Pay the first-instalment tuition fee online to confirm your seat. Hostel allotment and orientation schedule are shared once the fee is received.
+    - generic [ref=e106]:
+      - heading "Scholarship" [level=2] [ref=e107]
+      - paragraph [ref=e108]: Merit-based scholarships are offered for the entire duration of the programme. The slab is awarded at the time of admission and continues year-on-year, subject to maintaining the minimum CGPA threshold.
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e111]: 100% Tuition Waiver
+          - generic [ref=e112]: ≥ 95% in 12th board / GECET top 100
+        - generic [ref=e113]:
+          - generic [ref=e114]: 75% Tuition Waiver
+          - generic [ref=e115]: ≥ 90% in 12th board / GECET top 500
+        - generic [ref=e116]:
+          - generic [ref=e117]: 50% Tuition Waiver
+          - generic [ref=e118]: ≥ 85% in 12th board / GECET top 1000
+        - generic [ref=e119]:
+          - generic [ref=e120]: 25% Tuition Waiver
+          - generic [ref=e121]: ≥ 80% in 12th board / merit basis
+      - paragraph [ref=e122]: Additional 10% sibling waiver · Defence personnel children waiver · Single girl-child scholarship · Sports excellence waiver. Full details shared during counselling.
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - heading "GECET 2026" [level=2] [ref=e126]
+        - paragraph [ref=e127]: Graphic Era Common Entrance Test (GECET) is the university's own online aptitude test, conducted in multiple windows between February and July 2026. The test covers Mathematics, Physics, Chemistry, Logical Reasoning and English. 90 minutes, 75 questions, conducted online.
+        - list [ref=e128]:
+          - listitem [ref=e129]: "✓ Three test windows: Feb, May and July 2026"
+          - listitem [ref=e130]: ✓ Negative marking · 4 marks per correct answer, −1 wrong
+          - listitem [ref=e131]: ✓ Result declared within 7 days · counselling within 14 days
+          - listitem [ref=e132]: ✓ JEE Main, CUET, GATE, MAT, CAT scores accepted in lieu
+      - generic [ref=e134]:
+        - paragraph [ref=e135]: GECET — Important Dates
+        - list [ref=e136]:
+          - listitem [ref=e137]:
+            - generic [ref=e138]: Registration opens
+            - generic [ref=e139]: 15 Jan 2026
+          - listitem [ref=e140]:
+            - generic [ref=e141]: Window 1 test
+            - generic [ref=e142]: 22 Feb 2026
+          - listitem [ref=e143]:
+            - generic [ref=e144]: Window 2 test
+            - generic [ref=e145]: 10 May 2026
+          - listitem [ref=e146]:
+            - generic [ref=e147]: Window 3 test
+            - generic [ref=e148]: 05 Jul 2026
+          - listitem [ref=e149]:
+            - generic [ref=e150]: Counselling
+            - generic [ref=e151]: Rolling · within 14 days
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - img "Library / classroom at Graphic Era" [ref=e155]
+        - generic [ref=e156]:
+          - paragraph [ref=e157]: 85+ Programmes · 6 Domains
+          - heading "Engineering · Management · Sciences · Pharmacy · Hospitality · Humanities" [level=3] [ref=e158]
+      - heading "Programmes at Graphic Era" [level=2] [ref=e159]
+      - paragraph [ref=e160]: 85+ UG, PG and Doctoral programmes spread across six broad domains. Click any programme during counselling to see the full curriculum, fee structure and scholarship eligibility.
+      - generic [ref=e161]:
+        - article [ref=e162]:
+          - heading "Engineering & Technology" [level=3] [ref=e163]
+          - list [ref=e164]:
+            - listitem [ref=e165]: B.Tech CSE
+            - listitem [ref=e166]: B.Tech CSE (AI/ML)
+            - listitem [ref=e167]: B.Tech CSE (Data Science)
+            - listitem [ref=e168]: B.Tech ECE
+            - listitem [ref=e169]: B.Tech Mechanical
+            - listitem [ref=e170]: B.Tech Civil
+            - listitem [ref=e171]: M.Tech CSE / VLSI
+        - article [ref=e172]:
+          - heading "Management & Commerce" [level=3] [ref=e173]
+          - list [ref=e174]:
+            - listitem [ref=e175]: BBA
+            - listitem [ref=e176]: BBA (Hons.)
+            - listitem [ref=e177]: B.Com (Hons.)
+            - listitem [ref=e178]: MBA
+            - listitem [ref=e179]: MBA Analytics
+        - article [ref=e180]:
+          - heading "Computer Applications" [level=3] [ref=e181]
+          - list [ref=e182]:
+            - listitem [ref=e183]: BCA
+            - listitem [ref=e184]: BCA AI
+            - listitem [ref=e185]: MCA
+            - listitem [ref=e186]: MCA Cloud Computing
+        - article [ref=e187]:
+          - heading "Pharmacy & Health" [level=3] [ref=e188]
+          - list [ref=e189]:
+            - listitem [ref=e190]: B.Pharm
+            - listitem [ref=e191]: M.Pharm (Pharmaceutics / Pharmacology)
+            - listitem [ref=e192]: B.Sc. Nursing
+            - listitem [ref=e193]: BPT
+        - article [ref=e194]:
+          - heading "Sciences & Humanities" [level=3] [ref=e195]
+          - list [ref=e196]:
+            - listitem [ref=e197]: B.Sc. (Hons.) Maths / Physics / Chem.
+            - listitem [ref=e198]: BA Eng. / Pol. Sc. / Eco. (Hons.)
+            - listitem [ref=e199]: M.Sc. Maths / Physics / Chem.
+            - listitem [ref=e200]: MA English / Eco.
+        - article [ref=e201]:
+          - heading "Hospitality & Food Tech" [level=3] [ref=e202]
+          - list [ref=e203]:
+            - listitem [ref=e204]: BHMCT (Hotel Management)
+            - listitem [ref=e205]: B.Sc. Hospitality
+            - listitem [ref=e206]: B.Tech Food Tech.
+            - listitem [ref=e207]: M.Tech Food Tech.
+    - generic [ref=e209]:
+      - heading "Placements at Graphic Era" [level=2] [ref=e210]
+      - paragraph [ref=e211]:
+        - text: Graphic Era recorded its highest-ever package of
+        - strong [ref=e212]: ₹61.99 LPA
+        - text: in 2025 with
+        - strong [ref=e213]: 5,700+ placement offers
+        - text: from
+        - strong [ref=e214]: 444+ recruiters
+        - text: . Average package for the CSE 2025 batch was ₹23.26 LPA.
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - paragraph [ref=e217]: ₹61.99 L
+          - paragraph [ref=e218]: Highest Package · 2025
+        - generic [ref=e219]:
+          - paragraph [ref=e220]: ₹23.26 L
+          - paragraph [ref=e221]: Avg. CSE Package · 2025
+        - generic [ref=e222]:
+          - paragraph [ref=e223]: 5,700+
+          - paragraph [ref=e224]: Offers · 2025
+        - generic [ref=e225]:
+          - paragraph [ref=e226]: 444+
+          - paragraph [ref=e227]: Recruiters Visiting
+      - generic [ref=e228]:
+        - generic [ref=e229]: Google
+        - generic [ref=e230]: Adobe
+        - generic [ref=e231]: Amazon
+        - generic [ref=e232]: Microsoft
+        - generic [ref=e233]: Morgan Stanley
+        - generic [ref=e234]: Goldman Sachs
+        - generic [ref=e235]: Flipkart
+        - generic [ref=e236]: SAP
+        - generic [ref=e237]: Infosys
+        - generic [ref=e238]: TCS
+        - generic [ref=e239]: Wipro
+        - generic [ref=e240]: Deloitte
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - heading "Admissions 2026" [level=2] [ref=e244]
+        - paragraph [ref=e245]: Fill the application form. Admissions team will get in touch within 24 hours with your eligibility, GECET schedule, scholarship slab and document checklist.
+        - generic [ref=e246]:
+          - generic [ref=e247]:
+            - paragraph [ref=e248]: Helpline
+            - paragraph [ref=e249]: 1800 270 1010
+          - generic [ref=e250]:
+            - paragraph [ref=e251]: Email
+            - paragraph [ref=e252]: admissions@geu.ac.in
+          - generic [ref=e253]:
+            - paragraph [ref=e254]: Campus
+            - paragraph [ref=e255]: 566/6 Bell Road, Clement Town, Dehradun – 248002
+      - generic [ref=e257]:
+        - paragraph [ref=e258]: Application Form
+        - heading "Apply for Graphic Era Admission 2026" [level=3] [ref=e259]
+        - form "Graphic Era admissions enquiry form" [ref=e260]:
+          - generic [ref=e261]:
+            - generic [ref=e262]: Full Name*
+            - textbox "Full Name" [ref=e263]:
+              - /placeholder: Your full name
+          - generic [ref=e264]:
+            - generic [ref=e265]: Phone Number*
+            - textbox "Phone Number" [ref=e266]:
+              - /placeholder: 10-digit mobile number
+          - generic [ref=e267]:
+            - generic [ref=e268]: Email ID
+            - textbox "Email ID" [ref=e269]:
+              - /placeholder: Your email address
+          - generic [ref=e270]:
+            - generic [ref=e271]: State*
+            - combobox "State" [ref=e272]:
+              - option "-- Select State --" [disabled] [selected]
+              - option "Uttarakhand"
+              - option "Uttar Pradesh"
+              - option "Delhi"
+              - option "Haryana"
+              - option "Punjab"
+              - option "Himachal Pradesh"
+              - option "Rajasthan"
+              - option "Bihar"
+              - option "Madhya Pradesh"
+              - option "Maharashtra"
+              - option "Karnataka"
+              - option "Tamil Nadu"
+              - option "West Bengal"
+              - option "Gujarat"
+              - option "Kerala"
+              - option "Andhra Pradesh"
+              - option "Telangana"
+              - option "Odisha"
+              - option "Jharkhand"
+              - option "Assam"
+              - option "Other"
+          - generic [ref=e273]:
+            - generic [ref=e274]: Programme of Interest*
+            - combobox "Programme of Interest" [ref=e275]:
+              - option "-- Select Programme --" [disabled] [selected]
+              - option "B.Tech CSE"
+              - option "B.Tech CSE (AI/ML)"
+              - option "B.Tech ECE"
+              - option "B.Tech Mechanical / Civil"
+              - option "BCA / MCA"
+              - option "BBA / MBA"
+              - option "B.Com (Hons.)"
+              - option "B.Pharm / M.Pharm"
+              - option "B.Sc / M.Sc"
+              - option "BHMCT / Hospitality"
+              - option "Other"
+          - generic [ref=e276]:
+            - checkbox "I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND." [ref=e277]
+            - generic [ref=e278]: I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND.
+          - button "Submit Application" [ref=e279]
+    - generic [ref=e281]:
+      - heading "Frequently Asked Questions" [level=2] [ref=e282]
+      - generic [ref=e283]:
+        - group [ref=e284]:
+          - generic "Is Graphic Era recognised by UGC? +" [ref=e285] [cursor=pointer]
+        - group [ref=e286]:
+          - generic "Does Graphic Era outsource its admission process? +" [ref=e287] [cursor=pointer]
+        - group [ref=e288]:
+          - generic "What entrance exams are accepted? +" [ref=e289] [cursor=pointer]
+        - group [ref=e290]:
+          - generic "Are hostels available? +" [ref=e291] [cursor=pointer]
+    - contentinfo [ref=e292]:
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - paragraph [ref=e296]: Graphic Era
+            - paragraph [ref=e297]: deemed to be University · Dehradun
+            - paragraph [ref=e298]: 566/6 Bell Road, Clement Town, Dehradun, Uttarakhand – 248002
+          - generic [ref=e299]:
+            - paragraph [ref=e300]: Admissions
+            - paragraph [ref=e301]:
+              - text: Helpline · 1800 270 1010
+              - text: Email · admissions@geu.ac.in
+          - generic [ref=e302]:
+            - paragraph [ref=e303]: Quick Links
+            - list [ref=e304]:
+              - listitem [ref=e305]:
+                - link "Admission Process" [ref=e306] [cursor=pointer]:
+                  - /url: "#process"
+              - listitem [ref=e307]:
+                - link "Scholarship" [ref=e308] [cursor=pointer]:
+                  - /url: "#scholarship"
+              - listitem [ref=e309]:
+                - link "GECET" [ref=e310] [cursor=pointer]:
+                  - /url: "#gecet"
+              - listitem [ref=e311]:
+                - link "Apply Now" [ref=e312] [cursor=pointer]:
+                  - /url: "#apply"
+              - listitem [ref=e313]:
+                - link "Privacy Policy" [ref=e314] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e315]:
+                - link "Terms of Service" [ref=e316] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e317]:
+          - paragraph [ref=e318]: © 2026 Graphic Era Admissions. All rights reserved.
+          - paragraph [ref=e319]: NAAC A+ · UGC Recognised Deemed University
+  - button "Open Next.js Dev Tools" [ref=e325] [cursor=pointer]:
+    - img [ref=e326]

@@ -1,0 +1,203 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://www.uudoon.in/
+      - generic [ref=e8]:
+        - generic [ref=e11]:
+          - link "18002124201" [ref=e12] [cursor=pointer]:
+            - /url: tel:18002124201
+          - link "18002124221" [ref=e13] [cursor=pointer]:
+            - /url: tel:18002124221
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - link "Home" [ref=e17] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=e18]:
+            - link "Placement" [ref=e19] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=e20]:
+            - link "Programs Offered" [ref=e21] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=e22]:
+            - link "Campus Life" [ref=e23] [cursor=pointer]:
+              - /url: javascript:void(0)
+  - 'heading "UNVEILING OUR TRIUMPHS: WITNESS OUR CAPABILITIES IN ACHIEVEMENTS AND ACCOLADES!" [level=2] [ref=e35]':
+    - generic [ref=e36]: "UNVEILING OUR TRIUMPHS:"
+    - text: WITNESS OUR CAPABILITIES IN ACHIEVEMENTS AND ACCOLADES!
+  - img "Uttaranchal University" [ref=e48]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]: After UU What Comes Next?
+        - 'heading "STEP INTO A PROMISING TOMORROW: with EXCEPTIONAL GLOBAL OPPORTUNITIES" [level=2] [ref=e53]':
+          - text: "STEP INTO A PROMISING TOMORROW:"
+          - text: with EXCEPTIONAL GLOBAL OPPORTUNITIES
+      - generic [ref=e54]:
+        - generic [ref=e56]:
+          - generic [ref=e57]: 1200+
+          - generic [ref=e58]: Recruiters
+        - generic [ref=e60]:
+          - generic [ref=e61]: 1.5 CR
+          - generic [ref=e62]: International Package
+        - generic [ref=e64]:
+          - generic [ref=e65]: 55 LPA
+          - generic [ref=e66]: Domestic Package
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - text: 25K+
+            - superscript
+          - generic [ref=e70]: Glorious Alumni in Top Corporates
+    - generic [ref=e112]:
+      - heading "UNLOCK THE SECRET OF GETTING HIRED WITH THE BEST!" [level=3] [ref=e113]:
+        - text: UNLOCK THE SECRET OF
+        - text: GETTING HIRED WITH THE BEST!
+      - generic [ref=e114]:
+        - paragraph [ref=e118]:
+          - img "Personality Grooming" [ref=e119]
+          - text: Personality Grooming
+        - paragraph [ref=e123]:
+          - img "Interview Trainings" [ref=e124]
+          - text: Interview Trainings
+        - paragraph [ref=e128]:
+          - img "Industry Collaborations" [ref=e129]
+          - text: Industry Collaborations
+        - paragraph [ref=e133]:
+          - img "UpSkilling Programs" [ref=e134]
+          - text: UpSkilling Programs
+        - generic [ref=e137]:
+          - paragraph
+          - paragraph [ref=e138]:
+            - img "Campus Drives" [ref=e139]
+            - text: Campus
+            - text: Drives
+        - paragraph [ref=e143]:
+          - img "Alumni Connect & Networks" [ref=e144]
+          - text: Alumni Connect & Networks
+  - generic [ref=e150]:
+    - img "..." [ref=e156]
+    - img "..." [ref=e162]
+    - img "..." [ref=e168]
+    - img "..." [ref=e174]
+    - img "..." [ref=e180]
+  - generic [ref=e182]:
+    - 'heading "JOIN THE GLOBAL CLASSROOM: WHERE EDUCATION MEETS DIVERSE INDUSTRIES!" [level=2] [ref=e184]':
+      - text: "JOIN THE GLOBAL CLASSROOM:"
+      - text: WHERE EDUCATION MEETS DIVERSE INDUSTRIES!
+    - generic [ref=e185]:
+      - paragraph [ref=e188]:
+        - img "Conducive Learning Environment" [ref=e189]
+        - text: Conducive Learning
+        - text: Environment
+      - paragraph [ref=e192]:
+        - img "Excellent Standards of Teaching" [ref=e193]
+        - text: Excellent Standards
+        - text: of Teaching
+      - paragraph [ref=e196]:
+        - img "Highly Affordable Education" [ref=e197]
+        - text: Highly Affordable
+        - text: Education
+      - paragraph [ref=e200]:
+        - img "Scholarship Grants & Financial Assistance" [ref=e201]
+        - text: Scholarships
+      - paragraph [ref=e204]:
+        - img "Student Satisfaction" [ref=e205]
+        - text: Student
+        - text: Satisfaction
+      - paragraph [ref=e208]:
+        - img "Personalised <br>Mentorship" [ref=e209]
+        - text: Personalised
+        - text: Mentorship
+      - heading "Our Academia-Industry Partners" [level=3] [ref=e210]
+  - img "Campus Students" [ref=e222]
+  - generic [ref=e225]:
+    - generic [ref=e227]:
+      - generic [ref=e228]: Here Are Our
+      - 'heading "100+ INDUSTRY-CENTRIC PROGRAMS: To CHOOSE YOUR PATH TO EXCELLENCE!" [level=2] [ref=e229]':
+        - text: "100+ INDUSTRY-CENTRIC PROGRAMS:"
+        - text: To CHOOSE YOUR PATH TO EXCELLENCE!
+    - navigation [ref=e231]:
+      - tablist [ref=e232]:
+        - generic [ref=e233]:
+          - tab "Undergraduate Undergraduate" [ref=e236] [cursor=pointer]:
+            - img "Undergraduate" [ref=e237]
+            - text: Undergraduate
+          - tab "Postgraduate Postgraduate" [ref=e240] [cursor=pointer]:
+            - img "Postgraduate" [ref=e241]
+            - text: Postgraduate
+          - tab "Ph.D Ph.D" [ref=e244] [cursor=pointer]:
+            - img "Ph.D" [ref=e245]
+            - text: Ph.D
+  - img "That’s Not All!" [ref=e248]
+  - generic [ref=e250]:
+    - 'heading "DISCOVER THE ''U''NIQUE OFFERINGS: CARVE YOUR PATH TO SUCCESS!" [level=2] [ref=e252]':
+      - text: "DISCOVER THE 'U'NIQUE OFFERINGS:"
+      - text: CARVE YOUR PATH TO SUCCESS!
+    - generic [ref=e254]:
+      - img "Moot Court Sessions" [ref=e257]
+      - img "Executive Development Programs" [ref=e260]
+      - img "Hands-on Lab Experience" [ref=e263]
+      - img "Extempore & Debates" [ref=e266]
+      - img "Competitive Hackathons" [ref=e269]
+      - img "Personality Development & Grooming" [ref=e272]
+  - generic [ref=e274]:
+    - heading "REVOLUTIONIZING THROUGH RESEARCH & INNOVATION AT UU!" [level=2] [ref=e276]:
+      - text: REVOLUTIONIZING THROUGH
+      - generic [ref=e277]: RESEARCH & INNOVATION AT UU!
+    - generic [ref=e279]:
+      - generic [ref=e280]:
+        - generic [ref=e281]: 6000+
+        - paragraph [ref=e282]: Paper Publications
+      - generic [ref=e283]:
+        - generic [ref=e284]: 730+
+        - paragraph [ref=e285]: IPR/Patents
+      - generic [ref=e286]:
+        - generic [ref=e287]: 160+
+        - paragraph [ref=e288]: IPR Grants
+      - generic [ref=e289]:
+        - generic [ref=e290]: 45+
+        - paragraph [ref=e291]: International IPR
+      - generic [ref=e292]:
+        - generic [ref=e293]: 05+
+        - paragraph [ref=e294]: Technology Transfers
+      - generic [ref=e295]:
+        - generic [ref=e296]: 20+
+        - paragraph [ref=e297]: Start-Ups
+  - generic [ref=e298]:
+    - 'heading "MEET YOUR ROLE MODELS: THEIR LIFE, YOUR INSPIRATION!" [level=2] [ref=e300]':
+      - text: "MEET YOUR ROLE MODELS:"
+      - generic [ref=e301]: THEIR LIFE, YOUR INSPIRATION!
+    - img "Eminent Speakers" [ref=e302]
+  - generic [ref=e304]:
+    - 'heading "UNIVERSITY GOING GLOBAL: YOUR GATEWAY TO WORLDWIDE EXPOSURE!" [level=2] [ref=e306]':
+      - text: "UNIVERSITY GOING GLOBAL:"
+      - text: YOUR GATEWAY TO WORLDWIDE EXPOSURE!
+    - generic [ref=e308]:
+      - paragraph [ref=e310]:
+        - text: International University
+        - text: Exchange Programs
+      - paragraph [ref=e312]:
+        - text: National & International
+        - text: Hackathons
+      - paragraph [ref=e314]:
+        - text: International
+        - text: Visiting Professors
+      - paragraph [ref=e316]:
+        - text: Professors of
+        - text: Practice
+      - paragraph [ref=e318]: Adjunct Professors
+      - paragraph [ref=e320]: Industry Experts
+  - generic [ref=e322]:
+    - 'heading "FROM ASPIRATION TO REALITY: JOIN OUR ENTREPRENEURIAL STUDENT COMMUNITY!" [level=2] [ref=e324]':
+      - text: "FROM ASPIRATION TO REALITY:"
+      - text: JOIN OUR ENTREPRENEURIAL STUDENT COMMUNITY!
+    - img "Students Start-Ups" [ref=e325]
+  - generic [ref=e328]:
+    - heading "Uttaranchal University Placement Success 2025" [level=2] [ref=e329]
+    - link "play-btn":
+      - /url: https://www.youtube.com/watch?v=rJtiWK2-1dY
+      - img [ref=e332] [cursor=pointer]
+  - contentinfo [ref=e334]:
+    - paragraph [ref=e335]:
+      - link "© Copyright Uttaranchal University. All Rights Reserved." [ref=e336] [cursor=pointer]:
+        - /url: https://www.uudoon.in/

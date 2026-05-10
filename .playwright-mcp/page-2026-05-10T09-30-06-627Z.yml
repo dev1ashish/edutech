@@ -1,0 +1,672 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - paragraph [ref=e5]: Admissions are open across all 4 partner universities. Talk to a counsellor today — no fees.
+      - generic [ref=e6]:
+        - link "+91-9000000000" [ref=e7] [cursor=pointer]:
+          - /url: tel:+919000000000
+        - generic [ref=e8]: "|"
+        - link "admissions@edutechsolutions.in" [ref=e9] [cursor=pointer]:
+          - /url: mailto:admissions@edutechsolutions.in
+    - generic [ref=e11]:
+      - link "Edutech Solutions Counselling · Placement · Career" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img [ref=e14]:
+          - generic [ref=e16]: E
+        - generic [ref=e17]:
+          - generic [ref=e18]: Edutech Solutions
+          - generic [ref=e19]: Counselling · Placement · Career
+      - navigation [ref=e20]:
+        - link "Universities" [ref=e21] [cursor=pointer]:
+          - /url: "#partners"
+        - link "Programmes" [ref=e22] [cursor=pointer]:
+          - /url: "#programs"
+        - link "How it works" [ref=e23] [cursor=pointer]:
+          - /url: "#process"
+        - link "Placements" [ref=e24] [cursor=pointer]:
+          - /url: "#placements"
+        - link "FAQ" [ref=e25] [cursor=pointer]:
+          - /url: "#faq"
+      - generic [ref=e26]:
+        - link "WhatsApp" [ref=e27] [cursor=pointer]:
+          - /url: https://wa.me/919000000000?text=Hi%2C%20I'd%20like%20to%20talk%20to%20a%20counsellor%20about%20admissions.
+          - img [ref=e28]
+          - text: WhatsApp
+        - link "Free counselling" [ref=e30] [cursor=pointer]:
+          - /url: "#counselling"
+  - main [ref=e31]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e37]: Estd. 2020 · Dehradun, Uttarakhand
+        - heading "The right university starts with the right counsel." [level=1] [ref=e38]:
+          - text: The right university
+          - text: starts with the right counsel.
+        - paragraph [ref=e39]: Free 1-on-1 admission counselling for Uttarakhand's most respected universities — UPES, Graphic Era, Uttaranchal University and Dev Bhoomi. Placements verified up to ₹61.99 LPA across our partner campuses in 2025.
+        - generic [ref=e40]:
+          - link "Get free counselling" [ref=e41] [cursor=pointer]:
+            - /url: "#counselling"
+            - text: Get free counselling
+            - img [ref=e42]
+          - link "See partner universities" [ref=e44] [cursor=pointer]:
+            - /url: "#partners"
+        - generic [ref=e45]:
+          - generic [ref=e46]: 12,000+ aspirants counselled
+          - generic [ref=e48]: 4 partner universities
+          - generic [ref=e50]: 92% placement rate
+      - generic [ref=e53]:
+        - link "UPES crest UPES Est. 2003 · Dehradun Highest ₹52 LPA" [ref=e54] [cursor=pointer]:
+          - /url: /upes
+          - img "UPES crest" [ref=e55]:
+            - generic [ref=e62]: UPES
+            - generic [ref=e63]: EST
+          - generic [ref=e64]:
+            - paragraph [ref=e65]: UPES
+            - paragraph [ref=e66]: Est. 2003 · Dehradun
+          - generic [ref=e67]: Highest ₹52 LPA
+        - link "GE crest Graphic Era Est. 1993 · Dehradun Highest ₹61.99 LPA" [ref=e68] [cursor=pointer]:
+          - /url: /graphic-era
+          - img "GE crest" [ref=e69]:
+            - generic [ref=e76]: GE
+            - generic [ref=e77]: EST
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: Graphic Era
+            - paragraph [ref=e80]: Est. 1993 · Dehradun
+          - generic [ref=e81]: Highest ₹61.99 LPA
+        - link "UU crest Uttaranchal University Est. 2013 · Dehradun Highest ₹1.5 Cr" [ref=e82] [cursor=pointer]:
+          - /url: /uttaranchal-university
+          - img "UU crest" [ref=e83]:
+            - generic [ref=e90]: UU
+            - generic [ref=e91]: EST
+          - generic [ref=e92]:
+            - paragraph [ref=e93]: Uttaranchal University
+            - paragraph [ref=e94]: Est. 2013 · Dehradun
+          - generic [ref=e95]: Highest ₹1.5 Cr
+        - link "DB crest Dev Bhoomi Est. 2008 · Dehradun Highest ₹24 LPA" [ref=e96] [cursor=pointer]:
+          - /url: /dev-bhoomi
+          - img "DB crest" [ref=e97]:
+            - generic [ref=e104]: DB
+            - generic [ref=e105]: EST
+          - generic [ref=e106]:
+            - paragraph [ref=e107]: Dev Bhoomi
+            - paragraph [ref=e108]: Est. 2008 · Dehradun
+          - generic [ref=e109]: Highest ₹24 LPA
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - paragraph [ref=e116]: By the numbers
+          - heading "Outcomes you can ask the universities themselves about." [level=2] [ref=e117]:
+            - text: Outcomes you can ask the
+            - text: universities themselves about.
+        - paragraph [ref=e118]: Figures aggregated from publicly reported 2025 placements at our four partner universities. Outcomes vary by programme and individual.
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - term [ref=e121]: Verified
+          - definition [ref=e122]:
+            - paragraph [ref=e123]: ₹61.99 L
+            - paragraph [ref=e124]: Highest package across partner campuses (2025)
+        - generic [ref=e125]:
+          - term [ref=e126]: Verified
+          - definition [ref=e127]:
+            - paragraph [ref=e128]: 800+
+            - paragraph [ref=e129]: Recruiters visited partner universities last year
+        - generic [ref=e130]:
+          - term [ref=e131]: Verified
+          - definition [ref=e132]:
+            - paragraph [ref=e133]: 92%
+            - paragraph [ref=e134]: Placement rate at flagship programmes
+        - generic [ref=e135]:
+          - term [ref=e136]: Verified
+          - definition [ref=e137]:
+            - paragraph [ref=e138]: 500+
+            - paragraph [ref=e139]: Programmes spanning 4 universities
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - paragraph [ref=e143]: Our partner universities
+        - heading "Four campuses. One trusted bridge." [level=2] [ref=e144]
+        - paragraph [ref=e145]: Each of our partner institutions is independently accredited and individually verified. We help you choose between them — not at them.
+      - generic [ref=e146]:
+        - article [ref=e147]:
+          - generic [ref=e149]:
+            - img "UPES crest" [ref=e150]:
+              - generic [ref=e157]: UPES
+              - generic [ref=e158]: EST
+            - generic [ref=e159]:
+              - paragraph [ref=e160]: NAAC A · UGC Recognised
+              - heading "University of Petroleum & Energy Studies" [level=3] [ref=e161]
+              - paragraph [ref=e162]: Est. 2003 · Dehradun, 121 programmes · 8 schools
+          - list [ref=e163]:
+            - listitem [ref=e164]:
+              - generic [ref=e166]: 8 schools — Engineering, CS, Business, Law, Health, Design, Media, Liberal Studies
+            - listitem [ref=e167]:
+              - generic [ref=e169]: 2,444 students placed in 2025 across 800 visiting companies
+            - listitem [ref=e170]:
+              - generic [ref=e172]: Industry-integrated curriculum with global immersion options
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: Highest pkg.
+              - paragraph [ref=e176]: ₹52 LPA
+            - generic [ref=e177]:
+              - paragraph [ref=e178]: Placement
+              - paragraph [ref=e179]: 92%
+            - generic [ref=e180]:
+              - paragraph [ref=e181]: Top recruiters
+              - paragraph [ref=e182]: 10+
+          - generic [ref=e183]:
+            - paragraph [ref=e184]: Flagship programmes
+            - generic [ref=e185]:
+              - generic [ref=e186]: B.Tech Computer Science
+              - generic [ref=e187]: BBA · MBA
+              - generic [ref=e188]: B.Des
+              - generic [ref=e189]: BA LLB
+          - generic [ref=e190]:
+            - link "Open UPES admissions" [ref=e191] [cursor=pointer]:
+              - /url: /upes
+              - text: Open UPES admissions
+              - img [ref=e192]
+            - link "Counselling →" [ref=e194] [cursor=pointer]:
+              - /url: "#counselling"
+        - article [ref=e195]:
+          - generic [ref=e197]:
+            - img "GE crest" [ref=e198]:
+              - generic [ref=e205]: GE
+              - generic [ref=e206]: EST
+            - generic [ref=e207]:
+              - paragraph [ref=e208]: NAAC A+ · UGC Deemed University
+              - heading "Graphic Era (Deemed-to-be-University)" [level=3] [ref=e209]
+              - paragraph [ref=e210]: Est. 1993 · Dehradun, 85 programmes
+          - list [ref=e211]:
+            - listitem [ref=e212]:
+              - generic [ref=e214]: 5,700+ placement offers in 2025 from 444+ recruiters
+            - listitem [ref=e215]:
+              - generic [ref=e217]: 85+ UG, PG and doctoral programmes
+            - listitem [ref=e218]:
+              - generic [ref=e220]: Strong engineering, management and applied sciences ecosystem
+          - generic [ref=e221]:
+            - generic [ref=e222]:
+              - paragraph [ref=e223]: Highest pkg.
+              - paragraph [ref=e224]: ₹61.99 LPA
+            - generic [ref=e225]:
+              - paragraph [ref=e226]: Programmes
+              - paragraph [ref=e227]: 85+
+            - generic [ref=e228]:
+              - paragraph [ref=e229]: Top recruiters
+              - paragraph [ref=e230]: 10+
+          - generic [ref=e231]:
+            - paragraph [ref=e232]: Flagship programmes
+            - generic [ref=e233]:
+              - generic [ref=e234]: B.Tech CSE
+              - generic [ref=e235]: MBA
+              - generic [ref=e236]: BCA · MCA
+              - generic [ref=e237]: B.Pharm
+          - generic [ref=e238]:
+            - link "Open Graphic Era admissions" [ref=e239] [cursor=pointer]:
+              - /url: /graphic-era
+              - text: Open Graphic Era admissions
+              - img [ref=e240]
+            - link "Counselling →" [ref=e242] [cursor=pointer]:
+              - /url: "#counselling"
+        - article [ref=e243]:
+          - generic [ref=e245]:
+            - img "UU crest" [ref=e246]:
+              - generic [ref=e253]: UU
+              - generic [ref=e254]: EST
+            - generic [ref=e255]:
+              - paragraph [ref=e256]: NAAC A+ · UGC Recognised
+              - heading "Uttaranchal University" [level=3] [ref=e257]
+              - paragraph [ref=e258]: Est. 2013 · Dehradun, 143 programmes · 12 schools
+          - list [ref=e259]:
+            - listitem [ref=e260]:
+              - generic [ref=e262]: 12 streams · 143 programmes including AI/ML, Cybersecurity, Cloud
+            - listitem [ref=e263]:
+              - generic [ref=e265]: NAAC A+ accreditation — among Uttarakhand's highest
+            - listitem [ref=e266]:
+              - generic [ref=e268]: Approved by UGC, AICTE, BCI, PCI and other regulators
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: Highest pkg.
+              - paragraph [ref=e272]: ₹1.5 Cr
+            - generic [ref=e273]:
+              - paragraph [ref=e274]: Placement
+              - paragraph [ref=e275]: 80%+
+            - generic [ref=e276]:
+              - paragraph [ref=e277]: Top recruiters
+              - paragraph [ref=e278]: 10+
+          - generic [ref=e279]:
+            - paragraph [ref=e280]: Flagship programmes
+            - generic [ref=e281]:
+              - generic [ref=e282]: B.Tech CSE (AI/ML)
+              - generic [ref=e283]: BBA · MBA
+              - generic [ref=e284]: BA LLB
+              - generic [ref=e285]: B.Pharm
+          - generic [ref=e286]:
+            - link "Open Uttaranchal University admissions" [ref=e287] [cursor=pointer]:
+              - /url: /uttaranchal-university
+              - text: Open Uttaranchal University admissions
+              - img [ref=e288]
+            - link "Counselling →" [ref=e290] [cursor=pointer]:
+              - /url: "#counselling"
+        - article [ref=e291]:
+          - generic [ref=e293]:
+            - img "DB crest" [ref=e294]:
+              - generic [ref=e301]: DB
+              - generic [ref=e302]: EST
+            - generic [ref=e303]:
+              - paragraph [ref=e304]: UGC Recognised · State Private University
+              - heading "Dev Bhoomi Uttarakhand University" [level=3] [ref=e305]
+              - paragraph [ref=e306]: Est. 2008 · Dehradun, 170 programmes · 10 schools
+          - list [ref=e307]:
+            - listitem [ref=e308]:
+              - generic [ref=e310]: 170 programmes across 17 streams — UG, PG, Diploma & PhD
+            - listitem [ref=e311]:
+              - generic [ref=e313]: Industry-aligned curriculum with strong applied focus
+            - listitem [ref=e314]:
+              - generic [ref=e316]: Multiple intakes and DBUU-CET — flexible for late applicants
+          - generic [ref=e317]:
+            - generic [ref=e318]:
+              - paragraph [ref=e319]: Highest pkg.
+              - paragraph [ref=e320]: ₹24 LPA
+            - generic [ref=e321]:
+              - paragraph [ref=e322]: Programmes
+              - paragraph [ref=e323]: 170+
+            - generic [ref=e324]:
+              - paragraph [ref=e325]: Top recruiters
+              - paragraph [ref=e326]: 10+
+          - generic [ref=e327]:
+            - paragraph [ref=e328]: Flagship programmes
+            - generic [ref=e329]:
+              - generic [ref=e330]: B.Tech CSE
+              - generic [ref=e331]: B.Pharm · Pharm.D
+              - generic [ref=e332]: MBA · BBA
+              - generic [ref=e333]: BCA
+          - generic [ref=e334]:
+            - link "Open Dev Bhoomi admissions" [ref=e335] [cursor=pointer]:
+              - /url: /dev-bhoomi
+              - text: Open Dev Bhoomi admissions
+              - img [ref=e336]
+            - link "Counselling →" [ref=e338] [cursor=pointer]:
+              - /url: "#counselling"
+    - generic [ref=e341]:
+      - complementary [ref=e342]:
+        - paragraph [ref=e343]: Our editorial promise
+        - heading "We work for the student." [level=2] [ref=e344]:
+          - text: We work for the
+          - text: student.
+        - generic [ref=e345]: est. 2018
+      - generic [ref=e346]:
+        - paragraph [ref=e347]: Choosing a university is, for most families in India, the most significant financial and emotional decision they will make together. It deserves more than a glossy brochure and a follow-up call.
+        - paragraph [ref=e348]: "Edutech Solutions was founded on a contrarian premise: that the student is the client, even though the university pays the bill. When those interests align, we take the case. When they don't, we tell the family — and walk away from the commission."
+        - paragraph [ref=e349]: That's the discipline behind our four-university partnership with UPES, Graphic Era, Uttaranchal University and Dev Bhoomi. Each institution carries a different academic identity and a different placement profile. Counselling is the work of telling you which of those four matches your goals — and which doesn't.
+        - paragraph [ref=e350]: We do this work in plain language, in your local language if you'd like, and on your timeline. The phone call is free. The advice is honest. The decision, always, is yours.
+    - generic [ref=e352]:
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - paragraph [ref=e355]: Programmes we counsel for
+          - heading "From engineering and law to design and pharmacy." [level=2] [ref=e356]
+        - paragraph [ref=e357]: Six programme families, 500+ specialisations, four campuses — and one counsellor who knows the difference between them all.
+      - generic [ref=e358]:
+        - article [ref=e359]:
+          - generic [ref=e360]:
+            - generic [ref=e361]: "01."
+            - generic [ref=e362]: 4 yrs · 2 yrs
+          - heading "Engineering & Technology" [level=3] [ref=e363]
+          - paragraph [ref=e364]: B.Tech and M.Tech in CSE, AI/ML, Cybersecurity, Cloud, Mechanical, Civil and Petroleum across all four campuses.
+          - generic [ref=e365]:
+            - generic [ref=e366]: B.Tech CSE
+            - generic [ref=e367]: B.Tech AI/ML
+            - generic [ref=e368]: M.Tech Cyber Security
+        - article [ref=e369]:
+          - generic [ref=e370]:
+            - generic [ref=e371]: "02."
+            - generic [ref=e372]: 3 yrs · 2 yrs
+          - heading "Management & Commerce" [level=3] [ref=e373]
+          - paragraph [ref=e374]: BBA, MBA and integrated commerce programmes with specialisations in Finance, Marketing, HR and Business Analytics.
+          - generic [ref=e375]:
+            - generic [ref=e376]: BBA
+            - generic [ref=e377]: MBA (Finance)
+            - generic [ref=e378]: B.Com (Hons.)
+        - article [ref=e379]:
+          - generic [ref=e380]:
+            - generic [ref=e381]: "03."
+            - generic [ref=e382]: 3 yrs · 2 yrs
+          - heading "Computer Applications" [level=3] [ref=e383]
+          - paragraph [ref=e384]: BCA and MCA tracks with electives in Data Science, Full-Stack Development and Cloud Engineering.
+          - generic [ref=e385]:
+            - generic [ref=e386]: BCA
+            - generic [ref=e387]: MCA
+            - generic [ref=e388]: BCA Data Science
+        - article [ref=e389]:
+          - generic [ref=e390]:
+            - generic [ref=e391]: "04."
+            - generic [ref=e392]: 5 yrs · 1 yr
+          - heading "Law" [level=3] [ref=e393]
+          - paragraph [ref=e394]: Five-year integrated BA LLB and BBA LLB, plus LLM specialisations approved by the Bar Council of India.
+          - generic [ref=e395]:
+            - generic [ref=e396]: BA LLB
+            - generic [ref=e397]: BBA LLB
+            - generic [ref=e398]: LLM
+        - article [ref=e399]:
+          - generic [ref=e400]:
+            - generic [ref=e401]: "05."
+            - generic [ref=e402]: 4 yrs · 6 yrs
+          - heading "Pharmacy & Health Sciences" [level=3] [ref=e403]
+          - paragraph [ref=e404]: PCI-approved B.Pharm, Pharm.D, M.Pharm, plus BPT, B.Sc Nursing and allied paramedical streams.
+          - generic [ref=e405]:
+            - generic [ref=e406]: B.Pharm
+            - generic [ref=e407]: Pharm.D
+            - generic [ref=e408]: B.Sc Nursing
+        - article [ref=e409]:
+          - generic [ref=e410]:
+            - generic [ref=e411]: "06."
+            - generic [ref=e412]: 3-4 yrs
+          - heading "Design, Media & Liberal Studies" [level=3] [ref=e413]
+          - paragraph [ref=e414]: B.Des, BA Journalism, BA Liberal Arts and Mass Communication — programmes built for India's creative economy.
+          - generic [ref=e415]:
+            - generic [ref=e416]: B.Des
+            - generic [ref=e417]: BA Journalism
+            - generic [ref=e418]: BA Liberal Arts
+      - paragraph [ref=e419]:
+        - text: Don't see what you're looking for?
+        - link "Ask a counsellor" [ref=e420] [cursor=pointer]:
+          - /url: "#counselling"
+        - text: — we cover 500+ programmes across the four universities.
+    - generic [ref=e422]:
+      - generic [ref=e423]:
+        - paragraph [ref=e424]: How counselling works
+        - heading "Four steps, one straight line from interest to admit." [level=2] [ref=e425]
+      - list [ref=e426]:
+        - listitem [ref=e428]:
+          - generic [ref=e429]:
+            - generic [ref=e431]: "01"
+            - generic [ref=e432]: 2 min
+          - heading "Share your details" [level=3] [ref=e433]
+          - paragraph [ref=e434]: Tell us your scores, interests and any constraints — budget, location, family preferences. Two minutes, one form.
+        - listitem [ref=e435]:
+          - generic [ref=e436]:
+            - generic [ref=e438]: "02"
+            - generic [ref=e439]: 30 min call
+          - heading "1-on-1 counselling" [level=3] [ref=e440]
+          - paragraph [ref=e441]: A senior counsellor walks you through the four campuses, programme fit, fees, scholarships and career outcomes.
+        - listitem [ref=e442]:
+          - generic [ref=e443]:
+            - generic [ref=e445]: "03"
+            - generic [ref=e446]: 1-2 weeks
+          - heading "Shortlist & apply" [level=3] [ref=e447]
+          - paragraph [ref=e448]: We help you shortlist 2-3 programmes that genuinely fit you and guide every step of the application — forms, documents, interview prep.
+        - listitem [ref=e449]:
+          - generic [ref=e450]:
+            - generic [ref=e452]: "04"
+            - generic [ref=e453]: Until day-zero
+          - heading "Admit, scholarship, onboarding" [level=3] [ref=e454]
+          - paragraph [ref=e455]: We negotiate the best scholarship slab you qualify for and stay with you through fee deposit, hostel allotment and orientation.
+    - generic [ref=e458]:
+      - generic [ref=e459]:
+        - paragraph [ref=e460]: Talk to a counsellor
+        - heading "Tell us about you. We'll bring the campus." [level=2] [ref=e461]:
+          - text: Tell us about you.
+          - text: We'll bring the campus.
+        - paragraph [ref=e462]: A senior counsellor will call you within the hour. No auto-dialler, no pre-recorded message — a real conversation with someone who knows the campuses.
+        - list [ref=e463]:
+          - listitem [ref=e464]:
+            - generic [ref=e466]:
+              - paragraph [ref=e467]: 30-minute, free, no obligation
+              - paragraph [ref=e468]: We answer your questions first. The pitch — if any — comes much later.
+          - listitem [ref=e469]:
+            - generic [ref=e471]:
+              - paragraph [ref=e472]: Honest comparisons across all 4 universities
+              - paragraph [ref=e473]: If a partner university isn't a fit, we'll say so. We work with all four — not just one.
+          - listitem [ref=e474]:
+            - generic [ref=e476]:
+              - paragraph [ref=e477]: Scholarship & fee-waiver mapping
+              - paragraph [ref=e478]: Every merit and category slab you qualify for, surfaced before you apply.
+          - listitem [ref=e479]:
+            - generic [ref=e481]:
+              - paragraph [ref=e482]: End-to-end support until day-zero
+              - paragraph [ref=e483]: Documents, interview prep, hostel allotment, fee deposit — we stay with you.
+      - form "Free counselling enquiry form" [ref=e485]:
+        - generic [ref=e488]: Free · 30-min call · No obligation
+        - generic [ref=e489]:
+          - generic [ref=e490]:
+            - generic [ref=e491]: Full name
+            - textbox "Full name" [ref=e492]:
+              - /placeholder: e.g. Aanya Kapoor
+          - generic [ref=e493]:
+            - generic [ref=e494]: Phone (WhatsApp)
+            - textbox "Phone (WhatsApp)" [ref=e495]:
+              - /placeholder: +91 90000 00000
+          - generic [ref=e496]:
+            - generic [ref=e497]:
+              - generic [ref=e498]: Programme of interest
+              - combobox "Programme of interest" [ref=e499]:
+                - option "Choose one" [disabled] [selected]
+                - option "Engineering & Technology"
+                - option "Management & Commerce"
+                - option "Computer Applications"
+                - option "Law"
+                - option "Pharmacy & Health Sciences"
+                - option "Design, Media & Liberal Studies"
+                - option "Not sure yet"
+            - generic [ref=e500]:
+              - generic [ref=e501]: Preferred university
+              - combobox "Preferred university" [ref=e502]:
+                - option "Help me decide" [selected]
+                - option "UPES"
+                - option "Graphic Era"
+                - option "Uttaranchal University"
+                - option "Dev Bhoomi"
+          - generic [ref=e503]:
+            - checkbox "I agree to be contacted by Edutech Solutionsvia call or WhatsApp about my enquiry. I've read the privacy policy." [ref=e504]
+            - generic [ref=e505]:
+              - text: I agree to be contacted by Edutech Solutionsvia call or WhatsApp about my enquiry. I've read the
+              - link "privacy policy" [ref=e506] [cursor=pointer]:
+                - /url: /privacy
+              - text: .
+          - button "Request my free counselling call" [ref=e507]
+          - generic [ref=e510]: or
+          - link "Chat on WhatsApp instead" [ref=e512] [cursor=pointer]:
+            - /url: https://wa.me/919000000000?text=Hi%2C%20I'd%20like%20counselling%20for%20university%20admissions.
+            - img [ref=e513]
+            - text: Chat on WhatsApp instead
+    - generic [ref=e517]:
+      - generic [ref=e518]:
+        - paragraph [ref=e519]: Where graduates go
+        - heading "Hired at the companies that hire." [level=2] [ref=e520]:
+          - text: Hired at the
+          - text: companies that hire.
+        - paragraph [ref=e521]:
+          - text: In 2025, the four partner universities collectively hosted
+          - strong [ref=e522]: 800+ recruiters
+          - text: and made offers across consulting, tech, finance, energy, and public-sector employers.
+        - generic [ref=e523]:
+          - generic [ref=e524]:
+            - generic [ref=e525]: Highest package, 2025
+            - generic [ref=e526]: ₹61.99 LPA
+          - generic [ref=e527]:
+            - generic [ref=e528]: Top decile (CSE, UPES)
+            - generic [ref=e529]: ₹42 LPA
+          - generic [ref=e530]:
+            - generic [ref=e531]: Average placement rate (flagship programmes)
+            - generic [ref=e532]: 92%
+      - generic [ref=e533]:
+        - paragraph [ref=e534]: Recruiters across partner campuses
+        - list [ref=e535]:
+          - listitem [ref=e536]: Google
+          - listitem [ref=e537]: Amazon
+          - listitem [ref=e538]: Microsoft
+          - listitem [ref=e539]: Adobe
+          - listitem [ref=e540]: Goldman Sachs
+          - listitem [ref=e541]: Morgan Stanley
+          - listitem [ref=e542]: Deloitte
+          - listitem [ref=e543]: Accenture
+          - listitem [ref=e544]: TCS
+          - listitem [ref=e545]: Infosys
+          - listitem [ref=e546]: Wipro
+          - listitem [ref=e547]: ONGC
+          - listitem [ref=e548]: Boeing
+          - listitem [ref=e549]: Siemens
+          - listitem [ref=e550]: Hyundai
+          - listitem [ref=e551]: PwC
+          - listitem [ref=e552]: EY
+          - listitem [ref=e553]: KPMG
+          - listitem [ref=e554]: Maruti Suzuki
+          - listitem [ref=e555]: HCL
+        - generic [ref=e556]:
+          - paragraph [ref=e557]: Recent admits we've guided
+          - generic [ref=e558]:
+            - generic [ref=e559]:
+              - paragraph [ref=e560]: A.K.
+              - paragraph [ref=e561]: B.Tech CSE
+              - paragraph [ref=e562]: UPES
+            - generic [ref=e563]:
+              - paragraph [ref=e564]: R.S.
+              - paragraph [ref=e565]: MBA Finance
+              - paragraph [ref=e566]: Graphic Era
+            - generic [ref=e567]:
+              - paragraph [ref=e568]: P.M.
+              - paragraph [ref=e569]: BBA
+              - paragraph [ref=e570]: Uttaranchal
+            - generic [ref=e571]:
+              - paragraph [ref=e572]: S.N.
+              - paragraph [ref=e573]: BCA
+              - paragraph [ref=e574]: Dev Bhoomi
+            - generic [ref=e575]:
+              - paragraph [ref=e576]: I.J.
+              - paragraph [ref=e577]: B.Pharm
+              - paragraph [ref=e578]: Graphic Era
+            - generic [ref=e579]:
+              - paragraph [ref=e580]: T.R.
+              - paragraph [ref=e581]: BA LLB
+              - paragraph [ref=e582]: UPES
+            - generic [ref=e583]:
+              - paragraph [ref=e584]: K.V.
+              - paragraph [ref=e585]: B.Des
+              - paragraph [ref=e586]: UPES
+            - generic [ref=e587]:
+              - paragraph [ref=e588]: M.A.
+              - paragraph [ref=e589]: B.Tech AI/ML
+              - paragraph [ref=e590]: Uttaranchal
+          - paragraph [ref=e591]: Initials shown to protect privacy. Placement and admission outcomes vary by individual candidate.
+    - generic [ref=e594]:
+      - generic [ref=e595]:
+        - paragraph [ref=e596]: Frequently asked
+        - heading "Questions parents and students ask us first." [level=2] [ref=e597]
+        - paragraph [ref=e598]: Can't find what you're looking for? Send us a WhatsApp and a counsellor will reply within 5 minutes.
+      - generic [ref=e600]:
+        - group [ref=e601]:
+          - generic "Is the counselling actually free for students?" [ref=e602] [cursor=pointer]:
+            - heading "Is the counselling actually free for students?" [level=3] [ref=e603]
+            - img [ref=e605]
+          - paragraph [ref=e607]: Yes — students pay nothing. Edutech Solutions is compensated directly by the partner universities once a candidate enrols. There are no hidden charges, success fees, or paywalls during the counselling itself.
+        - group [ref=e608]:
+          - generic "Are you affiliated with these universities?" [ref=e609] [cursor=pointer]:
+            - heading "Are you affiliated with these universities?" [level=3] [ref=e610]
+            - img [ref=e612]
+        - group [ref=e614]:
+          - generic "What kind of programmes can you help me with?" [ref=e615] [cursor=pointer]:
+            - heading "What kind of programmes can you help me with?" [level=3] [ref=e616]
+            - img [ref=e618]
+        - group [ref=e620]:
+          - generic "What are the placement records of these universities?" [ref=e621] [cursor=pointer]:
+            - heading "What are the placement records of these universities?" [level=3] [ref=e622]
+            - img [ref=e624]
+        - group [ref=e626]:
+          - generic "Can you help with scholarships and merit waivers?" [ref=e627] [cursor=pointer]:
+            - heading "Can you help with scholarships and merit waivers?" [level=3] [ref=e628]
+            - img [ref=e630]
+        - group [ref=e632]:
+          - generic "I don't have an entrance score yet. Can I still apply?" [ref=e633] [cursor=pointer]:
+            - heading "I don't have an entrance score yet. Can I still apply?" [level=3] [ref=e634]
+            - img [ref=e636]
+        - group [ref=e638]:
+          - generic "How long does the full admission process take?" [ref=e639] [cursor=pointer]:
+            - heading "How long does the full admission process take?" [level=3] [ref=e640]
+            - img [ref=e642]
+        - group [ref=e644]:
+          - generic "What if I'm not sure which programme or city is right for me?" [ref=e645] [cursor=pointer]:
+            - heading "What if I'm not sure which programme or city is right for me?" [level=3] [ref=e646]
+            - img [ref=e648]
+  - contentinfo [ref=e650]:
+    - generic [ref=e651]:
+      - generic [ref=e652]:
+        - generic [ref=e653]:
+          - paragraph [ref=e654]: Edutech Solutions
+          - paragraph [ref=e655]: An independent admission counselling and career-guidance partner working with four leading universities across Uttarakhand.
+          - generic [ref=e656]:
+            - paragraph [ref=e657]:
+              - link "+91-9000000000" [ref=e658] [cursor=pointer]:
+                - /url: tel:+919000000000
+            - paragraph [ref=e659]:
+              - link "admissions@edutechsolutions.in" [ref=e660] [cursor=pointer]:
+                - /url: mailto:admissions@edutechsolutions.in
+            - paragraph [ref=e661]: Rajpur Road, Dehradun, Uttarakhand 248001
+        - generic [ref=e662]:
+          - paragraph [ref=e663]: Universities
+          - list [ref=e664]:
+            - listitem [ref=e665]:
+              - link "UPES" [ref=e666] [cursor=pointer]:
+                - /url: /upes
+            - listitem [ref=e667]:
+              - link "Graphic Era" [ref=e668] [cursor=pointer]:
+                - /url: /graphic-era
+            - listitem [ref=e669]:
+              - link "Uttaranchal University" [ref=e670] [cursor=pointer]:
+                - /url: /uttaranchal-university
+            - listitem [ref=e671]:
+              - link "Dev Bhoomi" [ref=e672] [cursor=pointer]:
+                - /url: /dev-bhoomi
+        - generic [ref=e673]:
+          - paragraph [ref=e674]: Programmes
+          - list [ref=e675]:
+            - listitem [ref=e676]:
+              - link "Engineering & Technology" [ref=e677] [cursor=pointer]:
+                - /url: "#programs"
+            - listitem [ref=e678]:
+              - link "Management & Commerce" [ref=e679] [cursor=pointer]:
+                - /url: "#programs"
+            - listitem [ref=e680]:
+              - link "Computer Applications" [ref=e681] [cursor=pointer]:
+                - /url: "#programs"
+            - listitem [ref=e682]:
+              - link "Law" [ref=e683] [cursor=pointer]:
+                - /url: "#programs"
+            - listitem [ref=e684]:
+              - link "Pharmacy & Health Sciences" [ref=e685] [cursor=pointer]:
+                - /url: "#programs"
+            - listitem [ref=e686]:
+              - link "Design, Media & Liberal Studies" [ref=e687] [cursor=pointer]:
+                - /url: "#programs"
+        - generic [ref=e688]:
+          - paragraph [ref=e689]: Company
+          - list [ref=e690]:
+            - listitem [ref=e691]:
+              - link "How counselling works" [ref=e692] [cursor=pointer]:
+                - /url: "#process"
+            - listitem [ref=e693]:
+              - link "Placements" [ref=e694] [cursor=pointer]:
+                - /url: "#placements"
+            - listitem [ref=e695]:
+              - link "FAQ" [ref=e696] [cursor=pointer]:
+                - /url: "#faq"
+            - listitem [ref=e697]:
+              - link "Privacy policy" [ref=e698] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=e699]:
+              - link "Terms of service" [ref=e700] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e701]:
+        - paragraph [ref=e702]: © 2026 Edutech Solutions. All rights reserved. Independent counselling partner — not affiliated with the universities listed unless explicitly stated.
+        - generic [ref=e703]:
+          - link "Instagram" [ref=e704] [cursor=pointer]:
+            - /url: https://instagram.com/edutechsolutions
+          - link "Facebook" [ref=e705] [cursor=pointer]:
+            - /url: https://facebook.com/edutechsolutions
+          - link "LinkedIn" [ref=e706] [cursor=pointer]:
+            - /url: https://linkedin.com/company/edutechsolutions
+          - link "YouTube" [ref=e707] [cursor=pointer]:
+            - /url: https://youtube.com/@edutechsolutions
+  - generic:
+    - link:
+      - /url: https://wa.me/919000000000?text=Hi%2C%20I'd%20like%20counselling%20for%20university%20admissions.
+      - img
+      - text: Chat with a counsellor
+  - button "Open Next.js Dev Tools" [ref=e713] [cursor=pointer]:
+    - img [ref=e714]

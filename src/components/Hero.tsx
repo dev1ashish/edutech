@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { COLLEGES } from "@/lib/constants";
 import { CollegeCrest } from "./CollegeCrest";
 
@@ -58,9 +59,10 @@ export function Hero() {
           <div className="lg:col-span-5 relative">
             <div className="relative grid grid-cols-2 gap-5 max-w-md ml-auto">
               {COLLEGES.map((c, i) => (
-                <div
+                <Link
+                  href={`/${c.slug}`}
                   key={c.slug}
-                  className={`rise rise-${i + 2} card-paper p-5 flex flex-col items-start gap-3 ${
+                  className={`rise rise-${i + 2} card-paper p-5 flex flex-col items-start gap-3 hover:-translate-y-1 transition-transform ${
                     i % 2 === 1 ? "translate-y-6" : ""
                   }`}
                 >
@@ -86,7 +88,7 @@ export function Hero() {
                   <div className="text-xs text-[color:var(--ink-soft)] mt-1">
                     Highest {c.highestPackage}
                   </div>
-                </div>
+                </Link>
               ))}
             </div>
             <div className="absolute -z-10 inset-0 -m-6 rounded-[40px] bg-gradient-to-br from-[color:var(--parchment)] to-transparent opacity-60" />

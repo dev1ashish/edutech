@@ -1,0 +1,313 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "UTTARANCHAL UNIVERSITY DEHRADUN" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+          - generic [ref=e10]:
+            - generic [ref=e11]: UTTARANCHAL
+            - generic [ref=e12]: UNIVERSITY
+            - generic [ref=e13]: DEHRADUN
+          - generic [ref=e14]:
+            - generic [ref=e15]: NAAC
+            - generic [ref=e16]:
+              - text: A
+              - superscript [ref=e17]: +
+            - generic [ref=e18]: GRADE
+        - navigation [ref=e19]:
+          - link "Home" [ref=e20] [cursor=pointer]:
+            - /url: "#about"
+          - link "Placement" [ref=e21] [cursor=pointer]:
+            - /url: "#placements"
+          - link "Programs Offered" [ref=e22] [cursor=pointer]:
+            - /url: "#programmes"
+          - link "Campus Life" [ref=e23] [cursor=pointer]:
+            - /url: "#campus"
+        - link "1800 212 4201 1800 212 4221" [ref=e24] [cursor=pointer]:
+          - /url: tel:18002124201
+          - generic [ref=e25]: ☎
+          - generic [ref=e26]:
+            - generic [ref=e27]: 1800 212 4201
+            - generic [ref=e28]: 1800 212 4221
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - heading "Uttaranchal University Dehradun" [level=1] [ref=e34]:
+          - text: Uttaranchal
+          - text: University
+          - generic [ref=e35]: Dehradun
+        - paragraph [ref=e36]: Early Bird
+        - paragraph [ref=e37]:
+          - text: Scholarship
+          - generic [ref=e38]: upto 65%
+        - paragraph [ref=e39]: Apply by 31 May 2026 to lock the highest scholarship slab
+      - generic [ref=e40]:
+        - heading "Apply Now for 2026-27 Session" [level=3] [ref=e41]
+        - form "Uttaranchal University admissions enquiry form" [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]: Full Name*
+            - textbox "Full Name" [ref=e45]:
+              - /placeholder: Your full name
+          - generic [ref=e46]:
+            - generic [ref=e47]: Phone Number*
+            - textbox "Phone Number" [ref=e48]:
+              - /placeholder: 10-digit mobile number
+          - generic [ref=e49]:
+            - generic [ref=e50]: Email ID
+            - textbox "Email ID" [ref=e51]:
+              - /placeholder: Your email address
+          - generic [ref=e52]:
+            - generic [ref=e53]: State*
+            - combobox "State" [ref=e54]:
+              - option "-- Select State --" [disabled] [selected]
+              - option "Uttarakhand"
+              - option "Uttar Pradesh"
+              - option "Delhi"
+              - option "Haryana"
+              - option "Punjab"
+              - option "Himachal Pradesh"
+              - option "Rajasthan"
+              - option "Bihar"
+              - option "Madhya Pradesh"
+              - option "Maharashtra"
+              - option "Karnataka"
+              - option "Tamil Nadu"
+              - option "West Bengal"
+              - option "Gujarat"
+              - option "Kerala"
+              - option "Andhra Pradesh"
+              - option "Telangana"
+              - option "Odisha"
+              - option "Jharkhand"
+              - option "Assam"
+              - option "Other"
+          - generic [ref=e55]:
+            - generic [ref=e56]: Programme of Interest*
+            - combobox "Programme of Interest" [ref=e57]:
+              - option "-- Select Programme --" [disabled] [selected]
+              - option "B.Tech CSE / AI / Cyber"
+              - option "B.Tech Civil / Mech / ECE"
+              - option "BBA / MBA"
+              - option "BA LLB / BBA LLB"
+              - option "BCA / MCA"
+              - option "B.Pharm / M.Pharm"
+              - option "B.Sc. Agri / Nursing"
+              - option "BHMCT / Hospitality"
+              - option "BA Journalism"
+              - option "B.Des"
+              - option "PhD"
+              - option "Other"
+          - generic [ref=e58]:
+            - checkbox "I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND." [ref=e59]
+            - generic [ref=e60]: I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND.
+          - button "Submit Enquiry" [ref=e61]
+    - generic [ref=e63]:
+      - paragraph [ref=e64]: After UU What Comes Next?
+      - 'heading "STEP INTO A PROMISING TOMORROW: WITH EXCEPTIONAL GLOBAL OPPORTUNITIES" [level=2] [ref=e65]':
+        - text: "STEP INTO A PROMISING TOMORROW:"
+        - text: WITH EXCEPTIONAL GLOBAL OPPORTUNITIES
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - paragraph [ref=e68]: 1200+
+          - paragraph [ref=e69]: Recruiters
+        - generic [ref=e70]:
+          - paragraph [ref=e71]: 1.5 CR
+          - paragraph [ref=e72]: International Package
+        - generic [ref=e73]:
+          - paragraph [ref=e74]: 55 LPA
+          - paragraph [ref=e75]: Domestic Package
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: 25K+
+          - paragraph [ref=e78]: Glorious Alumni in Top Corporates
+    - generic [ref=e80]:
+      - paragraph [ref=e81]: Placements at UU
+      - heading "UNLOCK THE SECRET OF GETTING HIRED WITH THE BEST!" [level=2] [ref=e82]:
+        - text: UNLOCK THE SECRET OF
+        - text: GETTING HIRED WITH THE BEST!
+      - generic [ref=e83]:
+        - generic [ref=e84]: Google
+        - generic [ref=e85]: Amazon
+        - generic [ref=e86]: Accenture
+        - generic [ref=e87]: Wipro
+        - generic [ref=e88]: Cognizant
+        - generic [ref=e89]: HCL
+        - generic [ref=e90]: TCS
+        - generic [ref=e91]: Tech Mahindra
+        - generic [ref=e92]: Capgemini
+        - generic [ref=e93]: Infosys
+        - generic [ref=e94]: Maruti Suzuki
+        - generic [ref=e95]: L&T
+      - link "Talk to a Placement Advisor →" [ref=e97] [cursor=pointer]:
+        - /url: "#enquiry"
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - img "Campus walkway at Uttaranchal University" [ref=e101]
+        - generic [ref=e102]:
+          - paragraph [ref=e103]: 42-acre Premnagar Campus
+          - heading "One of the largest residential university campuses in Dehradun" [level=3] [ref=e104]
+      - paragraph [ref=e105]: Education that connects
+      - 'heading "JOIN THE GLOBAL CLASSROOM: WHERE EDUCATION MEETS DIVERSE INDUSTRIES!" [level=2] [ref=e106]':
+        - text: "JOIN THE GLOBAL CLASSROOM:"
+        - text: WHERE EDUCATION MEETS DIVERSE INDUSTRIES!
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e109]: ✓
+          - paragraph [ref=e110]: Conducive Learning Environment
+        - generic [ref=e111]:
+          - generic [ref=e112]: ✓
+          - paragraph [ref=e113]: Excellent Standards of Teaching
+        - generic [ref=e114]:
+          - generic [ref=e115]: ✓
+          - paragraph [ref=e116]: Highly Affordable Education
+        - generic [ref=e117]:
+          - generic [ref=e118]: ✓
+          - paragraph [ref=e119]: Scholarships up to 65%
+        - generic [ref=e120]:
+          - generic [ref=e121]: ✓
+          - paragraph [ref=e122]: Student Satisfaction
+        - generic [ref=e123]:
+          - generic [ref=e124]: ✓
+          - paragraph [ref=e125]: Personalised Mentorship
+    - generic [ref=e127]:
+      - paragraph [ref=e128]: 100+ Industry-centric Programmes
+      - 'heading "HERE ARE OUR 100+ INDUSTRY-CENTRIC PROGRAMS: TO CHOOSE YOUR PATH TO EXCELLENCE!" [level=2] [ref=e129]':
+        - text: HERE ARE OUR
+        - text: "100+ INDUSTRY-CENTRIC PROGRAMS:"
+        - text: TO CHOOSE YOUR PATH TO EXCELLENCE!
+      - generic [ref=e130]:
+        - article [ref=e131]:
+          - heading "Undergraduate" [level=3] [ref=e132]
+          - list [ref=e133]:
+            - listitem [ref=e134]: B.Tech CSE / AI / Cyber Security
+            - listitem [ref=e135]: B.Tech Civil / Mech / ECE
+            - listitem [ref=e136]: BBA / BBA (Hons.)
+            - listitem [ref=e137]: BA LLB / BBA LLB
+            - listitem [ref=e138]: BCA / BCA AI
+            - listitem [ref=e139]: B.Pharm
+            - listitem [ref=e140]: B.Sc. Agriculture
+            - listitem [ref=e141]: B.Sc. Nursing / BPT
+            - listitem [ref=e142]: B.Sc. Hospitality
+            - listitem [ref=e143]: B.Com (Hons.)
+            - listitem [ref=e144]: BA Journalism / Mass Comm
+            - listitem [ref=e145]: B.Des
+        - article [ref=e146]:
+          - heading "Postgraduate" [level=3] [ref=e147]
+          - list [ref=e148]:
+            - listitem [ref=e149]: M.Tech CSE / Civil
+            - listitem [ref=e150]: MBA (Mktg / HR / Fin / Analytics)
+            - listitem [ref=e151]: MCA
+            - listitem [ref=e152]: M.Pharm
+            - listitem [ref=e153]: LLM
+            - listitem [ref=e154]: M.Sc. Agri / Nursing / Maths
+            - listitem [ref=e155]: MA Journalism
+            - listitem [ref=e156]: MPT
+        - article [ref=e157]:
+          - heading "Ph.D" [level=3] [ref=e158]
+          - list [ref=e159]:
+            - listitem [ref=e160]: PhD Engineering
+            - listitem [ref=e161]: PhD Management
+            - listitem [ref=e162]: PhD Pharmacy
+            - listitem [ref=e163]: PhD Law
+            - listitem [ref=e164]: PhD Sciences & Humanities
+            - listitem [ref=e165]: PhD Agriculture
+    - generic [ref=e167]:
+      - paragraph [ref=e168]: Discover the 'U'nique Offerings
+      - 'heading "DISCOVER THE ''U''NIQUE OFFERINGS: CARVE YOUR PATH TO SUCCESS!" [level=2] [ref=e169]':
+        - text: "DISCOVER THE 'U'NIQUE OFFERINGS:"
+        - text: CARVE YOUR PATH TO SUCCESS!
+      - generic [ref=e170]:
+        - article [ref=e171]:
+          - heading "Industry-Aligned Curriculum" [level=3] [ref=e172]
+          - paragraph [ref=e173]: Curriculum reviewed annually with industry experts. Live industry projects from second year. Capstone with a real client deliverable.
+        - article [ref=e174]:
+          - heading "International Exposure" [level=3] [ref=e175]
+          - paragraph [ref=e176]: Semester-abroad and short-immersion options across the US, UK, Singapore, Australia, Germany and Dubai with active university partners.
+        - article [ref=e177]:
+          - heading "Mentorship that Sticks" [level=3] [ref=e178]
+          - paragraph [ref=e179]: Personalised academic + career mentorship from day one. One mentor, the entire programme. Career-track conversations quarterly.
+        - article [ref=e180]:
+          - heading "Scholarship up to 65%" [level=3] [ref=e181]
+          - paragraph [ref=e182]: Early-Bird Scholarship up to 65% on tuition fee for 12th / qualifying exam toppers. Sports, single-girl-child, defence slabs stack above this.
+    - generic [ref=e184]:
+      - paragraph [ref=e185]: Research at UU
+      - heading "REVOLUTIONIZING THROUGH RESEARCH & INNOVATION AT UU!" [level=2] [ref=e186]:
+        - text: REVOLUTIONIZING THROUGH
+        - text: RESEARCH & INNOVATION AT UU!
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - paragraph [ref=e189]: 6000+
+          - paragraph [ref=e190]: Paper Publications
+        - generic [ref=e191]:
+          - paragraph [ref=e192]: 730+
+          - paragraph [ref=e193]: IPR / Patents
+        - generic [ref=e194]:
+          - paragraph [ref=e195]: 160+
+          - paragraph [ref=e196]: IPR Grants
+        - generic [ref=e197]:
+          - paragraph [ref=e198]: 45+
+          - paragraph [ref=e199]: International IPR
+        - generic [ref=e200]:
+          - paragraph [ref=e201]: 05+
+          - paragraph [ref=e202]: Technology Transfers
+        - generic [ref=e203]:
+          - paragraph [ref=e204]: 20+
+          - paragraph [ref=e205]: Start-Ups
+    - generic [ref=e207]:
+      - paragraph [ref=e208]: Apply Now
+      - 'heading "FROM ASPIRATION TO REALITY: JOIN OUR UNIVERSITY!" [level=2] [ref=e209]':
+        - text: "FROM ASPIRATION TO REALITY:"
+        - text: JOIN OUR UNIVERSITY!
+      - paragraph [ref=e210]: Application takes under two minutes. The form is reviewed by the admissions team within 24 hours and you'll receive a call back with next steps — eligibility, scholarship slab, fee schedule and document checklist.
+      - generic [ref=e211]:
+        - link "Begin Application" [ref=e212] [cursor=pointer]:
+          - /url: "#apply"
+        - link "Call 1800 212 4201" [ref=e213] [cursor=pointer]:
+          - /url: tel:18002124201
+    - generic [ref=e215]:
+      - paragraph [ref=e216]: FAQs
+      - heading "Frequently asked questions" [level=2] [ref=e217]
+      - generic [ref=e218]:
+        - group [ref=e219]:
+          - generic "Is Uttaranchal University recognised by UGC? +" [ref=e220] [cursor=pointer]
+        - group [ref=e221]:
+          - generic "What is the highest scholarship I can get? +" [ref=e222] [cursor=pointer]
+        - group [ref=e223]:
+          - generic "How does admission work? +" [ref=e224] [cursor=pointer]
+        - group [ref=e225]:
+          - generic "What entrance exams are accepted? +" [ref=e226] [cursor=pointer]
+    - contentinfo [ref=e227]:
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - generic [ref=e230]:
+            - paragraph [ref=e231]: UTTARANCHAL UNIVERSITY
+            - paragraph [ref=e232]: DEHRADUN · NAAC A+
+            - paragraph [ref=e233]: Premnagar, Dehradun, Uttarakhand – 248007
+          - generic [ref=e234]:
+            - paragraph [ref=e235]: Admissions
+            - paragraph [ref=e236]:
+              - text: 1800 212 4201 / 4221
+              - text: admissions@uttaranchaluniversity.ac.in
+          - generic [ref=e237]:
+            - paragraph [ref=e238]: Quick Links
+            - list [ref=e239]:
+              - listitem [ref=e240]:
+                - link "Programmes" [ref=e241] [cursor=pointer]:
+                  - /url: "#programmes"
+              - listitem [ref=e242]:
+                - link "Placement" [ref=e243] [cursor=pointer]:
+                  - /url: "#placements"
+              - listitem [ref=e244]:
+                - link "Apply Now" [ref=e245] [cursor=pointer]:
+                  - /url: "#enquiry"
+              - listitem [ref=e246]:
+                - link "Privacy Policy" [ref=e247] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e248]:
+                - link "Terms of Service" [ref=e249] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e250]:
+          - paragraph [ref=e251]: © 2026 Uttaranchal University Admissions.
+          - paragraph [ref=e252]: NAAC A+ · UGC · AICTE · BCI · PCI · INC
+  - button "Open Next.js Dev Tools" [ref=e258] [cursor=pointer]:
+    - img [ref=e259]
+  - alert [ref=e262]

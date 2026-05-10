@@ -1,0 +1,5 @@
+[    3372ms] [LOG] resize called @ https://widgets.in.webengage.com/js/notification-layout-~483819h.js:0
+[   12516ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://manager.eu.smartlook.cloud/rec/setup-recording/website:0
+[   12517ms] [WARNING] [Smartlook] Smartlook not recording. Reason: Project not found {status: 404, error: not_found, code: project_not_found, message: Project not found} @ https://rec.smartlook.com/es6/init.9207427f95fa799d6604.js:1
+[   15136ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://manager.eu.smartlook.cloud/rec/log/a97c4538231286721f066e83a4ca9008cac56f41:0
+[  129082ms] [LOG] resize called @ https://widgets.in.webengage.com/js/notification-layout-~483819h.js:0

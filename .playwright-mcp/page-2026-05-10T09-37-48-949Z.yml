@@ -1,0 +1,644 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - list [ref=e6]:
+          - listitem [ref=e7]:
+            - link "Students" [ref=e8] [cursor=pointer]:
+              - /url: /students
+          - listitem [ref=e9]:
+            - link "Alumni" [ref=e10] [cursor=pointer]:
+              - /url: /alumni
+          - listitem [ref=e11]:
+            - link "Parents" [ref=e12] [cursor=pointer]:
+              - /url: /parents
+          - listitem [ref=e13]:
+            - link "Contact Us" [ref=e14] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e15]:
+            - link "About Us" [ref=e16] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e17]:
+            - link "Rankings" [ref=e18] [cursor=pointer]:
+              - /url: /about-us/rankings-and-accreditations
+          - listitem [ref=e19]:
+            - link "Blog" [ref=e20] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e21]:
+            - link "Applicant Login" [ref=e22] [cursor=pointer]:
+              - /url: https://admission.upes.ac.in/login
+      - navigation [ref=e23]:
+        - generic [ref=e24]:
+          - link "UPES" [ref=e25] [cursor=pointer]:
+            - /url: /
+            - img "UPES" [ref=e26]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "Academics" [ref=e30] [cursor=pointer]:
+                - /url: route:<nolink>
+            - listitem [ref=e31]:
+              - link "Admissions" [ref=e32] [cursor=pointer]:
+                - /url: /admissions
+            - listitem [ref=e33]:
+              - link "Student Outcomes" [ref=e34] [cursor=pointer]:
+                - /url: /student-outcomes
+            - listitem [ref=e35]:
+              - link "Placements" [ref=e36] [cursor=pointer]:
+                - /url: /placements
+            - listitem [ref=e37]:
+              - link "Campus Life" [ref=e38] [cursor=pointer]:
+                - /url: /campus-life
+            - listitem [ref=e39]:
+              - link "Research" [ref=e40] [cursor=pointer]:
+                - /url: /research
+            - listitem [ref=e41]:
+              - link "Apply Now" [ref=e42] [cursor=pointer]:
+                - /url: https://admission.upes.ac.in/apply
+                - generic [ref=e43]: Apply Now
+            - listitem [ref=e44]:
+              - button "Search button" [ref=e45] [cursor=pointer]:
+                - img [ref=e46]
+  - main [ref=e49]:
+    - list [ref=e52]:
+      - listitem [ref=e53]:
+        - link "Home" [ref=e54] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e55]: Admissions
+    - generic [ref=e57]:
+      - button "Previous" [ref=e58] [cursor=pointer]
+      - generic [ref=e60]:
+        - generic [ref=e64]:
+          - link:
+            - /url: javascript:;
+            - figure:
+              - generic:
+                - img
+        - generic [ref=e66]:
+          - link [ref=e70] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+            - figure [ref=e71]:
+              - img [ref=e73]
+          - link [ref=e76] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+        - tabpanel [ref=e78]:
+          - generic [ref=e81]:
+            - link:
+              - /url: javascript:;
+              - figure:
+                - generic:
+                  - generic "UPES Alumni"
+                  - generic "UPES Alumni"
+                  - img "UPES Alumni"
+          - generic [ref=e82]:
+            - paragraph
+        - tabpanel [ref=e83]:
+          - generic [ref=e86]:
+            - link:
+              - /url: javascript:;
+              - figure:
+                - generic:
+                  - img
+        - tabpanel [ref=e88]:
+          - generic [ref=e91]:
+            - link:
+              - /url: javascript:;
+              - figure:
+                - generic:
+                  - img
+        - tabpanel [ref=e93]:
+          - link [ref=e97] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+            - figure [ref=e98]:
+              - img [ref=e100]
+          - link [ref=e103] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+        - generic [ref=e108]:
+          - link:
+            - /url: javascript:;
+            - figure:
+              - generic:
+                - img
+        - generic [ref=e113]:
+          - link:
+            - /url: javascript:;
+            - figure:
+              - generic:
+                - img
+        - generic [ref=e118]:
+          - link:
+            - /url: javascript:;
+            - figure:
+              - generic:
+                - img
+        - generic [ref=e120]:
+          - link [ref=e124] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+            - figure [ref=e125]:
+              - img [ref=e127]
+          - link [ref=e130] [cursor=pointer]:
+            - /url: https://www.upes.ac.in/contact#section2
+      - button "Next" [ref=e132] [cursor=pointer]
+      - tablist [ref=e133]:
+        - tab "1 of 4" [selected] [ref=e134] [cursor=pointer]: • 1
+        - tab "2 of 4" [ref=e135] [cursor=pointer]: • 2
+        - tab "3 of 4" [ref=e136] [cursor=pointer]: • 3
+        - tab "4 of 4" [ref=e137] [cursor=pointer]: • 4
+    - heading "Admissions" [level=1] [ref=e140]
+    - heading "Let's get you ready for your career journey. Find out more about selection and eligibility criteria, application deadlines, Important Dates, and Admissions Alerts" [level=2] [ref=e143]:
+      - text: Let's get you ready for your career journey. Find out more about selection and eligibility criteria, application deadlines,
+      - link "Important Dates" [ref=e144] [cursor=pointer]:
+        - /url: /admissions/important-dates
+        - strong [ref=e145]: Important Dates
+      - text: ", and"
+      - link "Admissions Alerts" [ref=e146] [cursor=pointer]:
+        - /url: /admissions/admission-alerts
+        - strong [ref=e147]: Admissions Alerts
+    - navigation [ref=e153]:
+      - generic [ref=e155]:
+        - link "Overview" [ref=e157] [cursor=pointer]:
+          - /url: "#section1"
+        - link "Admission Details" [ref=e159] [cursor=pointer]:
+          - /url: "#section2"
+        - link "International Admissions" [ref=e161] [cursor=pointer]:
+          - /url: /international-admissions
+        - link "Eligibility & Fee" [ref=e163] [cursor=pointer]:
+          - /url: "#section4"
+        - link "Scholarships" [ref=e165] [cursor=pointer]:
+          - /url: /admissions/scholarships
+        - link "News & Events" [ref=e167] [cursor=pointer]:
+          - /url: "#section3"
+        - link "Student Outcomes" [ref=e169] [cursor=pointer]:
+          - /url: "#section5"
+    - generic [ref=e172]:
+      - heading "Overview" [level=2] [ref=e173]
+      - paragraph [ref=e176]: At UPES, our focus is not just on educating students, but also creating leaders of tomorrow. By opening doors to a world class education, we empower our students to confidently shape their own futures.
+    - generic [ref=e180]:
+      - generic [ref=e182]:
+        - paragraph [ref=e183]:
+          - text: 19K
+          - superscript [ref=e184]: +
+        - paragraph [ref=e185]: Students
+      - generic [ref=e187]:
+        - paragraph [ref=e188]:
+          - text: "100"
+          - superscript [ref=e189]: +
+        - paragraph [ref=e190]: Programs
+      - generic [ref=e192]:
+        - paragraph [ref=e193]:
+          - text: "150"
+          - superscript [ref=e194]: +
+        - paragraph [ref=e195]: Specialisations
+      - generic [ref=e197]:
+        - paragraph [ref=e198]:
+          - text: "1500"
+          - superscript [ref=e199]: +
+        - paragraph [ref=e200]: Faculty
+    - figure [ref=e206]:
+      - generic [ref=e207]:
+        - generic "Overview"
+        - generic "Overview"
+        - img "Overview" [ref=e208]
+    - generic [ref=e211]:
+      - heading "Admission Details" [level=2] [ref=e212]
+      - generic [ref=e214]:
+        - paragraph [ref=e215]: Learn more about the varied courses offered under the Undergraduate, Postgraduate, and Doctoral programs across schools to find the one that matches your ambitions the best.
+        - link "View all 7 Schools" [ref=e217] [cursor=pointer]:
+          - /url: /#findYourProgram-Section
+          - generic [ref=e218]: View all 7 Schools
+    - generic [ref=e222]:
+      - tablist [ref=e228]:
+        - tab "Eligibility and Selection Criteria How To Apply Fee Structure Scholarship & Aid Lateral Entry Know More - Undergraduate Courses" [selected] [ref=e229] [cursor=pointer]: Undergraduate
+        - tab "Eligibility and Selection Criteria How To Apply Fee Structure Scholarship & Aid Lateral Entry Know More - Postgraduate Courses" [ref=e230] [cursor=pointer]: Postgraduate
+        - tab "Eligibility and Selection Criteria How To Apply Fee Structure Scholarship & Aid Lateral Entry Know More - Integrated Courses" [ref=e231] [cursor=pointer]: Integrated
+      - tabpanel "Undergraduate" [ref=e234]:
+        - generic [ref=e235]:
+          - figure [ref=e238]:
+            - img "Undergraduate Banner" [ref=e239]
+          - generic [ref=e241]:
+            - paragraph
+            - list [ref=e242]:
+              - listitem [ref=e243]:
+                - link "Eligibility and Selection Criteria" [ref=e244] [cursor=pointer]:
+                  - /url: /admissions/eligibility-and-selection-criteria
+              - listitem [ref=e245]:
+                - link "How To Apply" [ref=e246] [cursor=pointer]:
+                  - /url: /admissions/how-to-apply
+              - listitem [ref=e247]:
+                - link "Fee Structure" [ref=e248] [cursor=pointer]:
+                  - /url: /admissions/fee-structure
+              - listitem [ref=e249]:
+                - link "Scholarship & Aid" [ref=e250] [cursor=pointer]:
+                  - /url: /admissions/scholarships
+              - listitem [ref=e251]:
+                - link "Lateral Entry" [ref=e252] [cursor=pointer]:
+                  - /url: /admissions/lateral-entry
+            - link "Know More - Undergraduate Courses" [ref=e254] [cursor=pointer]:
+              - /url: /admissions/undergraduate-courses
+              - generic [ref=e255]: Know More - Undergraduate Courses
+    - generic [ref=e259]:
+      - figure [ref=e260]:
+        - img "Experience Centres" [ref=e262]
+      - generic [ref=e265]:
+        - heading [level=3] [ref=e266]
+        - paragraph
+        - link "Know More" [ref=e267] [cursor=pointer]:
+          - /url: /contact#section2
+          - generic [ref=e268]: Know More
+    - generic [ref=e273]:
+      - heading "More Information" [level=2] [ref=e274]
+      - generic [ref=e275]:
+        - generic [ref=e277]:
+          - generic [ref=e278]:
+            - figure [ref=e280]:
+              - img "Industry impact" [ref=e282]
+            - paragraph [ref=e283]: Industry Connect
+          - paragraph [ref=e284]: The cornerstone of our unique approach is the right mix of industry learning and its application. Read on to know more about our teaching methods and industry immersions.
+          - link "Read more - Industry Connect" [ref=e285] [cursor=pointer]:
+            - /url: /industry-connect
+        - generic [ref=e287]:
+          - generic [ref=e288]:
+            - figure [ref=e290]:
+              - img "FAQs" [ref=e292]
+            - paragraph [ref=e293]: FAQs
+          - paragraph [ref=e294]: Have questions? Find the answers to your questions here.
+          - link "Read more - FAQs" [ref=e295] [cursor=pointer]:
+            - /url: /faqs
+        - generic [ref=e297]:
+          - generic [ref=e298]:
+            - figure [ref=e300]:
+              - img "Downloads" [ref=e302]
+            - paragraph [ref=e303]: Downloads
+          - paragraph [ref=e304]: Additional reading material by way of brochures, bulletins, policies, and more is available right here.
+          - link "Read more - Downloads" [ref=e305] [cursor=pointer]:
+            - /url: /admissions/downloads
+    - generic [ref=e307]:
+      - heading "Student Outcomes" [level=2] [ref=e308]
+      - generic [ref=e310]:
+        - button "Previous" [disabled] [ref=e311] [cursor=pointer]
+        - generic [ref=e313]:
+          - button "Medha Mathur Placed at Bain & Company From Dental Surgery to the exciting world of Business Analytics, and finally landing her d..." [ref=e314]:
+            - generic [ref=e315]:
+              - figure [ref=e316]:
+                - link "Video Play Icon Medha Mathur" [ref=e317] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Video Play Icon" [ref=e318]
+                  - img "Medha Mathur" [ref=e319]
+              - generic [ref=e320]:
+                - generic [ref=e321]:
+                  - heading "Medha Mathur" [level=3] [ref=e322]
+                  - text: Placed at Bain & Company
+                - paragraph [ref=e323]: From Dental Surgery to the exciting world of Business Analytics, and finally landing her d...
+          - button "Abhishek Chamoli Secured multiple offers Abhishek Chamoli, a B.Tech student from the UPES School of Computer Science, as he sets ne..." [ref=e324]:
+            - generic [ref=e325]:
+              - figure [ref=e326]:
+                - link "Video Play Icon Abhishek Chamoli" [ref=e327] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Video Play Icon" [ref=e328]
+                  - img "Abhishek Chamoli" [ref=e329]
+              - generic [ref=e330]:
+                - generic [ref=e331]:
+                  - heading "Abhishek Chamoli" [level=3] [ref=e332]
+                  - text: Secured multiple offers
+                - paragraph [ref=e333]: Abhishek Chamoli, a B.Tech student from the UPES School of Computer Science, as he sets ne...
+          - button "Vidushi Joshi National champion rifle shooter and 4-time gold medal winner National champion rifle shooter and 4-time gold medal winner, Vidushi Singh, continues to ..." [ref=e334]:
+            - generic [ref=e335]:
+              - figure [ref=e336]:
+                - link "Video Play Icon Vidushi Joshi" [ref=e337] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "Video Play Icon" [ref=e338]
+                  - img "Vidushi Joshi" [ref=e339]
+              - generic [ref=e340]:
+                - generic [ref=e341]:
+                  - heading "Vidushi Joshi" [level=3] [ref=e342]
+                  - text: National champion rifle shooter and 4-time gold medal winner
+                - paragraph [ref=e343]: National champion rifle shooter and 4-time gold medal winner, Vidushi Singh, continues to ...
+          - button [ref=e344]:
+            - generic [ref=e345]:
+              - figure [ref=e346]:
+                - link [ref=e347] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img [ref=e348]
+                  - img [ref=e349]
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - heading [level=3] [ref=e352]: Bhumika Joshi
+                  - text: Placed at Bain & Co.
+                - paragraph [ref=e353]: From classroom learning to boardroom success, Bhumika Joshi’s journey highlights the impac...
+          - button [ref=e354]:
+            - generic [ref=e355]:
+              - figure [ref=e356]:
+                - link [ref=e357] [cursor=pointer]:
+                  - /url: javascript:;
+                  - button [ref=e359]:
+                    - generic [ref=e360]: Play
+              - generic [ref=e361]:
+                - generic [ref=e362]:
+                  - heading [level=3] [ref=e363]: Shweta Sharma
+                  - text: MBA - Batch of 2024, School of Business
+                - paragraph [ref=e364]: Shweta decided to boost her career by pursuing her MBA at UPES. Watch her journey.
+                - link [ref=e365] [cursor=pointer]:
+                  - /url: https://youtu.be/zQfHjGR0cts
+                  - text: Watch Now
+          - button [ref=e366]:
+            - generic [ref=e367]:
+              - figure [ref=e368]:
+                - link [ref=e369] [cursor=pointer]:
+                  - /url: javascript:;
+                  - button [ref=e371]:
+                    - generic [ref=e372]: Play
+              - generic [ref=e373]:
+                - generic [ref=e374]:
+                  - heading [level=3] [ref=e375]: Suketu Mehta
+                  - text: Collaboration with KPMG
+                - paragraph [ref=e376]: Having 12 years of experience, Suketu's quest to become a consultant via MBA at UPES.
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: https://youtu.be/BfoaemdXuzU
+                  - text: Watch Now
+          - button [ref=e378]:
+            - generic [ref=e379]:
+              - figure [ref=e380]:
+                - link [ref=e381] [cursor=pointer]:
+                  - /url: javascript:;
+                  - button [ref=e383]:
+                    - generic [ref=e384]: Play
+              - generic [ref=e385]:
+                - generic [ref=e386]:
+                  - heading [level=3] [ref=e387]: Abhay Kaushik
+                  - text: B.Tech - Aerospace Engineering
+                - paragraph [ref=e388]: Abhay's interest in aerospace led him to UPES where he now studies Aerospace Engineering.
+                - link [ref=e389] [cursor=pointer]:
+                  - /url: https://youtu.be/7ahZiZFuitg
+                  - text: Watch Now
+          - button [ref=e390]:
+            - generic [ref=e391]:
+              - figure [ref=e392]:
+                - link [ref=e393] [cursor=pointer]:
+                  - /url: javascript:;
+                  - button [ref=e395]:
+                    - generic [ref=e396]: Play
+              - generic [ref=e397]:
+                - generic [ref=e398]:
+                  - heading [level=3] [ref=e399]: Navansh Jain
+                  - text: B.Des. Game Design
+                - paragraph [ref=e400]: Navansh Jain turned his lifelong love of playing video games by pursuing B.Des. at UPES.
+                - link [ref=e401] [cursor=pointer]:
+                  - /url: https://youtu.be/1OCIxlrw-o4
+                  - text: Watch Now
+        - button "Next" [ref=e402] [cursor=pointer]
+    - generic [ref=e405]:
+      - paragraph
+      - paragraph [ref=e406]:
+        - subscript [ref=e407]: "*'All programs listed here are subject to approval of the UPES Academic Council. UPES reserves the right to introduce/discontinue/modify new/existing programs at its sole discretion, without prior intimation to any party.’"
+      - paragraph
+  - contentinfo [ref=e408]:
+    - list [ref=e411]:
+      - listitem [ref=e412]:
+        - link "Contact Us Speak to a Counsellor" [ref=e413] [cursor=pointer]:
+          - /url: javascript:;
+          - img "Contact Us" [ref=e414]
+          - generic [ref=e415]: Speak to a Counsellor
+      - listitem [ref=e416]:
+        - link "Call Us Helpline" [ref=e417] [cursor=pointer]:
+          - /url: javascript:;
+          - img "Call Us" [ref=e418]
+          - generic [ref=e419]: Helpline
+      - listitem [ref=e420]:
+        - link "Downloads Download Brochure" [ref=e421] [cursor=pointer]:
+          - /url: /admissions/downloads
+          - img "Downloads" [ref=e422]
+          - generic [ref=e423]: Download Brochure
+      - listitem [ref=e424]:
+        - link "Chat with student buddy Chat with student buddy" [ref=e425] [cursor=pointer]:
+          - /url: /ambassador
+          - img "Chat with student buddy" [ref=e426]
+          - generic [ref=e427]: Chat with student buddy
+      - listitem [ref=e428]:
+        - link "Chat Chat with us" [ref=e429] [cursor=pointer]:
+          - /url: javascript:;
+          - img "Chat" [ref=e430]
+          - generic [ref=e431]: Chat with us
+    - contentinfo [ref=e432]:
+      - generic [ref=e434]:
+        - generic [ref=e435]:
+          - generic [ref=e436]:
+            - heading "Admissions" [level=4] [ref=e437]
+            - generic "Admissions" [ref=e438]:
+              - list [ref=e439]:
+                - listitem [ref=e440]:
+                  - link "B.Tech" [ref=e441] [cursor=pointer]:
+                    - /url: /admissions/btech
+                - listitem [ref=e442]:
+                  - link "MBA" [ref=e443] [cursor=pointer]:
+                    - /url: /admissions/mba
+                - listitem [ref=e444]:
+                  - link "B.Des." [ref=e445] [cursor=pointer]:
+                    - /url: /admissions/bdes
+                - listitem [ref=e446]:
+                  - link "M.Tech." [ref=e447] [cursor=pointer]:
+                    - /url: /admissions/mtech
+                - listitem [ref=e448]:
+                  - link "LL.B." [ref=e449] [cursor=pointer]:
+                    - /url: /admissions/llb
+                - listitem [ref=e450]:
+                  - link "M.Des." [ref=e451] [cursor=pointer]:
+                    - /url: /admissions/mdes
+                - listitem [ref=e452]:
+                  - link "B.Pharm." [ref=e453] [cursor=pointer]:
+                    - /url: /school-of-health-sciences-and-technology/b-pharma
+                - listitem [ref=e454]:
+                  - link "MA" [ref=e455] [cursor=pointer]:
+                    - /url: /admissions/ma
+                - listitem [ref=e456]:
+                  - link "BBA" [ref=e457] [cursor=pointer]:
+                    - /url: /admissions/bba
+                - listitem [ref=e458]:
+                  - link "M.Sc." [ref=e459] [cursor=pointer]:
+                    - /url: /admissions/msc
+                - listitem [ref=e460]:
+                  - link "BCA" [ref=e461] [cursor=pointer]:
+                    - /url: /admissions/bca
+                - listitem [ref=e462]:
+                  - link "LL.M." [ref=e463] [cursor=pointer]:
+                    - /url: /admissions/llm
+                - listitem [ref=e464]:
+                  - link "B.Sc." [ref=e465] [cursor=pointer]:
+                    - /url: /admissions/bsc
+                - listitem [ref=e466]:
+                  - link "MCA" [ref=e467] [cursor=pointer]:
+                    - /url: /admissions/mca
+                - listitem [ref=e468]:
+                  - link "B.Com." [ref=e469] [cursor=pointer]:
+                    - /url: /admissions/bcom
+                - listitem [ref=e470]:
+                  - link "PhD" [ref=e471] [cursor=pointer]:
+                    - /url: /school-of-advanced-engineering/phd-engineering
+                - listitem [ref=e472]:
+                  - link "BA" [ref=e473] [cursor=pointer]:
+                    - /url: /admissions/ba
+          - generic [ref=e474]:
+            - heading "Aspiring Students" [level=4] [ref=e475]
+            - generic "Aspiring Students" [ref=e476]:
+              - list [ref=e477]:
+                - listitem [ref=e478]:
+                  - link "Admission Alerts" [ref=e479] [cursor=pointer]:
+                    - /url: /admissions/admission-alerts
+                - listitem [ref=e480]:
+                  - link "FAQs" [ref=e481] [cursor=pointer]:
+                    - /url: /faqs
+                - listitem [ref=e482]:
+                  - link "Fee Refund Portal" [ref=e483] [cursor=pointer]:
+                    - /url: https://refund.upes.ac.in/
+                - listitem [ref=e484]:
+                  - link "Fee Structure" [ref=e485] [cursor=pointer]:
+                    - /url: https://www.upes.ac.in/admissions/fee-structure
+                - listitem [ref=e486]:
+                  - link "Global Pathways Program" [ref=e487] [cursor=pointer]:
+                    - /url: /global-pathways
+                - listitem [ref=e488]:
+                  - link "International Admissions" [ref=e489] [cursor=pointer]:
+                    - /url: /international-admissions
+                - listitem [ref=e490]:
+                  - link "Media" [ref=e491] [cursor=pointer]:
+                    - /url: /news
+                - listitem [ref=e492]:
+                  - link "Programs" [ref=e493] [cursor=pointer]:
+                    - /url: /academics#find-program-detailed
+                - listitem [ref=e494]:
+                  - link "UPES Online" [ref=e495] [cursor=pointer]:
+                    - /url: https://upesonline.ac.in/
+                - listitem [ref=e496]:
+                  - link "Important Dates" [ref=e497] [cursor=pointer]:
+                    - /url: /admissions/important-dates
+          - generic [ref=e498]:
+            - heading "Other links" [level=4] [ref=e499]
+            - generic "Other links" [ref=e500]:
+              - list [ref=e501]:
+                - listitem [ref=e502]:
+                  - link "Academic Calendar" [ref=e503] [cursor=pointer]:
+                    - /url: https://www.upes.ac.in/admissions/academic-calendar
+                - listitem [ref=e504]:
+                  - link "Campus" [ref=e505] [cursor=pointer]:
+                    - /url: /campus-life
+                - listitem [ref=e506]:
+                  - link "Events" [ref=e507] [cursor=pointer]:
+                    - /url: /events-and-activities
+                - listitem [ref=e508]:
+                  - link "NIRF Ranking Report" [ref=e509] [cursor=pointer]:
+                    - /url: /nirf-ranking-report
+                - listitem [ref=e510]:
+                  - link "Careers" [ref=e511] [cursor=pointer]:
+                    - /url: /about-us/careers
+                - listitem [ref=e512]:
+                  - link "Faculty" [ref=e513] [cursor=pointer]:
+                    - /url: /faculty
+                - listitem [ref=e514]:
+                  - link "Scholarships" [ref=e515] [cursor=pointer]:
+                    - /url: /admissions/scholarships
+                - listitem [ref=e516]:
+                  - link "Feedback" [ref=e517] [cursor=pointer]:
+                    - /url: /feedback
+                - listitem [ref=e518]:
+                  - link "HILL" [ref=e519] [cursor=pointer]:
+                    - /url: /hill
+                - listitem [ref=e520]:
+                  - link "Mandatory Disclosures" [ref=e521] [cursor=pointer]:
+                    - /url: /about-us/mandatory-disclosure
+                - listitem [ref=e522]:
+                  - link "Student Achievements" [ref=e523] [cursor=pointer]:
+                    - /url: /student-achievements
+                - listitem [ref=e524]:
+                  - link "Current Openings" [ref=e525] [cursor=pointer]:
+                    - /url: /about-us/careers#section2
+                - listitem [ref=e526]:
+                  - link "Student Corner" [ref=e527] [cursor=pointer]:
+                    - /url: /student-space
+                - listitem [ref=e528]:
+                  - link "Downloads" [ref=e529] [cursor=pointer]:
+                    - /url: /admissions/downloads
+                - listitem [ref=e530]:
+                  - link "BEST Centre" [ref=e531] [cursor=pointer]:
+                    - /url: /upes-best-centre
+                - listitem [ref=e532]:
+                  - link "IQAC" [ref=e533] [cursor=pointer]:
+                    - /url: /iqac
+                - listitem [ref=e534]:
+                  - link "National Academic Depository" [ref=e535] [cursor=pointer]:
+                    - /url: /national-academic-depository-nad
+                - listitem [ref=e536]:
+                  - link "Sustainable Development Goal" [ref=e537] [cursor=pointer]:
+                    - /url: /sustainable-development-goals
+        - generic [ref=e538]:
+          - generic [ref=e539]:
+            - heading "Kandoli Campus, Dehradun" [level=4] [ref=e540]
+            - paragraph [ref=e542]:
+              - text: P.O. Kandoli Via Premnagar,
+              - text: Dehradun-248007
+          - generic [ref=e543]:
+            - heading "Bidholi Campus, Dehradun" [level=4] [ref=e544]
+            - paragraph [ref=e546]:
+              - text: P.O. Bidholi Via Premnagar,
+              - text: Dehradun-248007
+          - generic [ref=e547]:
+            - heading "Corporate Office" [level=4] [ref=e548]
+            - paragraph [ref=e550]:
+              - text: 216B I, Second Floor,
+              - text: Splendor Forum, Plot Bearing No. 3,
+              - text: Jasola District Centre, Jasola,
+              - text: New Delhi-110025
+          - generic [ref=e551]:
+            - heading "Contact Us" [level=4] [ref=e552]
+            - generic [ref=e553]:
+              - paragraph [ref=e554]:
+                - text: "Toll Free :"
+                - link "18001028737" [ref=e555] [cursor=pointer]:
+                  - /url: tel:18001028737
+              - paragraph [ref=e556]:
+                - text: "Email :"
+                - link "enrollments@upes.ac.in" [ref=e557] [cursor=pointer]:
+                  - /url: mailto:enrollments@upes.ac.in
+              - paragraph [ref=e558]:
+                - text: "For International Queries :"
+                - link "international.admissions@upes.ac.in" [ref=e559] [cursor=pointer]:
+                  - /url: mailto:international.admissions@upes.ac.in
+      - generic [ref=e561]:
+        - generic [ref=e562]:
+          - paragraph [ref=e563]: "Follow Us:"
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "Follow Us on Instagram" [ref=e566] [cursor=pointer]:
+                - /url: https://www.instagram.com/upes_dehradun/
+                - img "UPES" [ref=e568]
+            - listitem [ref=e569]:
+              - link "Follow Us on Facebook" [ref=e570] [cursor=pointer]:
+                - /url: https://www.facebook.com/UPESddnuk
+                - img "UPES" [ref=e572]
+            - listitem [ref=e573]:
+              - link "Follow Us on Youtube" [ref=e574] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/UPESUniversity/featured
+                - img "UPES" [ref=e576]
+            - listitem [ref=e577]:
+              - link "Follow Us on linkedin" [ref=e578] [cursor=pointer]:
+                - /url: https://www.linkedin.com/school/upesdehradun/
+                - img "UPES" [ref=e580]
+            - listitem [ref=e581]:
+              - link "Follow Us on Twitter" [ref=e582] [cursor=pointer]:
+                - /url: https://twitter.com/UPESDehradun
+                - img "UPES" [ref=e584]
+        - paragraph [ref=e586]: Copyright © 2026 UPES. All Rights Reserved.
+        - list [ref=e588]:
+          - listitem [ref=e589]:
+            - link "Privacy Policy" [ref=e590] [cursor=pointer]:
+              - /url: /upes-privacy-policy
+          - listitem [ref=e591]:
+            - link "Terms & Condition" [ref=e592] [cursor=pointer]:
+              - /url: /upes-privacy-policy
+          - listitem [ref=e593]:
+            - link "Sitemap" [ref=e594] [cursor=pointer]:
+              - /url: /sitemap
+  - iframe [ref=e595]:
+    - heading "OPEN DAY 2026 REGISTER NOW" [level=2] [ref=f4e13]:
+      - strong [ref=f4e14]:
+        - text: OPEN DAY 2026
+        - link "REGISTER NOW" [ref=f4e15] [cursor=pointer]:
+          - /url: https://www.upes.ac.in/open-day-registration-form
+  - text:  

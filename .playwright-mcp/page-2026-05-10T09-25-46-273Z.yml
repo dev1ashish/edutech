@@ -1,0 +1,355 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - paragraph [ref=e6]: DBUU CET-2026 · Apply Now · Multiple test windows
+        - generic [ref=e7]:
+          - link "Career" [ref=e8] [cursor=pointer]:
+            - /url: "#apply"
+          - link "Alumni" [ref=e9] [cursor=pointer]:
+            - /url: "#apply"
+          - link "Login" [ref=e10] [cursor=pointer]:
+            - /url: "#apply"
+      - generic [ref=e12]:
+        - link "Dev Bhoomi Uttarakhand University The Best University in Dehradun" [ref=e13] [cursor=pointer]:
+          - /url: /
+          - img [ref=e15]:
+            - generic [ref=e17]: DBUU
+          - generic [ref=e18]:
+            - generic [ref=e19]: Dev Bhoomi Uttarakhand University
+            - generic [ref=e20]: The Best University in Dehradun
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: For Admission
+            - link "1800 103 4049" [ref=e24] [cursor=pointer]:
+              - /url: tel:18001034049
+          - link "Admissions Open · 2026–27" [ref=e25] [cursor=pointer]:
+            - /url: "#apply"
+      - navigation [ref=e26]:
+        - generic [ref=e27]:
+          - link "Home" [ref=e28] [cursor=pointer]:
+            - /url: "#about"
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: "#about"
+          - link "Schools" [ref=e30] [cursor=pointer]:
+            - /url: "#schools"
+          - link "Programmes" [ref=e31] [cursor=pointer]:
+            - /url: "#programmes"
+          - link "Admissions" [ref=e32] [cursor=pointer]:
+            - /url: "#apply"
+          - link "Academics" [ref=e33] [cursor=pointer]:
+            - /url: "#process"
+          - link "Placements" [ref=e34] [cursor=pointer]:
+            - /url: "#placements"
+          - link "Life@DBUU" [ref=e35] [cursor=pointer]:
+            - /url: "#campus"
+          - link "Contact" [ref=e36] [cursor=pointer]:
+            - /url: "#contact"
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - paragraph [ref=e41]: DBUU-CET 2026 · Apply Now
+        - heading "The Best University in Dehradun, Uttarakhand" [level=1] [ref=e42]:
+          - text: The Best University
+          - text: in Dehradun, Uttarakhand
+        - paragraph [ref=e43]: 170+ programmes · 12 schools · 42-acre campus · NAAC A+ · Scholarships worth ₹25 Cr disbursed every year. Admissions open for the 2026–27 academic session.
+        - generic [ref=e44]:
+          - link "Apply Now →" [ref=e45] [cursor=pointer]:
+            - /url: "#apply"
+          - link "View Programmes" [ref=e46] [cursor=pointer]:
+            - /url: "#programmes"
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - paragraph [ref=e49]: 21+
+          - paragraph [ref=e50]: Years of Excellence
+        - generic [ref=e51]:
+          - paragraph [ref=e52]: 42 Acres
+          - paragraph [ref=e53]: Lush Green Campus
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: 170+
+          - paragraph [ref=e56]: Programmes
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: 10000+
+          - paragraph [ref=e59]: Students on Campus
+    - generic [ref=e61]:
+      - paragraph [ref=e62]: Dev Bhoomi Uttarakhand University
+      - heading "Recognised. Ranked. Reaching new milestones." [level=2] [ref=e63]
+      - generic [ref=e64]:
+        - article [ref=e65]:
+          - paragraph [ref=e66]: 1st
+          - paragraph [ref=e67]: Ranked
+          - paragraph [ref=e68]: In Uttarakhand (Professional Education) — Education World Rankings 2025–26
+        - article [ref=e69]:
+          - paragraph [ref=e70]: 8th
+          - paragraph [ref=e71]: Ranked
+          - paragraph [ref=e72]: Outstanding Achievement in Professional Education — Education World Rankings
+        - article [ref=e73]:
+          - paragraph [ref=e74]: A+
+          - paragraph [ref=e75]: NAAC
+          - paragraph [ref=e76]: Accredited and recognised under UGC, AICTE, BCI, PCI and INC
+        - article [ref=e77]:
+          - paragraph [ref=e78]: ₹25 Cr
+          - paragraph [ref=e79]: Scholarships
+          - paragraph [ref=e80]: Total scholarship pool disbursed across UG and PG cohorts since 2019
+      - generic [ref=e81]:
+        - paragraph [ref=e82]: Accreditations & Recognitions
+        - generic [ref=e83]:
+          - generic [ref=e84]: UGC
+          - generic [ref=e85]: AICTE
+          - generic [ref=e86]: BCI
+          - generic [ref=e87]: PCI
+          - generic [ref=e88]: INC
+          - generic [ref=e89]: NCTE
+          - generic [ref=e90]: NAAC A+
+    - generic [ref=e92]:
+      - paragraph [ref=e93]: Why DBUU
+      - heading "Who Needs Magic Carpets When You Can Fly with Education" [level=2] [ref=e94]
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]: "01"
+          - paragraph [ref=e98]: 12 Schools
+        - generic [ref=e99]:
+          - generic [ref=e100]: "02"
+          - paragraph [ref=e101]: 800+ Expert Faculties & Staff
+        - generic [ref=e102]:
+          - generic [ref=e103]: "03"
+          - paragraph [ref=e104]: State-of-the-Art Infrastructure
+        - generic [ref=e105]:
+          - generic [ref=e106]: "04"
+          - paragraph [ref=e107]: Strong Industry Connections
+        - generic [ref=e108]:
+          - generic [ref=e109]: "05"
+          - paragraph [ref=e110]: 50+ National & International Collaborations
+        - generic [ref=e111]:
+          - generic [ref=e112]: "06"
+          - paragraph [ref=e113]: Vibrant Campus Life
+        - generic [ref=e114]:
+          - generic [ref=e115]: "07"
+          - paragraph [ref=e116]: Scholarships Worth ₹25 Crores
+        - generic [ref=e117]:
+          - generic [ref=e118]: "08"
+          - paragraph [ref=e119]: DBUU-CET — Multiple Test Windows
+    - generic [ref=e121]:
+      - paragraph [ref=e122]: 12 Schools · One Campus
+      - heading "Schools at DBUU" [level=2] [ref=e123]
+      - generic [ref=e124]:
+        - generic [ref=e125]: School of Engineering & Computing
+        - generic [ref=e126]: School of Pharmacy & Research
+        - generic [ref=e127]: School of Business
+        - generic [ref=e128]: School of Health Sciences
+        - generic [ref=e129]: School of Hospitality & Tourism
+        - generic [ref=e130]: School of Allied Health Sciences
+        - generic [ref=e131]: School of Agriculture
+        - generic [ref=e132]: School of Law
+        - generic [ref=e133]: School of Liberal Arts
+        - generic [ref=e134]: School of Education
+        - generic [ref=e135]: School of Media & Communication
+        - generic [ref=e136]: School of Sciences
+    - generic [ref=e138]:
+      - paragraph [ref=e139]: Programmes Offered
+      - heading "170+ Programmes Across UG, PG & Doctoral" [level=2] [ref=e140]
+      - generic [ref=e141]:
+        - article [ref=e142]:
+          - heading "Undergraduate" [level=3] [ref=e143]
+          - list [ref=e144]:
+            - listitem [ref=e145]: → B.Tech CSE / AI / Cyber
+            - listitem [ref=e146]: → B.Pharm
+            - listitem [ref=e147]: → BBA / B.Com (Hons.)
+            - listitem [ref=e148]: → BA LLB / BBA LLB
+            - listitem [ref=e149]: → BCA / BCA AI
+            - listitem [ref=e150]: → B.Sc. Nursing / Agri / Hospitality
+            - listitem [ref=e151]: → BPT / BMLT / B.Optom
+            - listitem [ref=e152]: → BHMCT
+        - article [ref=e153]:
+          - heading "Postgraduate" [level=3] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]: → M.Tech (CSE / Civil)
+            - listitem [ref=e157]: → M.Pharm
+            - listitem [ref=e158]: → MBA (HR / Mktg / Fin / Analytics)
+            - listitem [ref=e159]: → MCA
+            - listitem [ref=e160]: → LLM
+            - listitem [ref=e161]: → M.Sc. Agri / Nursing
+            - listitem [ref=e162]: → MA Eng / Eco / Pol Sc
+            - listitem [ref=e163]: → MPT
+        - article [ref=e164]:
+          - heading "Doctoral & Diploma" [level=3] [ref=e165]
+          - list [ref=e166]:
+            - listitem [ref=e167]: → PhD across all schools
+            - listitem [ref=e168]: → Pharm.D
+            - listitem [ref=e169]: → Polytechnic Diploma
+            - listitem [ref=e170]: → Lateral entry — B.Tech / BCA / B.Pharm
+            - listitem [ref=e171]: → Bridge programmes for working professionals
+    - generic [ref=e173]:
+      - paragraph [ref=e174]: Admission Process
+      - heading "Four steps from interest to your seat at DBUU" [level=2] [ref=e175]
+      - generic [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]: "01"
+          - heading "Register for DBUU-CET" [level=3] [ref=e179]
+          - paragraph [ref=e180]: Fill the application form, choose programme of interest and pay the registration fee online.
+        - generic [ref=e181]:
+          - generic [ref=e182]: "02"
+          - heading "Appear for DBUU-CET" [level=3] [ref=e183]
+          - paragraph [ref=e184]: 90-minute online entrance test conducted in multiple windows. Selected programmes also accept JEE Main, NEET, MAT, CAT.
+        - generic [ref=e185]:
+          - generic [ref=e186]: "03"
+          - heading "Counselling & Offer" [level=3] [ref=e187]
+          - paragraph [ref=e188]: Counselling within 7 days of result. Provisional offer letter and scholarship slab issued at the same time.
+        - generic [ref=e189]:
+          - generic [ref=e190]: "04"
+          - heading "Admission Confirmation" [level=3] [ref=e191]
+          - paragraph [ref=e192]: Pay first-instalment fee online to confirm seat. Hostel allotment and orientation date follow.
+    - generic [ref=e194]:
+      - paragraph [ref=e195]: Placements at DBUU
+      - heading "From classroom to corporate" [level=2] [ref=e196]
+      - paragraph [ref=e197]: Highest package recorded ₹24 LPA with consistent industry-aligned recruitment from Wipro, HCL, Tech Mahindra, Cognizant, Capgemini, Apollo, Hero MotoCorp, ICICI and Axis Bank. Our placement cell organises pre-placement training and live industry projects from the second year onwards.
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - paragraph [ref=e200]: ₹24 L
+          - paragraph [ref=e201]: Highest Package
+        - generic [ref=e202]:
+          - paragraph [ref=e203]: 300+
+          - paragraph [ref=e204]: Recruiters
+        - generic [ref=e205]:
+          - paragraph [ref=e206]: 90%
+          - paragraph [ref=e207]: Placement Eligible Branches
+        - generic [ref=e208]:
+          - paragraph [ref=e209]: 50+
+          - paragraph [ref=e210]: Industry MoUs
+      - generic [ref=e211]:
+        - generic [ref=e212]: Wipro
+        - generic [ref=e213]: HCL
+        - generic [ref=e214]: Tech Mahindra
+        - generic [ref=e215]: Cognizant
+        - generic [ref=e216]: Capgemini
+        - generic [ref=e217]: Apollo
+        - generic [ref=e218]: Hero MotoCorp
+        - generic [ref=e219]: ICICI
+        - generic [ref=e220]: Axis Bank
+        - generic [ref=e221]: Berger Paints
+        - generic [ref=e222]: Maruti Suzuki
+        - generic [ref=e223]: Tata
+    - generic [ref=e225]:
+      - generic [ref=e226]:
+        - paragraph [ref=e227]: Apply Now
+        - heading "Begin your DBUU 2026 application" [level=2] [ref=e228]
+        - paragraph [ref=e229]: The form on the right reaches the admissions team directly. A counsellor will call within 24 hours with eligibility, DBUU-CET schedule, fee schedule and scholarship slab.
+        - generic [ref=e230]:
+          - paragraph [ref=e231]: Admission Helpline
+          - paragraph [ref=e232]: 1800 103 4049
+          - paragraph [ref=e233]: Email
+          - paragraph [ref=e234]: admissions@dbuu.ac.in
+          - paragraph [ref=e235]: Campus
+          - paragraph [ref=e236]: Navgaon, Manduwala, Chakrata Road, Dehradun, Uttarakhand – 248007
+      - generic [ref=e238]:
+        - paragraph [ref=e239]: DBUU-CET 2026 Application
+        - heading "Apply for Dev Bhoomi University Admission" [level=3] [ref=e240]
+        - form "Dev Bhoomi admissions enquiry form" [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e243]: Full Name*
+            - textbox "Full Name" [ref=e244]:
+              - /placeholder: Your full name
+          - generic [ref=e245]:
+            - generic [ref=e246]: Phone Number*
+            - textbox "Phone Number" [ref=e247]:
+              - /placeholder: 10-digit mobile number
+          - generic [ref=e248]:
+            - generic [ref=e249]: Email ID
+            - textbox "Email ID" [ref=e250]:
+              - /placeholder: Your email address
+          - generic [ref=e251]:
+            - generic [ref=e252]: State*
+            - combobox "State" [ref=e253]:
+              - option "-- Select State --" [disabled] [selected]
+              - option "Uttarakhand"
+              - option "Uttar Pradesh"
+              - option "Delhi"
+              - option "Haryana"
+              - option "Punjab"
+              - option "Himachal Pradesh"
+              - option "Rajasthan"
+              - option "Bihar"
+              - option "Madhya Pradesh"
+              - option "Maharashtra"
+              - option "Karnataka"
+              - option "Tamil Nadu"
+              - option "West Bengal"
+              - option "Gujarat"
+              - option "Kerala"
+              - option "Andhra Pradesh"
+              - option "Telangana"
+              - option "Odisha"
+              - option "Jharkhand"
+              - option "Assam"
+              - option "Other"
+          - generic [ref=e254]:
+            - generic [ref=e255]: Programme of Interest*
+            - combobox "Programme of Interest" [ref=e256]:
+              - option "-- Select Programme --" [disabled] [selected]
+              - option "B.Tech CSE / AI / Cyber"
+              - option "B.Pharm / Pharm.D"
+              - option "BBA / B.Com"
+              - option "BA LLB / BBA LLB"
+              - option "BCA / MCA"
+              - option "B.Sc. Nursing / Agri"
+              - option "BHMCT / Hospitality"
+              - option "MBA"
+              - option "M.Tech / M.Pharm"
+              - option "PhD"
+              - option "Other"
+          - generic [ref=e257]:
+            - checkbox "I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND." [ref=e258]
+            - generic [ref=e259]: I authorise the admissions team to contact me by call, SMS, WhatsApp or email regarding my enquiry. This will override the registry on DND.
+          - button "APPLY NOW" [ref=e260]
+    - generic [ref=e262]:
+      - paragraph [ref=e263]: Frequently Asked
+      - heading "Frequently Asked Questions" [level=2] [ref=e264]
+      - generic [ref=e265]:
+        - group [ref=e266]:
+          - generic "Is DBUU recognised by UGC? +" [ref=e267] [cursor=pointer]
+        - group [ref=e268]:
+          - generic "What is DBUU-CET? +" [ref=e269] [cursor=pointer]
+        - group [ref=e270]:
+          - generic "Are scholarships available? +" [ref=e271] [cursor=pointer]
+        - group [ref=e272]:
+          - generic "What about placements? +" [ref=e273] [cursor=pointer]
+    - contentinfo [ref=e274]:
+      - generic [ref=e275]:
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - paragraph [ref=e278]: Dev Bhoomi Uttarakhand University
+            - paragraph [ref=e279]: The Best University in Dehradun · NAAC A+
+            - paragraph [ref=e280]:
+              - text: Navgaon, Manduwala, Chakrata Road,
+              - text: Dehradun, Uttarakhand – 248007
+          - generic [ref=e281]:
+            - paragraph [ref=e282]: Admissions
+            - paragraph [ref=e283]:
+              - text: Helpline · 1800 103 4049
+              - text: Email · admissions@dbuu.ac.in
+          - generic [ref=e284]:
+            - paragraph [ref=e285]: Quick Links
+            - list [ref=e286]:
+              - listitem [ref=e287]:
+                - link "Schools" [ref=e288] [cursor=pointer]:
+                  - /url: "#schools"
+              - listitem [ref=e289]:
+                - link "Programmes" [ref=e290] [cursor=pointer]:
+                  - /url: "#programmes"
+              - listitem [ref=e291]:
+                - link "Admission Process" [ref=e292] [cursor=pointer]:
+                  - /url: "#process"
+              - listitem [ref=e293]:
+                - link "Apply Now" [ref=e294] [cursor=pointer]:
+                  - /url: "#apply"
+              - listitem [ref=e295]:
+                - link "Privacy Policy" [ref=e296] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e297]:
+                - link "Terms of Service" [ref=e298] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e299]:
+          - paragraph [ref=e300]: © 2026 Dev Bhoomi Uttarakhand University Admissions.
+          - paragraph [ref=e301]: UGC · AICTE · BCI · PCI · INC · NAAC A+
+  - button "Open Next.js Dev Tools" [ref=e307] [cursor=pointer]:
+    - img [ref=e308]
+  - alert [ref=e311]

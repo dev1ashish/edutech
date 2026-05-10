@@ -1,0 +1,1850 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link "DBUU CET-2026 - Apply Now " [ref=e10] [cursor=pointer]:
+          - /url: https://apply.dbuu.ac.in/dbuucet?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - strong [ref=e11]:
+            - text: DBUU CET-2026 - Apply Now
+            - generic [ref=e12]: 
+        - text: 
+      - button "Previous" [ref=e13] [cursor=pointer]:
+        - generic [ref=e15]: Previous
+      - button "Next" [ref=e16] [cursor=pointer]:
+        - generic [ref=e18]: Next
+    - list [ref=e22]:
+      - listitem [ref=e23]:
+        - link "IQAC" [ref=e24] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/admissions/iqac/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e25]:
+        - link "EVENTS" [ref=e26] [cursor=pointer]:
+          - /url: https://events.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e27]:
+        - link "LOGIN" [ref=e28] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/admissions/login/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e29]:
+        - link "CAREER" [ref=e30] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/admissions/life-at-dbuu/career.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e31]:
+        - link "ALUMNI" [ref=e32] [cursor=pointer]:
+          - /url: https://alumni.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e33]:
+        - button "OTHER" [ref=e34] [cursor=pointer]
+      - listitem [ref=e35]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/search.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - generic [ref=e37]: 
+    - list [ref=e41]:
+      - listitem [ref=e42]:
+        - link "STUDENT CORNER" [ref=e43] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/admissions/student-corner/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e44]:
+        - link "BLOG" [ref=e45] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/blog/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - listitem [ref=e46]:
+        - link "LIBRARY" [ref=e47] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/admissions/academics/library.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+  - banner [ref=e48]:
+    - generic [ref=e50]:
+      - link "Dev Bhoomi Uttarakhand University" [ref=e52] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img "Dev Bhoomi Uttarakhand University" [ref=e53]
+      - generic [ref=e54]:
+        - generic "Call Us Now" [ref=e55]:
+          - generic [ref=e57]: 
+          - link "For Admission Enquiry 18001034049" [ref=e59] [cursor=pointer]:
+            - /url: tel:18001034049
+            - generic [ref=e60]: For Admission Enquiry
+            - strong [ref=e61]: "18001034049"
+        - generic "Apply Now" [ref=e62]:
+          - generic [ref=e63]: 
+          - link "Admissions Open For Session 2026-27" [ref=e65] [cursor=pointer]:
+            - /url: https://apply.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - strong [ref=e66]: Admissions Open
+            - text: For Session 2026-27
+        - link "DBUU CET 2026" [ref=e67] [cursor=pointer]:
+          - /url: https://apply.dbuu.ac.in/dbuucet?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "DBUU CET 2026" [ref=e68]
+  - navigation [ref=e71]:
+    - generic [ref=e72]:
+      - text: 
+      - generic [ref=e73]:
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - link "Home" [ref=e76] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e77]:
+            - link "About Us" [ref=e78] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e79]:
+            - link "Schools" [ref=e80] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e81]:
+            - link "Programmes" [ref=e82] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e83]:
+            - link "Admissions" [ref=e84] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e85]:
+            - link "Academics" [ref=e86] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e87]:
+            - link "Research" [ref=e88] [cursor=pointer]:
+              - /url: https://research.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e89]:
+            - link "Placements" [ref=e90] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e91]:
+            - link "Life@DBUU" [ref=e92] [cursor=pointer]:
+              - /url: javascript:void(0)?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - listitem [ref=e93]:
+            - link "Contact Us" [ref=e94] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/find-us/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - text:      
+  - generic [ref=e96]:
+    - link "DBUU CET Exam" [ref=e99] [cursor=pointer]:
+      - /url: https://pinak.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - img "DBUU CET Exam" [ref=e100]
+    - button "Previous" [ref=e101] [cursor=pointer]:
+      - generic [ref=e103]: Previous
+    - button "Next" [ref=e104] [cursor=pointer]:
+      - generic [ref=e106]: Next
+  - generic [ref=e109]:
+    - generic [ref=e111]:
+      - generic [ref=e113]:
+        - generic:
+          - generic: 
+        - heading "21+" [level=3] [ref=e114]
+        - paragraph [ref=e115]: Years of Excellence
+      - generic [ref=e117]:
+        - generic:
+          - generic: 
+        - heading "42 Acres" [level=3] [ref=e118]
+        - paragraph [ref=e119]: Lush Green Campus
+      - generic [ref=e121]:
+        - generic:
+          - generic: 
+        - heading "120+" [level=3] [ref=e122]
+        - paragraph [ref=e123]: Programmes
+      - generic [ref=e125]:
+        - generic:
+          - generic: 
+        - heading "10000+" [level=3] [ref=e126]
+        - paragraph [ref=e127]: Students on Campus
+    - generic [ref=e128]:
+      - heading "Academic Notifications" [level=2] [ref=e130]
+      - generic [ref=e131]:
+        - tabpanel [ref=e133]:
+          - generic [ref=e134]:
+            - generic [ref=e135] [cursor=pointer]: 
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - generic [ref=e141]: 16-Apr-2026
+                  - paragraph [ref=e142]:
+                    - text: Datesheet Supplementary Examination April-May 2026
+                    - img [ref=e143]
+                - link [ref=e145] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/examination-schedule.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e146]: 
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - generic [ref=e150]: 16-Apr-2026
+                  - paragraph [ref=e151]:
+                    - text: "Notice: Supplementary Examination April-May 2026"
+                    - img [ref=e152]
+                - link [ref=e154] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/download/Office%20Order_Supplementary%20Exam%20April%20-May%202026.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e155]: 
+              - generic "Uploaded on 25-Apr-2026" [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e159]: 25-Apr-2026
+                  - paragraph [ref=e160]:
+                    - text: Announcement of PINAK 2026
+                    - img "noti-icon" [ref=e161]
+                - link "Read More" [ref=e163] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/1OChh4Tw97yLRGMPnWewsbqn01h8Grcpo/view?usp=drive_link&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e164]: 
+              - generic "Uploaded on 25-Apr-2026" [ref=e165]:
+                - generic [ref=e166]:
+                  - generic [ref=e168]: 25-Apr-2026
+                  - paragraph [ref=e169]:
+                    - text: Datesheet for End Semester Theory Examinations (Even Semester -Regular) & Winter Session 2025 -26
+                    - img "noti-icon" [ref=e170]
+                - link "Read More" [ref=e172] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/examination-schedule.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e173]: 
+              - generic [ref=e174]:
+                - generic [ref=e175]:
+                  - generic [ref=e177]: 16-Apr-2026
+                  - paragraph [ref=e178]:
+                    - text: Datesheet Supplementary Examination April-May 2026
+                    - img [ref=e179]
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/examination-schedule.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e182]: 
+              - generic [ref=e183]:
+                - generic [ref=e184]:
+                  - generic [ref=e186]: 16-Apr-2026
+                  - paragraph [ref=e187]:
+                    - text: "Notice: Supplementary Examination April-May 2026"
+                    - img [ref=e188]
+                - link [ref=e190] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/download/Office%20Order_Supplementary%20Exam%20April%20-May%202026.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e191]: 
+              - generic [ref=e192]:
+                - generic [ref=e193]:
+                  - generic [ref=e195]: 25-Apr-2026
+                  - paragraph [ref=e196]:
+                    - text: Announcement of PINAK 2026
+                    - img [ref=e197]
+                - link [ref=e199] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/1OChh4Tw97yLRGMPnWewsbqn01h8Grcpo/view?usp=drive_link&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e200]: 
+              - generic [ref=e201]:
+                - generic [ref=e202]:
+                  - generic [ref=e204]: 25-Apr-2026
+                  - paragraph [ref=e205]:
+                    - text: Datesheet for End Semester Theory Examinations (Even Semester -Regular) & Winter Session 2025 -26
+                    - img [ref=e206]
+                - link [ref=e208] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/examination-schedule.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e209]: 
+              - generic [ref=e210]:
+                - generic [ref=e211]:
+                  - generic [ref=e213]: 16-Apr-2026
+                  - paragraph [ref=e214]:
+                    - text: Datesheet Supplementary Examination April-May 2026
+                    - img [ref=e215]
+                - link [ref=e217] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/examination-schedule.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e218]: 
+              - generic [ref=e219]:
+                - generic [ref=e220]:
+                  - generic [ref=e222]: 16-Apr-2026
+                  - paragraph [ref=e223]:
+                    - text: "Notice: Supplementary Examination April-May 2026"
+                    - img [ref=e224]
+                - link [ref=e226] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/download/Office%20Order_Supplementary%20Exam%20April%20-May%202026.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - text: Read More
+                  - generic [ref=e227]: 
+            - generic [ref=e228] [cursor=pointer]: 
+        - link "Click here for all updates" [ref=e229] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/student-corner/notices-and-updates.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - text: Click here for all updates
+          - generic [ref=e230]: 
+  - generic [ref=e233]:
+    - generic [ref=e234]:
+      - paragraph [ref=e235]: Dev Bhoomi Uttarakhand University
+      - heading "The Best University in Dehradun, Uttarakhand" [level=1] [ref=e236]
+    - generic [ref=e237]:
+      - generic [ref=e239]:
+        - heading "1st" [level=3] [ref=e240]:
+          - generic [ref=e241]:
+            - text: "1"
+            - superscript [ref=e242]: st
+        - heading "Ranked" [level=6] [ref=e243]
+        - separator [ref=e244]
+        - paragraph [ref=e245]:
+          - text: In Uttarakhand (Professional Education)
+          - text: "- Education World Rankings 2025–26"
+      - generic [ref=e247]:
+        - heading "8th" [level=3] [ref=e248]:
+          - text: "8"
+          - superscript [ref=e249]: th
+        - heading "Ranked" [level=6] [ref=e250]
+        - separator [ref=e251]
+        - paragraph [ref=e252]:
+          - text: Outstanding Achievement in Professional Education
+          - text: "- Education World Rankings 2025–26"
+      - generic [ref=e254]:
+        - heading "7th" [level=3] [ref=e255]:
+          - text: "7"
+          - superscript [ref=e256]: th
+        - heading "Ranked" [level=6] [ref=e257]
+        - separator [ref=e258]
+        - paragraph [ref=e259]:
+          - text: In North India
+          - text: by THE WEEK
+      - generic [ref=e261]:
+        - heading "31st" [level=3] [ref=e262]:
+          - text: "31"
+          - superscript [ref=e263]: st
+        - heading "Ranked" [level=6] [ref=e264]
+        - separator [ref=e265]
+        - paragraph [ref=e266]:
+          - text: Placement Category
+          - text: (All-India) - Times Rankings 2025
+      - generic [ref=e268]:
+        - heading "66th" [level=3] [ref=e269]:
+          - text: "66"
+          - superscript [ref=e270]: th
+        - heading "Ranked" [level=6] [ref=e271]
+        - separator [ref=e272]
+        - paragraph [ref=e273]:
+          - text: Top Engineering Institutions in India
+          - text: "- Times Rankings 2025"
+      - generic [ref=e275]:
+        - heading "25th" [level=3] [ref=e276]:
+          - text: "25"
+          - superscript [ref=e277]: th
+        - heading "Ranked" [level=6] [ref=e278]
+        - separator [ref=e279]
+        - paragraph [ref=e280]:
+          - text: Top Universities in
+          - text: North India - Times Rankings 2025
+    - generic [ref=e281]:
+      - generic [ref=e283]:
+        - img [ref=e284]
+        - generic [ref=e285]:
+          - link " View 360° Tour" [ref=e286] [cursor=pointer]:
+            - /url: https://dbuu.s3.ap-south-1.amazonaws.com/tour.html?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - generic [ref=e287]: 
+            - text: View 360° Tour
+          - link " Locate Us" [ref=e288] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/sBnqdjFUH9vtxFwU6?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - generic [ref=e289]: 
+            - text: Locate Us
+      - paragraph [ref=e292]:
+        - text: Dev Bhoomi Uttarakhand University Dehradun (DBUU Dehradun) established Under
+        - strong [ref=e293]: Uttarakhand Uthan Samiti
+        - text: is a leading educational institution recognized by the UGC under
+        - strong [ref=e294]: sections 2(f) of the UGC Act, 1956,
+        - text: along with several statutory bodies across India. The University has been awarded as the Best Emerging University by the Asian Education Conclave and Best Placement & Excellence in Academics in North India by the Ministry of Human Resources Development.
+        - text: Spread across 42 acres of green campus, DBUU stands as one of the
+        - strong [ref=e295]: best university in Dehradun
+        - text: ", offering"
+        - strong [ref=e296]: 120+ programs across 12 schools
+        - text: in diverse fields such as Engineering, Management, Law, Pharmacy, Computer Applications, Animation, Design, Hotel Management, Architecture, Paramedical Sciences, Nursing, Hospital Administration, Fashion Design, Mass Communication, Journalism, Allied Sciences, Agriculture, Aerospace Engineering, Aviation, and Airport Management. With advanced laboratories, modern classrooms, industry-collaboration centres, and dedicated research & innovation facilities, DBUU ensures a holistic and experiential learning environment. The University holds accreditations and recognitions from
+        - strong [ref=e297]: UGC, PCI, INC, BCI, UAU, IPC, and CoA,
+        - text: reflecting its commitment to delivering quality higher education with integrity and excellence.
+  - generic [ref=e300]:
+    - heading "Accreditations & Recognitions" [level=2] [ref=e302]
+    - generic [ref=e305]:
+      - link [ref=e307] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Uttarakhand-Nursing-Midwives-Council.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e308]
+      - link [ref=e310] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Bar-Council-of-India.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e311]
+      - img [ref=e313]
+      - img [ref=e315]
+      - link [ref=e317] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/LetterUGC09Jan2026-1.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e318]
+      - link [ref=e320] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Council-of-Architecture.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e321]
+      - link [ref=e323] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/Uttarakhand-Government-Letter.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e324]
+      - link [ref=e326] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/UGC-Letter.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e327]
+      - link "PCI" [ref=e329] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Pharmacy-Council-of-India.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img "PCI" [ref=e330]
+      - link "INC" [ref=e332] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Uttarakhand-Nursing-Midwives-Council.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img "INC" [ref=e333]
+      - link "BCI" [ref=e335] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Bar-Council-of-India.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img "BCI" [ref=e336]
+      - img "UAU" [ref=e338]
+      - img "UBTER" [ref=e340]
+      - link "IPC" [ref=e342] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/LetterUGC09Jan2026-1.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img "IPC" [ref=e343]
+      - link [ref=e345] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Council-of-Architecture.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e346]
+      - link [ref=e348] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/Uttarakhand-Government-Letter.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e349]
+      - link [ref=e351] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/UGC-Letter.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e352]
+      - link [ref=e354] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Pharmacy-Council-of-India.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e355]
+      - link [ref=e357] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Uttarakhand-Nursing-Midwives-Council.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e358]
+      - link [ref=e360] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Bar-Council-of-India.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e361]
+      - img [ref=e363]
+      - img [ref=e365]
+      - link [ref=e367] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/LetterUGC09Jan2026-1.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e368]
+      - link [ref=e370] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/about-us/documents/letter/Council-of-Architecture.pdf?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - img [ref=e371]
+  - generic [ref=e373]:
+    - heading "Who Needs Magic Carpets When You Can Fly with Education" [level=2] [ref=e375]:
+      - text: Who Needs Magic Carpets
+      - text: When You Can Fly with Education
+    - generic [ref=e378]:
+      - generic [ref=e380]:
+        - img "11 Schools" [ref=e381]
+        - generic [ref=e383]: 12 Schools
+      - generic [ref=e385]:
+        - img "800+ Faculty" [ref=e386]
+        - generic [ref=e388]: 800+ Expert Faculties & Staff
+      - generic [ref=e390]:
+        - img "Infrastructure" [ref=e391]
+        - generic [ref=e393]: State-of-the-Art Infrastructure
+      - generic [ref=e395]:
+        - img "Industry" [ref=e396]
+        - generic [ref=e398]: Strong Industry Connections
+      - generic [ref=e400]:
+        - img "Collaborations" [ref=e401]
+        - generic [ref=e403]: 50+ National & International Collaborations
+      - generic [ref=e405]:
+        - img "Campus Life" [ref=e406]
+        - generic [ref=e408]: Vibrant Campus Life
+      - generic [ref=e410]:
+        - img "Scholarships" [ref=e411]
+        - generic [ref=e413]: Scholarships Worth ₹25 Crores
+  - link "DBUU" [ref=e415] [cursor=pointer]:
+    - /url: https://dbuu.s3.ap-south-1.amazonaws.com/tour.html?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+    - img "DBUU" [ref=e416]
+  - generic [ref=e419]:
+    - generic [ref=e420]:
+      - heading "Global Academic & Research Collaborations" [level=2] [ref=e422]:
+        - text: Global Academic &
+        - text: Research Collaborations
+      - generic [ref=e425]:
+        - img [ref=e427]
+        - img [ref=e429]
+        - img [ref=e431]
+        - img "Research Collaborations" [ref=e433]
+        - img [ref=e435]
+        - img [ref=e437]
+        - img [ref=e439]
+        - img [ref=e441]
+        - img [ref=e443]
+        - img [ref=e445]
+        - img [ref=e447]
+        - img [ref=e449]
+        - img [ref=e451]
+        - img [ref=e453]
+        - img [ref=e455]
+        - img [ref=e457]
+        - img [ref=e459]
+        - img [ref=e461]
+        - img [ref=e463]
+        - img [ref=e465]
+        - img [ref=e467]
+    - generic [ref=e469]:
+      - heading "Center of Excellence in Bioinformatics" [level=2] [ref=e471]
+      - generic [ref=e472]:
+        - img "Center of Excellence" [ref=e474]
+        - generic [ref=e475]:
+          - paragraph [ref=e476]:
+            - text: The establishment of a Center of Excellence in Bioinformatics at Dev Bhoomi Uttarakhand University by
+            - strong [ref=e477]: Uttarakhand Science Education & Research Centre (USERC)
+            - text: aims to position the institution as a leader in bioinformatics research and education.
+          - link "Know More" [ref=e478] [cursor=pointer]:
+            - /url: https://research.dbuu.ac.in/center-of-excellence.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+  - generic [ref=e482]:
+    - generic [ref=e483]:
+      - heading "Our Schools" [level=2] [ref=e484]
+      - heading "THE RIGHT CHOICE IS RIGHT IN FRONT OF YOU" [level=4] [ref=e485]
+    - generic [ref=e486]:
+      - generic [ref=e487] [cursor=pointer]: 
+      - generic [ref=e489]:
+        - generic [ref=e490]:
+          - img [ref=e491]
+          - generic [ref=e492]:
+            - heading [level=2] [ref=e493]: School of Nursing (SoN)
+            - link [ref=e494] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/nursing/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e495]: 
+        - generic [ref=e496]:
+          - img [ref=e497]
+          - generic [ref=e498]:
+            - heading [level=2] [ref=e499]: School of Law (SoL)
+            - link [ref=e500] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/law/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e501]: 
+        - generic [ref=e502]:
+          - img [ref=e503]
+          - generic [ref=e504]:
+            - heading [level=2] [ref=e505]: Dev Bhoomi Institute of Polytechnic (DBIP)
+            - link [ref=e506] [cursor=pointer]:
+              - /url: https://www.dbipdehradun.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e507]: 
+        - tabpanel [ref=e508]:
+          - img [ref=e509]
+          - generic [ref=e510]:
+            - heading [level=2] [ref=e511]: School of Engineering & Computing (SoEC)
+            - link [ref=e512] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/engineering/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e513]: 
+        - tabpanel [ref=e514]:
+          - img "School of Management & Commerce" [ref=e515]
+          - generic [ref=e516]:
+            - heading "School of Management & Commerce (SoMC)" [level=2] [ref=e517]
+            - link "View Details" [ref=e518] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/management/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e519]: 
+        - tabpanel [ref=e520]:
+          - img "School of Pharmacy & Research" [ref=e521]
+          - generic [ref=e522]:
+            - heading "School of Pharmacy & Research (SoPR)" [level=2] [ref=e523]:
+              - text: School of Pharmacy &
+              - text: Research (SoPR)
+            - link "View Details" [ref=e524] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/pharmacy/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e525]: 
+        - tabpanel [ref=e526]:
+          - img "School of Hotel Management & Tourism" [ref=e527]
+          - generic [ref=e528]:
+            - heading "School of Hotel Management & Tourism (SoHMT)" [level=2] [ref=e529]
+            - link "View Details" [ref=e530] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/hotel-management/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e531]: 
+        - tabpanel [ref=e532]:
+          - img [ref=e533]
+          - generic [ref=e534]:
+            - heading [level=2] [ref=e535]: School of Allied Sciences (SoAS)
+            - link [ref=e536] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/allied-sciences/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e537]: 
+        - tabpanel [ref=e538]:
+          - img [ref=e539]
+          - generic [ref=e540]:
+            - heading [level=2] [ref=e541]: School of Agriculture (SoA)
+            - link [ref=e542] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/agriculture/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e543]: 
+        - tabpanel [ref=e544]:
+          - img [ref=e545]
+          - generic [ref=e546]:
+            - heading [level=2] [ref=e547]: School of Animation, Design & Planning (SoADP)
+            - link [ref=e548] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/planning-and-design/index.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e549]: 
+        - tabpanel [ref=e550]:
+          - img [ref=e551]
+          - generic [ref=e552]:
+            - heading [level=2] [ref=e553]: Dev Bhoomi School of Architecture (DBSA) (CoA Approved)
+            - link [ref=e554] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/dbsa/index.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e555]: 
+        - tabpanel [ref=e556]:
+          - img [ref=e557]
+          - generic [ref=e558]:
+            - heading [level=2] [ref=e559]: Dev Bhoomi Medical College of Paramedical Sciences (DBMCPS)
+            - link [ref=e560] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/paramedical-sciences/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e561]: 
+        - tabpanel [ref=e562]:
+          - img [ref=e563]
+          - generic [ref=e564]:
+            - heading [level=2] [ref=e565]: School of Journalism & Liberal Arts (SoJLA)
+            - link [ref=e566] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/journalism-liberal-arts/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e567]: 
+        - tabpanel [ref=e568]:
+          - img [ref=e569]
+          - generic [ref=e570]:
+            - heading [level=2] [ref=e571]: School of Nursing (SoN)
+            - link [ref=e572] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/nursing/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e573]: 
+        - tabpanel [ref=e574]:
+          - img [ref=e575]
+          - generic [ref=e576]:
+            - heading [level=2] [ref=e577]: School of Law (SoL)
+            - link [ref=e578] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/law/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e579]: 
+        - tabpanel [ref=e580]:
+          - img [ref=e581]
+          - generic [ref=e582]:
+            - heading [level=2] [ref=e583]: Dev Bhoomi Institute of Polytechnic (DBIP)
+            - link [ref=e584] [cursor=pointer]:
+              - /url: https://www.dbipdehradun.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e585]: 
+        - generic [ref=e586]:
+          - img [ref=e587]
+          - generic [ref=e588]:
+            - heading [level=2] [ref=e589]: School of Engineering & Computing (SoEC)
+            - link [ref=e590] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/engineering/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e591]: 
+        - generic [ref=e592]:
+          - img [ref=e593]
+          - generic [ref=e594]:
+            - heading [level=2] [ref=e595]: School of Management & Commerce (SoMC)
+            - link [ref=e596] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/management/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e597]: 
+        - generic [ref=e598]:
+          - img [ref=e599]
+          - generic [ref=e600]:
+            - heading [level=2] [ref=e601]: School of Pharmacy & Research (SoPR)
+            - link [ref=e602] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/pharmacy/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e603]: 
+        - generic [ref=e604]:
+          - img [ref=e605]
+          - generic [ref=e606]:
+            - heading [level=2] [ref=e607]: School of Hotel Management & Tourism (SoHMT)
+            - link [ref=e608] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/hotel-management/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e609]: 
+        - generic [ref=e610]:
+          - img [ref=e611]
+          - generic [ref=e612]:
+            - heading [level=2] [ref=e613]: School of Allied Sciences (SoAS)
+            - link [ref=e614] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/allied-sciences/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e615]: 
+        - generic [ref=e616]:
+          - img [ref=e617]
+          - generic [ref=e618]:
+            - heading [level=2] [ref=e619]: School of Agriculture (SoA)
+            - link [ref=e620] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/agriculture/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e621]: 
+        - generic [ref=e622]:
+          - img [ref=e623]
+          - generic [ref=e624]:
+            - heading [level=2] [ref=e625]: School of Animation, Design & Planning (SoADP)
+            - link [ref=e626] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/planning-and-design/index.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e627]: 
+        - generic [ref=e628]:
+          - img [ref=e629]
+          - generic [ref=e630]:
+            - heading [level=2] [ref=e631]: Dev Bhoomi School of Architecture (DBSA) (CoA Approved)
+            - link [ref=e632] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/dbsa/index.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e633]: 
+        - generic [ref=e634]:
+          - img [ref=e635]
+          - generic [ref=e636]:
+            - heading [level=2] [ref=e637]: Dev Bhoomi Medical College of Paramedical Sciences (DBMCPS)
+            - link [ref=e638] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/paramedical-sciences/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e639]: 
+        - generic [ref=e640]:
+          - img [ref=e641]
+          - generic [ref=e642]:
+            - heading [level=2] [ref=e643]: School of Journalism & Liberal Arts (SoJLA)
+            - link [ref=e644] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/journalism-liberal-arts/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e645]: 
+        - generic [ref=e646]:
+          - img [ref=e647]
+          - generic [ref=e648]:
+            - heading [level=2] [ref=e649]: School of Nursing (SoN)
+            - link [ref=e650] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/nursing/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e651]: 
+        - generic [ref=e652]:
+          - img [ref=e653]
+          - generic [ref=e654]:
+            - heading [level=2] [ref=e655]: School of Law (SoL)
+            - link [ref=e656] [cursor=pointer]:
+              - /url: https://www.dbuu.ac.in/admissions/law/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e657]: 
+        - generic [ref=e658]:
+          - img [ref=e659]
+          - generic [ref=e660]:
+            - heading [level=2] [ref=e661]: Dev Bhoomi Institute of Polytechnic (DBIP)
+            - link [ref=e662] [cursor=pointer]:
+              - /url: https://www.dbipdehradun.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: View Details
+              - generic [ref=e663]: 
+      - generic [ref=e664] [cursor=pointer]: 
+      - tablist [ref=e665]:
+        - tab "1 of 5" [selected] [ref=e666] [cursor=pointer]: "1"
+        - tab "2 of 5" [ref=e667] [cursor=pointer]: "2"
+        - tab "3 of 5" [ref=e668] [cursor=pointer]: "3"
+        - tab "4 of 5" [ref=e669] [cursor=pointer]: "4"
+        - tab "5 of 5" [ref=e670] [cursor=pointer]: "5"
+        - tab "6 of 5" [ref=e671] [cursor=pointer]: "6"
+        - tab "7 of 5" [ref=e672] [cursor=pointer]: "7"
+        - tab "8 of 5" [ref=e673] [cursor=pointer]: "8"
+        - tab "9 of 5" [ref=e674] [cursor=pointer]: "9"
+        - tab "10 of 5" [ref=e675] [cursor=pointer]: "10"
+        - tab "11 of 5" [ref=e676] [cursor=pointer]: "11"
+        - tab "12 of 5" [ref=e677] [cursor=pointer]: "12"
+        - tab "13 of 5" [ref=e678] [cursor=pointer]: "13"
+  - generic [ref=e680]:
+    - generic [ref=e681]:
+      - heading "CHOOSE YOUR PROGRAMMES" [level=2] [ref=e682]
+      - generic [ref=e684] [cursor=pointer]:
+        - searchbox "Search Programs"
+        - button [ref=e685]:
+          - generic [ref=e686]: 
+    - generic [ref=e690]:
+      - generic [ref=e691]:
+        - tablist [ref=e692]:
+          - tab "UNDERGRADUATE" [ref=e693] [cursor=pointer]
+          - tab "POSTGRADUATE" [ref=e694] [cursor=pointer]
+          - tab "DIPLOMA" [ref=e695] [cursor=pointer]
+          - tab "DOCTORATE" [ref=e696] [cursor=pointer]
+        - generic [ref=e698]:
+          - img "Registration Open 2025" [ref=e699]
+          - generic [ref=e700]:
+            - heading "Admissions Open 2026-27" [level=2] [ref=e701]
+            - link "Apply Now" [ref=e702] [cursor=pointer]:
+              - /url: https://apply.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Apply Now
+              - generic [ref=e703]: 
+      - generic [ref=e705]:
+        - tabpanel "UNDERGRADUATE" [ref=e706]:
+          - generic [ref=e708]:
+            - generic [ref=e709]:
+              - generic [ref=e710]:
+                - heading "School of Engineering & Computing" [level=4] [ref=e711]
+                - generic [ref=e712]:
+                  - generic [ref=e713]:
+                    - heading " Bachelor of Technology" [level=2] [ref=e714]:
+                      - button " Bachelor of Technology" [expanded] [ref=e715] [cursor=pointer]:
+                        - generic [ref=e716]: 
+                        - text: Bachelor of Technology
+                    - text:       
+                  - generic [ref=e717]:
+                    - heading " Bachelor of Technology CSE with specialization" [level=2] [ref=e718]:
+                      - button " Bachelor of Technology CSE with specialization" [ref=e719] [cursor=pointer]:
+                        - generic [ref=e720]: 
+                        - text: Bachelor of Technology CSE with specialization
+                    - text:    
+                  - generic [ref=e721]:
+                    - heading " BCA/BCA with research" [level=2] [ref=e722]:
+                      - button " BCA/BCA with research" [ref=e723] [cursor=pointer]:
+                        - generic [ref=e724]: 
+                        - text: BCA/BCA with research
+                    - text:     
+                  - generic [ref=e725]:
+                    - heading " B.Sc./B.Sc. with research" [level=2] [ref=e726]:
+                      - button " B.Sc./B.Sc. with research" [ref=e727] [cursor=pointer]:
+                        - generic [ref=e728]: 
+                        - text: B.Sc./B.Sc. with research
+                    - text:  
+              - generic [ref=e729]:
+                - heading "School of Management & Commerce" [level=4] [ref=e730]
+                - generic [ref=e731]:
+                  - generic [ref=e732]:
+                    - heading " Bachelor of Business Administration" [level=2] [ref=e733]:
+                      - button " Bachelor of Business Administration" [expanded] [ref=e734] [cursor=pointer]:
+                        - generic [ref=e735]: 
+                        - text: Bachelor of Business Administration
+                    - text:     
+                  - heading " B.Com. Hons" [level=2] [ref=e737]:
+                    - button " B.Com. Hons" [ref=e738] [cursor=pointer]:
+                      - generic [ref=e739]: 
+                      - link "B.Com. Hons" [ref=e740]:
+                        - /url: https://www.dbuu.ac.in/admissions/management/bcom-hons.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " BBA - Aviation and Airport Management" [level=2] [ref=e742]:
+                    - button " BBA - Aviation and Airport Management" [ref=e743] [cursor=pointer]:
+                      - generic [ref=e744]: 
+                      - link "BBA - Aviation and Airport Management" [ref=e745]:
+                        - /url: https://www.dbuu.ac.in/admissions/management/bba-aviation-and-airport-management.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e746]:
+                - heading "School of Pharmacy & Research" [level=4] [ref=e747]
+                - generic [ref=e748]:
+                  - heading " Bachelor of Pharmacy(B.Pharm)" [level=2] [ref=e750]:
+                    - button " Bachelor of Pharmacy(B.Pharm)" [ref=e751] [cursor=pointer]:
+                      - generic [ref=e752]: 
+                      - link "Bachelor of Pharmacy(B.Pharm)" [ref=e753]:
+                        - /url: https://www.dbuu.ac.in/admissions/pharmacy/bachelor-of-pharmacy.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Doctor of Pharmacy(Pharm.D)" [level=2] [ref=e755]:
+                    - button " Doctor of Pharmacy(Pharm.D)" [ref=e756] [cursor=pointer]:
+                      - generic [ref=e757]: 
+                      - link "Doctor of Pharmacy(Pharm.D)" [ref=e758]:
+                        - /url: https://www.dbuu.ac.in/admissions/pharmacy/doctor-of-pharmacy-pharmd.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e759]:
+                - heading "School of Hotel Management & Tourism" [level=4] [ref=e760]
+                - generic [ref=e761]:
+                  - heading " Bachelor of Science - Hotel & Hospitality Management (HHM)" [level=2] [ref=e763]:
+                    - button " Bachelor of Science - Hotel & Hospitality Management (HHM)" [ref=e764] [cursor=pointer]:
+                      - generic [ref=e765]: 
+                      - link "Bachelor of Science - Hotel & Hospitality Management (HHM)" [ref=e766]:
+                        - /url: https://www.dbuu.ac.in/admissions/hotel-management/bsc-hospitality-and-hotel-management.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Bachelor of Hotel Management" [level=2] [ref=e768]:
+                    - button " Bachelor of Hotel Management" [ref=e769] [cursor=pointer]:
+                      - generic [ref=e770]: 
+                      - link "Bachelor of Hotel Management" [ref=e771]:
+                        - /url: https://www.dbuu.ac.in/admissions/hotel-management/bachelor-of-hotel-management.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " BBA - Tourism and Event Management" [level=2] [ref=e773]:
+                    - button " BBA - Tourism and Event Management" [ref=e774] [cursor=pointer]:
+                      - generic [ref=e775]: 
+                      - link "BBA - Tourism and Event Management" [ref=e776]:
+                        - /url: https://www.dbuu.ac.in/admissions/hotel-management/bba-tourism-and-event-management.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e777]:
+                - heading "School of Agriculture" [level=4] [ref=e778]
+                - generic [ref=e779]:
+                  - heading " B.Sc.- Agriculture(Hons.)" [level=2] [ref=e781]:
+                    - button " B.Sc.- Agriculture(Hons.)" [ref=e782] [cursor=pointer]:
+                      - generic [ref=e783]: 
+                      - link "B.Sc.- Agriculture(Hons.)" [ref=e784]:
+                        - /url: https://www.dbuu.ac.in/admissions/agriculture/bsc-agriculture-hons.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " B.Sc. -Forestry (Hons.)" [level=2] [ref=e786]:
+                    - button " B.Sc. -Forestry (Hons.)" [ref=e787] [cursor=pointer]:
+                      - generic [ref=e788]: 
+                      - link "B.Sc. -Forestry (Hons.)" [ref=e789]:
+                        - /url: https://www.dbuu.ac.in/admissions/agriculture/bsc-hons-forestry.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e790]:
+                - heading "School of Animation, Design & Planning" [level=4] [ref=e791]
+                - generic [ref=e792]:
+                  - heading " Bachelor of Design" [level=2] [ref=e793]:
+                    - button " Bachelor of Design" [expanded] [ref=e794] [cursor=pointer]:
+                      - generic [ref=e795]: 
+                      - text: Bachelor of Design
+                  - text:    
+                - heading " Bachelor of Science - Animation, VFX & Gaming" [level=2] [ref=e797]:
+                  - button " Bachelor of Science - Animation, VFX & Gaming" [ref=e798] [cursor=pointer]:
+                    - generic [ref=e799]: 
+                    - link "Bachelor of Science - Animation, VFX & Gaming" [ref=e800]:
+                      - /url: https://www.dbuu.ac.in/admissions/planning-and-design/bsc-animation-and-gaming.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e801]:
+                - heading "Dev Bhoomi School of Architecture (DBSA) (CoA Approved)" [level=4] [ref=e802]
+                - heading " Bachelor of Architecture" [level=2] [ref=e805]:
+                  - button " Bachelor of Architecture" [ref=e806] [cursor=pointer]:
+                    - generic [ref=e807]: 
+                    - link "Bachelor of Architecture" [ref=e808]:
+                      - /url: https://www.dbuu.ac.in/admissions/dbsa/bachelor-of-architecture-b-arch.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - generic [ref=e810]:
+              - generic [ref=e811]:
+                - heading "School of Journalism & Liberal Arts" [level=4] [ref=e812]
+                - generic [ref=e813]:
+                  - generic [ref=e814]:
+                    - heading " Bachelor of Arts" [level=2] [ref=e815]:
+                      - button " Bachelor of Arts" [expanded] [ref=e816] [cursor=pointer]:
+                        - generic [ref=e817]: 
+                        - text: Bachelor of Arts
+                    - text:   
+                  - heading " Bachelor of Fine Arts (BFA)" [level=2] [ref=e819]:
+                    - button " Bachelor of Fine Arts (BFA)" [ref=e820] [cursor=pointer]:
+                      - generic [ref=e821]: 
+                      - link "Bachelor of Fine Arts (BFA)" [ref=e822]:
+                        - /url: https://www.dbuu.ac.in/admissions/journalism-liberal-arts/bachelor-of-fine-arts.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " B.Des. Fashion Design" [level=2] [ref=e824]:
+                    - button " B.Des. Fashion Design" [ref=e825] [cursor=pointer]:
+                      - generic [ref=e826]: 
+                      - link "B.Des. Fashion Design" [ref=e827]:
+                        - /url: https://www.dbuu.ac.in/admissions/journalism-liberal-arts/bdesign-fashion-design.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " B.Sc. Fashion Design" [level=2] [ref=e829]:
+                    - button " B.Sc. Fashion Design" [ref=e830] [cursor=pointer]:
+                      - generic [ref=e831]: 
+                      - link "B.Sc. Fashion Design" [ref=e832]:
+                        - /url: https://www.dbuu.ac.in/admissions/journalism-liberal-arts/bsc-fashion-design.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e833]:
+                - heading "School of Nursing" [level=4] [ref=e834]
+                - heading " Bachelor of Science - Nursing" [level=2] [ref=e837]:
+                  - button " Bachelor of Science - Nursing" [ref=e838] [cursor=pointer]:
+                    - generic [ref=e839]: 
+                    - link "Bachelor of Science - Nursing" [ref=e840]:
+                      - /url: https://www.dbuu.ac.in/admissions/nursing/bsc-nursing.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e841]:
+                - heading "School of Allied Sciences" [level=4] [ref=e842]
+                - generic [ref=e844]:
+                  - heading " Bachelor of Science (Hons.)" [level=2] [ref=e845]:
+                    - button " Bachelor of Science (Hons.)" [expanded] [ref=e846] [cursor=pointer]:
+                      - generic [ref=e847]: 
+                      - text: Bachelor of Science (Hons.)
+                  - text:      
+                  - button " Bachelor of Technology (B.Tech) - Biotechnology" [ref=e848] [cursor=pointer]:
+                    - generic [ref=e849]: 
+                    - link "Bachelor of Technology (B.Tech) - Biotechnology" [ref=e850]:
+                      - /url: https://www.dbuu.ac.in/admissions/allied-sciences/btech-biotech.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e851]:
+                - heading "Dev Bhoomi Medical College of Paramedical Sciences" [level=4] [ref=e852]
+                - generic [ref=e853]:
+                  - generic [ref=e854]:
+                    - heading " Bachelor of" [level=2] [ref=e855]:
+                      - button " Bachelor of" [expanded] [ref=e856] [cursor=pointer]:
+                        - generic [ref=e857]: 
+                        - text: Bachelor of
+                    - text:     
+                  - heading " B.PT (Bachelor of Physiotherapy)" [level=2] [ref=e859]:
+                    - button " B.PT (Bachelor of Physiotherapy)" [ref=e860] [cursor=pointer]:
+                      - generic [ref=e861]: 
+                      - link "B.PT (Bachelor of Physiotherapy)" [ref=e862]:
+                        - /url: https://www.dbuu.ac.in/admissions/paramedical-sciences/bpt-physiotherapy.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Bachelor of Hospital Administration (BHA)" [level=2] [ref=e864]:
+                    - button " Bachelor of Hospital Administration (BHA)" [ref=e865] [cursor=pointer]:
+                      - generic [ref=e866]: 
+                      - link "Bachelor of Hospital Administration (BHA)" [ref=e867]:
+                        - /url: https://www.dbuu.ac.in/admissions/paramedical-sciences/bha.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - generic [ref=e868]:
+                - heading "School of Law" [level=4] [ref=e869]
+                - generic [ref=e870]:
+                  - heading " LL.B" [level=2] [ref=e872]:
+                    - button " LL.B" [ref=e873] [cursor=pointer]:
+                      - generic [ref=e874]: 
+                      - link "LL.B" [ref=e875]:
+                        - /url: https://www.dbuu.ac.in/admissions/law/llb.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Five Years B.A. LL.B (Hons.)" [level=2] [ref=e877]:
+                    - button " Five Years B.A. LL.B (Hons.)" [ref=e878] [cursor=pointer]:
+                      - generic [ref=e879]: 
+                      - link "Five Years B.A. LL.B (Hons.)" [ref=e880]:
+                        - /url: https://www.dbuu.ac.in/admissions/law/ba-llb-hons.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Five Years B.B.A LL.B (Hons.)" [level=2] [ref=e882]:
+                    - button " Five Years B.B.A LL.B (Hons.)" [ref=e883] [cursor=pointer]:
+                      - generic [ref=e884]: 
+                      - link "Five Years B.B.A LL.B (Hons.)" [ref=e885]:
+                        - /url: https://www.dbuu.ac.in/admissions/law/bba-llb-hons.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+                  - heading " Five Years B.Com. LLB (Hons.)" [level=2] [ref=e887]:
+                    - button " Five Years B.Com. LLB (Hons.)" [ref=e888] [cursor=pointer]:
+                      - generic [ref=e889]: 
+                      - link "Five Years B.Com. LLB (Hons.)" [ref=e890]:
+                        - /url: https://www.dbuu.ac.in/admissions/law/bcom-llb-hons.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - text:                                                                                         
+  - text:  
+  - generic [ref=e893]:
+    - generic [ref=e896]:
+      - heading "Happening @DBUU" [level=2] [ref=e898]
+      - generic [ref=e901]:
+        - generic [ref=e903]:
+          - generic [ref=e904]:
+            - generic [ref=e905]: 
+            - generic [ref=e906]: "12"
+            - generic [ref=e907]: May
+            - generic [ref=e908]: "2026"
+          - generic [ref=e909]:
+            - generic [ref=e910]: Navadhara
+            - 'heading "Navadhara 2026: A Technical Fest" [level=4] [ref=e911]'
+            - paragraph [ref=e912]:
+              - generic [ref=e913]: 
+              - text: 09:30 am
+            - paragraph [ref=e914]:
+              - generic [ref=e915]: 
+              - text: Event by SOEC
+            - link "Read More →" [ref=e916] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=navadhara-2026-a-technical-fest&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - generic [ref=e918]:
+          - generic [ref=e919]:
+            - generic [ref=e920]: 
+            - generic [ref=e921]: "09"
+            - generic [ref=e922]: May
+            - generic [ref=e923]: "2026"
+          - generic [ref=e924]:
+            - generic [ref=e925]: Expert Talk
+            - heading "INTERNATIONAL EXPERT SPECIAL SESSION ON HOME BASED BLOOD PRESSURE MONITORING (NEW GUIDELINES 2025) IN COLLABORATION WITH OMRON HEALTH CARE" [level=4] [ref=e926]
+            - paragraph [ref=e927]:
+              - generic [ref=e928]: 
+              - text: 10:00 am
+            - paragraph [ref=e929]:
+              - generic [ref=e930]: 
+              - text: Event by SON
+            - link "Read More →" [ref=e931] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=international-expert-special-session-on-home-based-blood&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - generic [ref=e933]:
+          - generic [ref=e934]:
+            - generic [ref=e935]: 
+            - generic [ref=e936]: "09"
+            - generic [ref=e937]: May
+            - generic [ref=e938]: "2026"
+          - generic [ref=e939]:
+            - generic [ref=e940]: Expert Talk
+            - heading [level=4] [ref=e941]: Expert talk on Onco AI works
+            - paragraph [ref=e942]:
+              - generic [ref=e943]: 
+              - text: 10:00 am
+            - paragraph [ref=e944]:
+              - generic [ref=e945]: 
+              - text: Event by SOEC
+            - link [ref=e946] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=expert-talk-on-onco-ai-works&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+        - generic [ref=e948]:
+          - generic [ref=e949]:
+            - generic [ref=e950]: 
+            - generic [ref=e951]: "05"
+            - generic [ref=e952]: May
+            - generic [ref=e953]: "2026"
+          - generic [ref=e954]:
+            - generic [ref=e955]: Educational Visit
+            - heading [level=4] [ref=e956]: EDUCATIONAL VISIT TO PARLIAMENT OF INDIA
+            - paragraph [ref=e957]:
+              - generic [ref=e958]: 
+              - text: 09:30 am
+            - paragraph [ref=e959]:
+              - generic [ref=e960]: 
+              - text: Event by SOL
+            - link [ref=e961] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=educational-visit-to-parliament-of-india&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+        - generic [ref=e963]:
+          - generic [ref=e964]:
+            - generic [ref=e965]: 
+            - generic [ref=e966]: "04"
+            - generic [ref=e967]: May
+            - generic [ref=e968]: "2026"
+          - generic [ref=e969]:
+            - generic [ref=e970]: Workshop
+            - heading [level=4] [ref=e971]: INS SKILLATHON, 2026
+            - paragraph [ref=e972]:
+              - generic [ref=e973]: 
+              - text: 09:30 am
+            - paragraph [ref=e974]:
+              - generic [ref=e975]: 
+              - text: Event by SON
+            - link [ref=e976] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=ins-skillathon-2026-1&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+        - generic [ref=e978]:
+          - generic [ref=e979]:
+            - generic [ref=e980]: 
+            - generic [ref=e981]: "01"
+            - generic [ref=e982]: May
+            - generic [ref=e983]: "2026"
+          - generic [ref=e984]:
+            - generic [ref=e985]: Workshop
+            - heading [level=4] [ref=e986]: EXPERT TALK ON LEGAL & ETHICAL ASPECTS IN NURSING PRACTICE
+            - paragraph [ref=e987]:
+              - generic [ref=e988]: 
+              - text: 09:30 am
+            - paragraph [ref=e989]:
+              - generic [ref=e990]: 
+              - text: Event by SON
+            - link [ref=e991] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=expert-talk-on-legal-ethical-aspects-in-nursing&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+        - generic [ref=e993]:
+          - generic [ref=e994]:
+            - generic [ref=e995]: 
+            - generic [ref=e996]: "01"
+            - generic [ref=e997]: May
+            - generic [ref=e998]: "2026"
+          - generic [ref=e999]:
+            - generic [ref=e1000]: Expert Talk
+            - heading [level=4] [ref=e1001]: A Session on How to Plan for Start-up and Legal & Ethical Steps
+            - paragraph [ref=e1002]:
+              - generic [ref=e1003]: 
+              - text: 10:30 am
+            - paragraph [ref=e1004]:
+              - generic [ref=e1005]: 
+              - text: Event by SOEC
+            - link [ref=e1006] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=a-session-on-how-to-plan-for-startup&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+        - generic [ref=e1008]:
+          - generic [ref=e1009]:
+            - generic [ref=e1010]: 
+            - generic [ref=e1011]: "01"
+            - generic [ref=e1012]: May
+            - generic [ref=e1013]: "2026"
+          - generic [ref=e1014]:
+            - generic [ref=e1015]: Expert Talk
+            - heading [level=4] [ref=e1016]: Workshop on Prototype/Process Design and Development
+            - paragraph [ref=e1017]:
+              - generic [ref=e1018]: 
+              - text: 10:30 am
+            - paragraph [ref=e1019]:
+              - generic [ref=e1020]: 
+              - text: Event by SOEC
+            - link [ref=e1021] [cursor=pointer]:
+              - /url: https://events.dbuu.ac.in/event-details.php?event=workshop-on-prototypeprocess-design-and-development&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+              - text: Read More →
+      - generic [ref=e1022]:
+        - link "View All →" [ref=e1023] [cursor=pointer]:
+          - /url: https://events.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - generic [ref=e1024]:
+          - button "‹" [disabled] [ref=e1025]
+          - button "›" [ref=e1026] [cursor=pointer]
+    - generic [ref=e1027]:
+      - heading "Campus Life" [level=2] [ref=e1029]
+      - generic [ref=e1030]:
+        - generic [ref=e1033]:
+          - generic [ref=e1035]:
+            - img "Students on campus" [ref=e1036]
+            - generic [ref=e1037]:
+              - heading "10,000+" [level=2] [ref=e1038]
+              - paragraph [ref=e1039]: Students on campus
+          - button [ref=e1040] [cursor=pointer]
+          - button [ref=e1042] [cursor=pointer]
+        - text:    
+  - generic [ref=e1046]:
+    - generic [ref=e1047]:
+      - generic [ref=e1048]:
+        - text: Recent
+        - heading "Placement Highlights" [level=2] [ref=e1049]
+      - separator [ref=e1050]
+      - heading "The World's Leading Companies Recruit DBUU Talent" [level=3] [ref=e1052]:
+        - text: The World's Leading
+        - text: Companies Recruit DBUU Talent
+      - generic [ref=e1053]:
+        - generic [ref=e1055]:
+          - heading "15500+" [level=4] [ref=e1056]
+          - paragraph [ref=e1057]: Placement Offers
+        - generic [ref=e1059]:
+          - heading "850+" [level=4] [ref=e1060]
+          - paragraph [ref=e1061]: Companies Visited
+        - generic [ref=e1063]:
+          - heading "44.4 LPA" [level=4] [ref=e1064]
+          - paragraph [ref=e1065]: Highest Package
+        - generic [ref=e1067]:
+          - heading "22000+" [level=4] [ref=e1068]
+          - paragraph [ref=e1069]: Glorious Alumni
+      - generic [ref=e1070]:
+        - generic [ref=e1072]:
+          - text: 21+
+          - generic [ref=e1073]: Years of Excellence
+        - generic [ref=e1075]:
+          - text: 120+
+          - generic [ref=e1076]: Programmes Offered
+        - generic [ref=e1078]:
+          - text: 80%
+          - generic [ref=e1079]: Placement Record
+        - generic [ref=e1081]:
+          - text: 6 LPA
+          - generic [ref=e1082]: Average CTC offered
+      - generic [ref=e1083]:
+        - link "APPLY NOW →" [ref=e1084] [cursor=pointer]:
+          - /url: https://apply.dbuu.ac.in/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - link "VIEW PLACEMENTS →" [ref=e1085] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/placement/placement-highlights.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+    - generic [ref=e1087]:
+      - img "DBUU Placement" [ref=e1091]
+      - button [ref=e1092] [cursor=pointer]
+      - button [ref=e1094] [cursor=pointer]
+  - generic [ref=e1097]:
+    - heading "Featured Events & Activities @DBUU" [level=2] [ref=e1099]
+    - generic [ref=e1102]:
+      - generic [ref=e1104]:
+        - img [ref=e1106]
+        - paragraph [ref=e1108]:
+          - link [ref=e1109] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/66ami-conference-2025.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Proud moments from the 66th AMI Annual International Conference & Research Conclave (12–15 November 2025), successfully hosted by Dev Bhoomi Uttarakhand University (DBUU), showcasing academic excellence and global collaboration.
+      - generic [ref=e1111]:
+        - img [ref=e1113]
+        - paragraph [ref=e1115]:
+          - link [ref=e1116] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=industryacademia-connect&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University’s School of Hotel Management & Tourism successfully conducted the Industry–Academia Connect on 28th October 2025 at JSR Continental, Dehradun, under the aegis of the Institution’s Innovation Council (IIC)
+      - generic [ref=e1118]:
+        - img [ref=e1120]
+        - paragraph [ref=e1122]:
+          - link [ref=e1123] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=architectural-study-tour&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Our 2nd, 3rd, and 4th-year Architecture students from Dev Bhoomi Uttarakhand University embarked on a 4-day study tour, exploring the marvels of Akshardham and Humayun’s Tomb in Delhi, the timeless Taj Mahal, and the majestic Fatehpur Sikri and Agra Fort in Agra.
+      - generic [ref=e1125]:
+        - img "TRISHIL-26 International Conference Successfully Concluded at Dev Bhoomi Uttarakhand University, Bringing Together Global Academicians, Industry Experts, and Policymakers to Advance Tourism Research, Innovation, and Sustainability Through Meaningful Collaboration, Insightful Discussions, and Knowledge Exchange for the Hospitality Sector." [ref=e1127]
+        - paragraph [ref=e1129]:
+          - link "TRISHIL-26 International Conference Successfully Concluded at Dev Bhoomi Uttarakhand University, Bringing Together Global Academicians, Industry Experts, and Policymakers to Advance Tourism Research, Innovation, and Sustainability Through Meaningful Collaboration, Insightful Discussions, and Knowledge Exchange for the Hospitality Sector." [ref=e1130] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/international-confrerence-trishil-26.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - generic [ref=e1132]:
+        - 'img "Dev Bhoomi Uttarakhand University NSS 7-Day Special Camp (17–23 March 2026): Empowering Volunteers Through Community Service, Awareness Drives, Health Initiatives, and Leadership Development at Naugaun Manduwala, Dehradun" [ref=e1134]'
+        - paragraph [ref=e1136]:
+          - 'link "Dev Bhoomi Uttarakhand University NSS 7-Day Special Camp (17–23 March 2026): Empowering Volunteers Through Community Service, Awareness Drives, Health Initiatives, and Leadership Development at Naugaun Manduwala, Dehradun" [ref=e1137] [cursor=pointer]':
+            - /url: https://www.instagram.com/p/DWQbS0mkvWJ/?img_index=1&igsh=MThueGgyY2toNXhvOA%3D%3D&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - generic [ref=e1139]:
+        - img "Dev Bhoomi Uttarakhand University celebrated International Women’s Day 2026, honouring women who are deeply rooted in resilience and rising as leaders of change. The celebration was graced by Chief Guest Mrs. Geeta Pushkar Dhami, Founder – Sewa Sankal Foundation, and Guest of Honour Mrs. Vinod Prabhakar Uniyal, Vice President – Uttarakhand Women Entrepreneurship Council." [ref=e1141]
+        - paragraph [ref=e1143]:
+          - link "Dev Bhoomi Uttarakhand University celebrated International Women’s Day 2026, honouring women who are deeply rooted in resilience and rising as leaders of change. The celebration was graced by Chief Guest Mrs. Geeta Pushkar Dhami, Founder – Sewa Sankal Foundation, and Guest of Honour Mrs. Vinod Prabhakar Uniyal, Vice President – Uttarakhand Women Entrepreneurship Council." [ref=e1144] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/DVqyI1SEsit/?igsh=MXI5b2I2enNocmd6eg==&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - generic [ref=e1146]:
+        - img [ref=e1148]
+        - paragraph [ref=e1150]:
+          - link [ref=e1151] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/lakshagriha-hackathon?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Lakshagriha 2026 Global Hackathon at the School of Engineering & Computing, Dev Bhoomi Uttarakhand University, brings together 110+ teams from 20 universities to develop innovative software and hardware solutions supporting UN SDGs and Viksit Bharat.
+      - generic [ref=e1153]:
+        - img [ref=e1155]
+        - paragraph [ref=e1157]:
+          - link [ref=e1158] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/DVP6QAEEgXs/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Rangsaz 2026 - International Art Camp and Exhibition at Dev Bhoomi Uttarakhand University Celebrates Creativity, Cultural Exchange, and Artistic Excellence with Participation from Renowned National and International Artists, Scholars, and Students
+      - generic [ref=e1160]:
+        - img [ref=e1162]
+        - paragraph [ref=e1164]:
+          - link [ref=e1165] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/krishi-kumbh-2026.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Krishi Kumbh 2026, being organized by the School of Agriculture, Dev Bhoomi Uttarakhand University from 23rd to 24th February 2026, is envisioned as a comprehensive agricultural festival and outreach programme aimed at promoting innovation, sustainability, and farmer–student–industry interaction.
+      - generic [ref=e1167]:
+        - img [ref=e1169]
+        - paragraph [ref=e1171]:
+          - link [ref=e1172] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/global-industry-academia-summit-2026.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University (DBUU) proudly presents the Global Industry–Academia Summit 2026, focusing on Artificial Intelligence & Machine Learning — shaping the future of industry, commerce, and education through innovation and sustainability.
+      - generic [ref=e1174]:
+        - img [ref=e1176]
+        - paragraph [ref=e1178]:
+          - link [ref=e1179] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/66ami-conference-2025.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Proud moments from the 66th AMI Annual International Conference & Research Conclave (12–15 November 2025), successfully hosted by Dev Bhoomi Uttarakhand University (DBUU), showcasing academic excellence and global collaboration.
+      - generic [ref=e1181]:
+        - img [ref=e1183]
+        - paragraph [ref=e1185]:
+          - link [ref=e1186] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=industryacademia-connect&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University’s School of Hotel Management & Tourism successfully conducted the Industry–Academia Connect on 28th October 2025 at JSR Continental, Dehradun, under the aegis of the Institution’s Innovation Council (IIC)
+      - generic [ref=e1188]:
+        - img [ref=e1190]
+        - paragraph [ref=e1192]:
+          - link [ref=e1193] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=architectural-study-tour&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Our 2nd, 3rd, and 4th-year Architecture students from Dev Bhoomi Uttarakhand University embarked on a 4-day study tour, exploring the marvels of Akshardham and Humayun’s Tomb in Delhi, the timeless Taj Mahal, and the majestic Fatehpur Sikri and Agra Fort in Agra.
+      - generic [ref=e1195]:
+        - img [ref=e1197]
+        - paragraph [ref=e1199]:
+          - link [ref=e1200] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/international-confrerence-trishil-26.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: TRISHIL-26 International Conference Successfully Concluded at Dev Bhoomi Uttarakhand University, Bringing Together Global Academicians, Industry Experts, and Policymakers to Advance Tourism Research, Innovation, and Sustainability Through Meaningful Collaboration, Insightful Discussions, and Knowledge Exchange for the Hospitality Sector.
+      - generic [ref=e1202]:
+        - img [ref=e1204]
+        - paragraph [ref=e1206]:
+          - link [ref=e1207] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/DWQbS0mkvWJ/?img_index=1&igsh=MThueGgyY2toNXhvOA%3D%3D&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: "Dev Bhoomi Uttarakhand University NSS 7-Day Special Camp (17–23 March 2026): Empowering Volunteers Through Community Service, Awareness Drives, Health Initiatives, and Leadership Development at Naugaun Manduwala, Dehradun"
+      - generic [ref=e1209]:
+        - img [ref=e1211]
+        - paragraph [ref=e1213]:
+          - link [ref=e1214] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/DVqyI1SEsit/?igsh=MXI5b2I2enNocmd6eg==&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University celebrated International Women’s Day 2026, honouring women who are deeply rooted in resilience and rising as leaders of change. The celebration was graced by Chief Guest Mrs. Geeta Pushkar Dhami, Founder – Sewa Sankal Foundation, and Guest of Honour Mrs. Vinod Prabhakar Uniyal, Vice President – Uttarakhand Women Entrepreneurship Council.
+      - generic [ref=e1216]:
+        - img [ref=e1218]
+        - paragraph [ref=e1220]:
+          - link [ref=e1221] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/lakshagriha-hackathon?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Lakshagriha 2026 Global Hackathon at the School of Engineering & Computing, Dev Bhoomi Uttarakhand University, brings together 110+ teams from 20 universities to develop innovative software and hardware solutions supporting UN SDGs and Viksit Bharat.
+      - generic [ref=e1223]:
+        - img [ref=e1225]
+        - paragraph [ref=e1227]:
+          - link [ref=e1228] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/DVP6QAEEgXs/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Rangsaz 2026 - International Art Camp and Exhibition at Dev Bhoomi Uttarakhand University Celebrates Creativity, Cultural Exchange, and Artistic Excellence with Participation from Renowned National and International Artists, Scholars, and Students
+      - generic [ref=e1230]:
+        - img [ref=e1232]
+        - paragraph [ref=e1234]:
+          - link [ref=e1235] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/krishi-kumbh-2026.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Krishi Kumbh 2026, being organized by the School of Agriculture, Dev Bhoomi Uttarakhand University from 23rd to 24th February 2026, is envisioned as a comprehensive agricultural festival and outreach programme aimed at promoting innovation, sustainability, and farmer–student–industry interaction.
+      - generic [ref=e1237]:
+        - img [ref=e1239]
+        - paragraph [ref=e1241]:
+          - link [ref=e1242] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/global-industry-academia-summit-2026.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University (DBUU) proudly presents the Global Industry–Academia Summit 2026, focusing on Artificial Intelligence & Machine Learning — shaping the future of industry, commerce, and education through innovation and sustainability.
+      - generic [ref=e1244]:
+        - img [ref=e1246]
+        - paragraph [ref=e1248]:
+          - link [ref=e1249] [cursor=pointer]:
+            - /url: https://www.dbuu.ac.in/events/66ami-conference-2025.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Proud moments from the 66th AMI Annual International Conference & Research Conclave (12–15 November 2025), successfully hosted by Dev Bhoomi Uttarakhand University (DBUU), showcasing academic excellence and global collaboration.
+      - generic [ref=e1251]:
+        - img [ref=e1253]
+        - paragraph [ref=e1255]:
+          - link [ref=e1256] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=industryacademia-connect&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Dev Bhoomi Uttarakhand University’s School of Hotel Management & Tourism successfully conducted the Industry–Academia Connect on 28th October 2025 at JSR Continental, Dehradun, under the aegis of the Institution’s Innovation Council (IIC)
+      - generic [ref=e1258]:
+        - img [ref=e1260]
+        - paragraph [ref=e1262]:
+          - link [ref=e1263] [cursor=pointer]:
+            - /url: https://events.dbuu.ac.in/event-details.php?event=architectural-study-tour&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+            - text: Our 2nd, 3rd, and 4th-year Architecture students from Dev Bhoomi Uttarakhand University embarked on a 4-day study tour, exploring the marvels of Akshardham and Humayun’s Tomb in Delhi, the timeless Taj Mahal, and the majestic Fatehpur Sikri and Agra Fort in Agra.
+    - generic [ref=e1264]:
+      - button "" [ref=e1265] [cursor=pointer]:
+        - generic [ref=e1266]: 
+      - link "View All Events" [ref=e1267] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/events/featured-events.php?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+      - button "" [ref=e1268] [cursor=pointer]:
+        - generic [ref=e1269]: 
+  - generic [ref=e1272]:
+    - generic [ref=e1273]:
+      - heading "Prominent Leaders @DBUU" [level=2] [ref=e1274]
+      - generic [ref=e1275]:
+        - link "LT. GEN. GURMIT SINGH LT. GEN. GURMIT SINGH Hon'ble Governor of Uttarakhand" [ref=e1277] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=arUnqQngYJI&t=14s&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "LT. GEN. GURMIT SINGH" [ref=e1279]
+          - generic [ref=e1280]:
+            - heading "LT. GEN. GURMIT SINGH" [level=5] [ref=e1281]
+            - paragraph [ref=e1282]: Hon'ble Governor of Uttarakhand
+        - link "Prof. (Dr.) Anil Sahasrabudhe Prof. (Dr.) Anil Sahasrabudhe Chairman (NETF, NAAC, NBA)" [ref=e1284] [cursor=pointer]:
+          - /url: https://www.instagram.com/p/C7IxnrgqzNk/?img_index=1&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "Prof. (Dr.) Anil Sahasrabudhe" [ref=e1286]
+          - generic [ref=e1287]:
+            - heading "Prof. (Dr.) Anil Sahasrabudhe" [level=5] [ref=e1288]
+            - paragraph [ref=e1289]: Chairman (NETF, NAAC, NBA)
+        - link "Shri Bhagat Singh Koshyari Shri Bhagat Singh Koshyari Ex Honourable Governor, Maharashtra & Ex Chief Minister of Uttarakhand" [ref=e1291] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=kKpqHucdThs&t=14s&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "Shri Bhagat Singh Koshyari" [ref=e1293]
+          - generic [ref=e1294]:
+            - heading "Shri Bhagat Singh Koshyari" [level=5] [ref=e1295]
+            - paragraph [ref=e1296]: Ex Honourable Governor, Maharashtra & Ex Chief Minister of Uttarakhand
+        - link "Dr. Dhan Singh Rawat Dr. Dhan Singh Rawat Cabinet Minister, Higher Education, Govt. of Uttarakhand" [ref=e1298] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=4rb6XVd5UzY&t=14s&utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "Dr. Dhan Singh Rawat" [ref=e1300]
+          - generic [ref=e1301]:
+            - heading "Dr. Dhan Singh Rawat" [level=5] [ref=e1302]
+            - paragraph [ref=e1303]: Cabinet Minister, Higher Education, Govt. of Uttarakhand
+        - link "Dr. Sci. (Tech) Gleb G. Rogozinsky Dr. Sci. (Tech) Gleb G. Rogozinsky Lead Researcher, Lab of Ecology of Transport Systems, Russia" [ref=e1305] [cursor=pointer]:
+          - /url: https://www.facebook.com/share/p/82yDsWy6jBJQNoCU/?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+          - img "Dr. Sci. (Tech) Gleb G. Rogozinsky" [ref=e1307]
+          - generic [ref=e1308]:
+            - heading "Dr. Sci. (Tech) Gleb G. Rogozinsky" [level=5] [ref=e1309]
+            - paragraph [ref=e1310]: Lead Researcher, Lab of Ecology of Transport Systems, Russia
+        - generic [ref=e1312]:
+          - img "Prof (Dr.) Anita Rawat" [ref=e1314]
+          - generic [ref=e1315]:
+            - heading "Prof (Dr.) Anita Rawat" [level=5] [ref=e1316]
+            - paragraph [ref=e1317]: Director, Uttarakhand Science Education and Research Centre (USERC), Govt. of Uttarakhand
+        - link "View All Leaders →" [ref=e1319] [cursor=pointer]:
+          - /url: https://www.dbuu.ac.in/life-at-dbuu/prominent-leaders-at-dbuu.php
+    - generic [ref=e1320]:
+      - heading "From Corporate to Classroom" [level=2] [ref=e1321]
+      - generic [ref=e1322]:
+        - generic [ref=e1323]:
+          - img "Mr. Abhinav Gambhir" [ref=e1325]
+          - generic [ref=e1326]:
+            - heading "Mr. Abhinav Gambhir" [level=5] [ref=e1327]
+            - paragraph [ref=e1328]:
+              - text: Solution Specialist
+              - text: Apps & Infra, Microsoft, Gurugram
+            - paragraph [ref=e1329]:
+              - img "Visitors" [ref=e1330]
+        - generic [ref=e1331]:
+          - img "Mr. Manoj Bhutani" [ref=e1333]
+          - generic [ref=e1334]:
+            - heading "Mr. Manoj Bhutani" [level=5] [ref=e1335]
+            - paragraph [ref=e1336]:
+              - text: SME, Education Vertical,
+              - text: Google, Dehradun
+            - paragraph [ref=e1337]:
+              - img "Visitors" [ref=e1338]
+        - generic [ref=e1339]:
+          - img "Mr. Sanjay Kathuria" [ref=e1341]
+          - generic [ref=e1342]:
+            - heading "Mr. Sanjay Kathuria" [level=5] [ref=e1343]
+            - paragraph [ref=e1344]:
+              - text: Corporate ENT & Education Lead,
+              - text: Google Cloud India
+            - paragraph [ref=e1345]:
+              - img [ref=e1346]
+        - generic [ref=e1347]:
+          - img "Mr. Subhait Bhattacharya" [ref=e1349]
+          - generic [ref=e1350]:
+            - heading "Mr. Subhait Bhattacharya" [level=5] [ref=e1351]
+            - paragraph [ref=e1352]:
+              - text: Associate Vice President,
+              - text: Innovation Principal, Accenture
+            - paragraph [ref=e1353]:
+              - img "Visitors" [ref=e1354]
+        - generic [ref=e1355]:
+          - img "Mr. Adarsh Srivastava" [ref=e1357]
+          - generic [ref=e1358]:
+            - heading "Mr. Adarsh Srivastava" [level=5] [ref=e1359]
+            - paragraph [ref=e1360]:
+              - text: Former Head (R&D),
+              - text: Mahindra & Mahindra
+            - paragraph [ref=e1361]:
+              - img "Visitors" [ref=e1362]
+      - link "View All →" [ref=e1364] [cursor=pointer]:
+        - /url: https://www.dbuu.ac.in/life-at-dbuu/classroom-to-corporate.php
+  - generic [ref=e1367]:
+    - generic [ref=e1368]:
+      - heading "National & International MoUs & Tie Ups" [level=2] [ref=e1370]:
+        - text: National & International
+        - text: MoUs & Tie Ups
+      - generic [ref=e1372]:
+        - generic [ref=e1373]:
+          - generic [ref=e1374]:
+            - img "University Malaya" [ref=e1375]
+            - link "play-btn" [ref=e1376] [cursor=pointer]:
+              - /url: https://www.instagram.com/p/C5BRyJRoLiR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+              - generic [ref=e1379]: 
+          - text:     
+        - button "Previous" [ref=e1380] [cursor=pointer]:
+          - generic [ref=e1382]: Previous
+        - button "Next" [ref=e1383] [cursor=pointer]:
+          - generic [ref=e1385]: Next
+    - generic [ref=e1386]:
+      - heading "Meet our International Students" [level=2] [ref=e1388]:
+        - text: Meet our
+        - text: International Students
+      - generic [ref=e1389]:
+        - generic [ref=e1390] [cursor=pointer]: 
+        - generic [ref=e1392]:
+          - img [ref=e1395]
+          - link [ref=e1398] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=lTLJSq4Q4m8&t=14s
+            - img [ref=e1399]
+          - img "DBUU's Interational Student" [ref=e1402]
+          - img [ref=e1405]
+          - link [ref=e1408] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=lTLJSq4Q4m8&t=14s
+            - img [ref=e1409]
+          - img [ref=e1412]
+          - img [ref=e1415]
+        - generic [ref=e1416] [cursor=pointer]: 
+  - generic [ref=e1418]:
+    - heading "Our Student Success Stories" [level=2] [ref=e1420]
+    - generic [ref=e1423]:
+      - generic [ref=e1425]:
+        - img "Student Video" [ref=e1426]
+        - link "play-btn" [ref=e1427] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=1rE9CCbKIx8&t=14s
+          - img [ref=e1430]
+      - generic [ref=e1433]:
+        - img "Student Video" [ref=e1434]
+        - link "play-btn" [ref=e1435] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=Hl_2xpZx8n4&t=14s
+          - img [ref=e1438]
+      - generic [ref=e1441]:
+        - img "Student Video" [ref=e1442]
+        - link "play-btn" [ref=e1443] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=2FVtkCh8lUQ&t=14s
+          - img [ref=e1446]
+  - generic [ref=e1449]:
+    - img "Student Speak" [ref=e1451]
+    - generic [ref=e1454]:
+      - generic [ref=e1455]:
+        - generic [ref=e1458]:
+          - img "Arpan Kumar Awasthi" [ref=e1460]
+          - generic [ref=e1462]:
+            - heading [level=5] [ref=e1463]:
+              - generic [ref=e1464]: 
+            - paragraph [ref=e1465]: It's challenging to encapsulate the incredible memories and experiences of my 4 years at Dev Bhoomi Uttarakhand University. Being a part of Dev Bhoomi Uttarakhand University's B.Tech CSE Batch 2019-23 has been truly rewarding. Thanks to the support and education received, I am thrilled to be recently placed at TCS with a 7 LPA package. DBUU has provided a transformative experience, broadening my horizons and making me a more confident individual. Grateful to the faculty and mentors for their altruism and guidance.
+            - generic [ref=e1466]:
+              - heading "Arpan Kumar Awasthi" [level=5] [ref=e1467]
+              - text: (B.Tech CSE | Batch 2019-2023)
+              - text: Placed at
+              - img "TCS" [ref=e1468]
+        - text:     
+      - button "Previous" [ref=e1469] [cursor=pointer]:
+        - generic [ref=e1471]: Previous
+      - button "Next" [ref=e1472] [cursor=pointer]:
+        - generic [ref=e1474]: Next
+  - generic [ref=e1476]:
+    - generic [ref=e1477]:
+      - heading "Students Life @DBUU" [level=2] [ref=e1478]
+      - paragraph [ref=e1479]: A community of curious seekers, inventors, researchers, poets, thinkers, musicians, artists and scholars.
+    - generic [ref=e1480]:
+      - generic [ref=e1481]:
+        - generic [ref=e1482]:
+          - img "DBUU Student Life" [ref=e1485]
+          - button "Previous" [ref=e1486] [cursor=pointer]:
+            - generic [ref=e1488]: Previous
+          - button "Next" [ref=e1489] [cursor=pointer]:
+            - generic [ref=e1491]: Next
+        - generic [ref=e1492]:
+          - img "DBUU Student Life" [ref=e1495]
+          - button "Previous" [ref=e1496] [cursor=pointer]:
+            - generic [ref=e1498]: Previous
+          - button "Next" [ref=e1499] [cursor=pointer]:
+            - generic [ref=e1501]: Next
+      - generic [ref=e1503]:
+        - img "DBUU Student Life" [ref=e1506]
+        - button "Previous" [ref=e1507] [cursor=pointer]:
+          - generic [ref=e1509]: Previous
+        - button "Next" [ref=e1510] [cursor=pointer]:
+          - generic [ref=e1512]: Next
+      - generic [ref=e1513]:
+        - generic [ref=e1514]:
+          - img "DBUU Student Life" [ref=e1517]
+          - button "Previous" [ref=e1518] [cursor=pointer]:
+            - generic [ref=e1520]: Previous
+          - button "Next" [ref=e1521] [cursor=pointer]:
+            - generic [ref=e1523]: Next
+        - generic [ref=e1524]:
+          - img "DBUU Student Life" [ref=e1527]
+          - button "Previous" [ref=e1528] [cursor=pointer]:
+            - generic [ref=e1530]: Previous
+          - button "Next" [ref=e1531] [cursor=pointer]:
+            - generic [ref=e1533]: Next
+  - generic [ref=e1536]:
+    - heading "Recruiters Across Industries" [level=2] [ref=e1538]
+    - generic [ref=e1539]:
+      - generic [ref=e1541]:
+        - img "Recruiters" [ref=e1543]
+        - img "Recruiters" [ref=e1545]
+        - img "Recruiters" [ref=e1547]
+        - img "Recruiters" [ref=e1549]
+        - img "Recruiters" [ref=e1551]
+        - img "Recruiters" [ref=e1553]
+        - img "Recruiters" [ref=e1555]
+        - img "Recruiters" [ref=e1557]
+        - img "Recruiters" [ref=e1559]
+        - img "Recruiters" [ref=e1561]
+        - img "Recruiters" [ref=e1563]
+        - img "Recruiters" [ref=e1565]
+        - img "Recruiters" [ref=e1567]
+        - img "Recruiters" [ref=e1569]
+        - img "Recruiters" [ref=e1571]
+        - img "Recruiters" [ref=e1573]
+        - img "Recruiters" [ref=e1575]
+        - img "Recruiters" [ref=e1577]
+        - img "Recruiters" [ref=e1579]
+        - img "Recruiters" [ref=e1581]
+        - img "Recruiters" [ref=e1583]
+        - img "Recruiters" [ref=e1585]
+        - img "Recruiters" [ref=e1587]
+        - img "Recruiters" [ref=e1589]
+        - img "Recruiters" [ref=e1591]
+        - img "Recruiters" [ref=e1593]
+        - img "Recruiters" [ref=e1595]
+        - img "Recruiters" [ref=e1597]
+        - img "Recruiters" [ref=e1599]
+        - img "Recruiters" [ref=e1601]
+        - img "Recruiters" [ref=e1603]
+        - img "Recruiters" [ref=e1605]
+        - img "Recruiters" [ref=e1607]
+        - img "Recruiters" [ref=e1609]
+        - img "Recruiters" [ref=e1611]
+        - img "Recruiters" [ref=e1613]
+        - img "Recruiters" [ref=e1615]
+        - generic [ref=e1616]:
+          - img "Recruiters"
+        - img "Recruiters" [ref=e1618]
+        - img "Recruiters" [ref=e1620]
+        - img "Recruiters" [ref=e1622]
+        - img "Recruiters" [ref=e1624]
+        - img "Recruiters" [ref=e1626]
+        - img "Recruiters" [ref=e1628]
+        - img "Recruiters" [ref=e1630]
+        - img "Recruiters" [ref=e1632]
+        - img "Recruiters" [ref=e1634]
+        - img "Recruiters" [ref=e1636]
+        - img "Recruiters" [ref=e1638]
+        - img "Recruiters" [ref=e1640]
+        - img "Recruiters" [ref=e1642]
+        - img "Recruiters" [ref=e1644]
+        - img "Recruiters" [ref=e1646]
+        - img "Recruiters" [ref=e1648]
+        - img "Recruiters" [ref=e1650]
+        - img "Recruiters" [ref=e1652]
+        - img "Recruiters" [ref=e1654]
+        - img "Recruiters" [ref=e1656]
+        - img "Recruiters" [ref=e1658]
+        - img "Recruiters" [ref=e1660]
+        - img "Recruiters" [ref=e1662]
+        - img "Recruiters" [ref=e1664]
+        - img "Recruiters" [ref=e1666]
+        - img "Recruiters" [ref=e1668]
+        - img "Recruiters" [ref=e1670]
+        - img "Recruiters" [ref=e1672]
+        - img "Recruiters" [ref=e1674]
+        - img "Recruiters" [ref=e1676]
+        - img "Recruiters" [ref=e1678]
+        - img "Recruiters" [ref=e1680]
+        - img "Recruiters" [ref=e1682]
+        - img "Recruiters" [ref=e1684]
+        - img "Recruiters" [ref=e1686]
+        - img "Recruiters" [ref=e1688]
+        - img "Recruiters" [ref=e1690]
+        - img "Recruiters" [ref=e1692]
+        - img "Recruiters" [ref=e1694]
+        - generic [ref=e1695]:
+          - img "Recruiters"
+        - img "Recruiters" [ref=e1697]
+        - img "Recruiters" [ref=e1699]
+      - generic [ref=e1700]:
+        - button [ref=e1701] [cursor=pointer]:
+          - generic [ref=e1702]: 
+        - button "View All " [ref=e1703] [cursor=pointer]:
+          - link "View All " [ref=e1704]:
+            - /url: https://www.dbuu.ac.in/placement/our-recruiters.php
+            - text: View All
+            - generic [ref=e1705]: 
+        - button [ref=e1706] [cursor=pointer]:
+          - generic [ref=e1707]: 
+  - text: 
+  - generic [ref=e1708]:
+    - link "DBUU 360 Tour" [ref=e1709] [cursor=pointer]:
+      - /url: https://dbuu.s3.ap-south-1.amazonaws.com/tour.html
+      - img [ref=e1710]
+    - link [ref=e1711] [cursor=pointer]:
+      - /url: https://api.whatsapp.com/send/?phone=919411519803&text&type=phone_number&app_absent=0
+      - img [ref=e1712]
+  - contentinfo [ref=e1713]:
+    - generic [ref=e1715]:
+      - generic [ref=e1717]:
+        - img "DBUU Logo" [ref=e1718]
+        - img "21 years of Excellence" [ref=e1719]
+        - generic [ref=e1720]:
+          - heading "Join with us" [level=5] [ref=e1721]
+          - link "" [ref=e1722] [cursor=pointer]:
+            - /url: https://www.facebook.com/DBUUDehradun
+            - generic [ref=e1723]: 
+          - link "" [ref=e1724] [cursor=pointer]:
+            - /url: https://twitter.com/dbuu_dehradun
+            - generic [ref=e1725]: 
+          - link "" [ref=e1726] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/dev-bhoomi-uttarakhand-university
+            - generic [ref=e1727]: 
+          - link "" [ref=e1728] [cursor=pointer]:
+            - /url: https://www.instagram.com/dbuudehradun/
+            - generic [ref=e1729]: 
+          - link "" [ref=e1730] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/devbhoomiuttarakhanduniversity
+            - generic [ref=e1731]: 
+          - link "" [ref=e1732] [cursor=pointer]:
+            - /url: https://api.whatsapp.com/send/?phone=919411519803&text&type=phone_number&app_absent=0
+            - generic [ref=e1733]: 
+        - link "DBUU 360 Tour" [ref=e1734] [cursor=pointer]:
+          - /url: https://dbuu.s3.ap-south-1.amazonaws.com/tour.html
+          - img "DBUU 360 Tour" [ref=e1735]
+      - generic [ref=e1737]:
+        - generic [ref=e1738]:
+          - heading "Quick Links" [level=5] [ref=e1739]
+          - generic [ref=e1740]:
+            - list [ref=e1742]:
+              - listitem [ref=e1743]:
+                - link "About Us" [ref=e1744] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/about-us/
+              - listitem [ref=e1745]:
+                - link "Placements" [ref=e1746] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/placement/
+              - listitem [ref=e1747]:
+                - link "Alumni" [ref=e1748] [cursor=pointer]:
+                  - /url: https://alumni.dbuu.ac.in/
+              - listitem [ref=e1749]:
+                - link "Research" [ref=e1750] [cursor=pointer]:
+                  - /url: https://research.dbuu.ac.in/
+              - listitem [ref=e1751]:
+                - link "Leadership" [ref=e1752] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/about-us/leadership.php
+              - listitem [ref=e1753]:
+                - link "Campus Life" [ref=e1754] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/life-at-dbuu/
+              - listitem [ref=e1755]:
+                - link "Privacy-Policy" [ref=e1756] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/rules-and-policy/privacy-policy.php
+              - listitem [ref=e1757]:
+                - link "Terms and Condition" [ref=e1758] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/rules-and-policy/terms-and-condition.php
+              - listitem [ref=e1759]:
+                - link "Refund and Cancellation Policy" [ref=e1760] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/admission/refund-and-cancellation-policy.php
+              - listitem [ref=e1761]:
+                - link "Student Code of Conduct" [ref=e1762] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/rules-and-policy/student-code-of-conduct.php
+              - listitem [ref=e1763]:
+                - link "Code of Conduct for Teachers" [ref=e1764] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/rules-and-policy/Code-of-Conduct-for-Teachers.pdf
+              - listitem [ref=e1765]:
+                - link "Shodhganga" [ref=e1766] [cursor=pointer]:
+                  - /url: https://shodhganga.inflibnet.ac.in/
+                  - text: Shodhganga
+                  - generic [ref=e1767]: 
+              - listitem [ref=e1768]:
+                - link "Shodhgangotri" [ref=e1769] [cursor=pointer]:
+                  - /url: https://shodhgangotri.inflibnet.ac.in/
+                  - text: Shodhgangotri
+                  - generic [ref=e1770]: 
+              - listitem [ref=e1771]:
+                - link "e-Samadhaan" [ref=e1772] [cursor=pointer]:
+                  - /url: https://samadhaan.ugc.ac.in/
+                  - text: e-Samadhaan
+                  - generic [ref=e1773]: 
+            - list [ref=e1775]:
+              - listitem [ref=e1776]:
+                - link "Vision & Mission" [ref=e1777] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/about-us/vision-and-mission.php
+              - listitem [ref=e1778]:
+                - link "Annual Report" [ref=e1779] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/academics/annual-report.php
+              - listitem [ref=e1780]:
+                - link "Internship Training Program" [ref=e1781] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/placement/internship-training-program.php
+              - listitem [ref=e1782]:
+                - link "Alumni Registration" [ref=e1783] [cursor=pointer]:
+                  - /url: https://alumni.dbuu.ac.in/user/signup.dz
+              - listitem [ref=e1784]:
+                - link "About Dehradun" [ref=e1785] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/about-us/about-dehradun.php
+              - listitem [ref=e1786]:
+                - link "News & Events" [ref=e1787] [cursor=pointer]:
+                  - /url: https://news.dbuu.ac.in/
+              - listitem [ref=e1788]:
+                - link "NDLI CLUB" [ref=e1789] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/about-us/ndli-club.php
+              - listitem [ref=e1790]:
+                - link "Career" [ref=e1791] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/life-at-dbuu/career.php
+              - listitem [ref=e1792]:
+                - link "NIRF" [ref=e1793] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/quick-links/nirf.php
+              - listitem [ref=e1794]:
+                - link "Transport" [ref=e1795] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/life-at-dbuu/transport.php
+              - listitem [ref=e1796]:
+                - link "Call For Paper" [ref=e1797] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/research/call-for-papers.php
+              - listitem [ref=e1798]:
+                - link "UGC Mandatory Disclosure" [ref=e1799] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/disclosure/ugc-mandatory-disclosure.php
+              - listitem [ref=e1800]:
+                - link "A Handbook on Basics of Cyber Hygiene" [ref=e1801] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/assets/A_Handbook_on_Basics_of_Cyber_Hygiene.pdf
+        - generic [ref=e1802]:
+          - heading "Our Schools" [level=5] [ref=e1803]
+          - list [ref=e1804]:
+            - listitem [ref=e1805]:
+              - link "School of Engineering and Computing" [ref=e1806] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/engineering/
+            - listitem [ref=e1807]:
+              - link "School of Management & Commerce" [ref=e1808] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/management/
+            - listitem [ref=e1809]:
+              - link "School of Pharmacy and Research" [ref=e1810] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in//pharmacy/
+            - listitem [ref=e1811]:
+              - link "School of Hotel Management & Tourism" [ref=e1812] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/hotel-management/
+            - listitem [ref=e1813]:
+              - link "School of Journalism and Liberal Arts" [ref=e1814] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/journalism-liberal-arts/
+            - listitem [ref=e1815]:
+              - link "School of Allied Science" [ref=e1816] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/allied-sciences/
+            - listitem [ref=e1817]:
+              - link "School of Agriculture" [ref=e1818] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/agriculture/
+            - listitem [ref=e1819]:
+              - link "School of Animation, Design & Planning" [ref=e1820] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/planning-and-design/index.php
+            - listitem [ref=e1821]:
+              - link "School of Nursing" [ref=e1822] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/nursing/
+            - listitem [ref=e1823]:
+              - link "Dev Bhoomi Medical College of Paramedical Sciences" [ref=e1824] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/paramedical-sciences/
+            - listitem [ref=e1825]:
+              - link "School of Law" [ref=e1826] [cursor=pointer]:
+                - /url: https://www.dbuu.ac.in/law/
+        - generic [ref=e1828]:
+          - generic [ref=e1829]:
+            - heading "Admissions" [level=5] [ref=e1830]
+            - list [ref=e1831]:
+              - listitem [ref=e1832]:
+                - link "Apply Now" [ref=e1833] [cursor=pointer]:
+                  - /url: https://apply.dbuu.edu.in/
+              - listitem [ref=e1834]:
+                - link "Scholarships" [ref=e1835] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/admission/scholarship.php
+              - listitem [ref=e1836]:
+                - link "Brochure/Prospectus" [ref=e1837] [cursor=pointer]:
+                  - /url: assets/brochure/DBUU-Brochure-2026-New.pdf
+              - listitem [ref=e1838]:
+                - link "Admissions Office Contacts" [ref=e1839] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/admission/admissions-office.php
+              - listitem [ref=e1840]:
+                - link "Online Payment Refund Policy" [ref=e1841] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/admission/online-payment-refund-policy.php
+          - generic [ref=e1842]:
+            - heading "Login" [level=5] [ref=e1843]
+            - list [ref=e1844]:
+              - listitem [ref=e1845]:
+                - link "Student Corner" [ref=e1846] [cursor=pointer]:
+                  - /url: https://www.dbuu.ac.in/student-corner/
+              - listitem [ref=e1847]:
+                - link "Employee ERP Login" [ref=e1848] [cursor=pointer]:
+                  - /url: https://dbit.servergi.com:8079/SIMWEBDBIT/login
+              - listitem [ref=e1849]:
+                - link "Student ERP Login" [ref=e1850] [cursor=pointer]:
+                  - /url: https://dbit.servergi.com:8079/ISIMDBIT/login
+              - listitem [ref=e1851]:
+                - link "Faculty Exam Login" [ref=e1852] [cursor=pointer]:
+                  - /url: https://qbs.ucanapply.com/login/dum?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026
+        - generic [ref=e1853]:
+          - heading "Contact Us" [level=5] [ref=e1854]
+          - paragraph [ref=e1855]:
+            - text: "Campus Address:"
+            - text: Dev Bhoomi Campus, Navgaon, Manduwala,
+            - text: Dehradun 248007, Uttarakhand
+          - paragraph [ref=e1856]:
+            - text: "Helpline:"
+            - link "1800 103 4049" [ref=e1857] [cursor=pointer]:
+              - /url: tel:18001034049
+              - generic [ref=e1858]: 
+              - text: 1800 103 4049
+            - link "1800 313 4049" [ref=e1859] [cursor=pointer]:
+              - /url: tel:18003134049
+              - generic [ref=e1860]: 
+              - text: 1800 313 4049
+            - link "094115 19803" [ref=e1861] [cursor=pointer]:
+              - /url: tel:09411519803
+              - generic [ref=e1862]: 
+              - text: 094115 19803
+          - paragraph [ref=e1863]:
+            - strong [ref=e1864]: "Email:"
+            - text: info@dbuu.ac.in
+        - generic [ref=e1866]:
+          - paragraph [ref=e1867]: Get your documents in 3 steps
+          - link "Click Here" [ref=e1868] [cursor=pointer]:
+            - /url: https://alumni.dbuu.ac.in/page/Document-Request.dz
+        - generic [ref=e1869]:
+          - paragraph [ref=e1870]: Copyright © 2026 by DBUU. Developed by Digital Team, DBUU.
+          - paragraph [ref=e1871]: "Last Updated on : April 18, 2026 | 11:25 AM"
+          - paragraph
+  - generic:
+    - list
+  - text:           
+  - generic [ref=e1872]:
+    - button "×" [ref=e1873] [cursor=pointer]
+    - generic [ref=e1874]:
+      - generic [ref=e1875]:
+        - text: Registrations for
+        - text: Nursing Entrance Test(NET)
+        - text: Phase-02 Closes on
+        - generic [ref=e1876]:
+          - text: "15"
+          - superscript [ref=e1877]: th
+          - text: May 2026
+      - generic [ref=e1878]:
+        - generic [ref=e1879]:
+          - heading "5" [level=3] [ref=e1880]
+          - paragraph [ref=e1881]: DAYS
+        - generic [ref=e1882]:
+          - heading "9" [level=3] [ref=e1883]
+          - paragraph [ref=e1884]: HOURS
+        - generic [ref=e1885]:
+          - heading "22" [level=3] [ref=e1886]
+          - paragraph [ref=e1887]: MINUTES
+        - generic [ref=e1888]:
+          - heading "31" [level=3] [ref=e1889]
+          - paragraph [ref=e1890]: SECONDS
+      - link "APPLY NOW !" [ref=e1891] [cursor=pointer]:
+        - /url: https://apply.dbuu.ac.in/dbuucet?utm_source=Website&utm_medium=DBUU&utm_campaign=Admission2026

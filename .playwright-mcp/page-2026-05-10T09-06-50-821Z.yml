@@ -1,0 +1,379 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - img "GEU" [ref=e4]
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link:
+          - /url: https://geu.ac.in
+        - figure [ref=e8]:
+          - link "GEU" [ref=e9] [cursor=pointer]:
+            - /url: https://geu.ac.in
+            - img "GEU" [ref=e10]
+      - generic [ref=e11]:
+        - list [ref=e12]:
+          - listitem [ref=e13] [cursor=pointer]:
+            - link "Academics" [ref=e14]:
+              - /url: javascript:void(0)
+          - listitem [ref=e15] [cursor=pointer]:
+            - link "Programs" [ref=e16]:
+              - /url: https://geu.ac.in/program
+          - listitem [ref=e17] [cursor=pointer]:
+            - link "Campus Life" [ref=e18]:
+              - /url: javascript:void(0)
+          - listitem [ref=e19] [cursor=pointer]:
+            - link "Research" [ref=e20]:
+              - /url: javascript:void(0)
+          - listitem [ref=e21] [cursor=pointer]:
+            - link "Admissions" [ref=e22]:
+              - /url: javascript:void(0)
+        - button "search" [ref=e23] [cursor=pointer]:
+          - img "search" [ref=e24]
+        - generic [ref=e25]:
+          - link "search-close" [ref=e26] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "Search Icon" [ref=e27]
+          - generic [ref=e29]:
+            - textbox "Search..." [ref=e30]
+            - button "Submit" [ref=e31] [cursor=pointer]
+        - button [ref=e32] [cursor=pointer]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading "About Us" [level=5]
+                - link "Overview":
+                  - /url: https://geu.ac.in/about-us/about-overview
+                - link "Vision & Mission":
+                  - /url: https://geu.ac.in/about-us/about-overview#vision-mission
+                - link "History and Legacy":
+                  - /url: https://geu.ac.in/about-us/about-overview#history-lecacy
+                - link "Leadership":
+                  - /url: https://geu.ac.in/about-us/leadership
+                - link "Organogram":
+                  - /url: https://geu.ac.in/about-us/organogram
+                - link "Statutory Bodies":
+                  - /url: https://geu.ac.in/about-us/statutory-bodies
+                - link "Officers of the University":
+                  - /url: https://geu.ac.in/about-us/officers-university
+                - link "Graphic Era Educational Society":
+                  - /url: https://geu.ac.in/about-us/graphic-era-educational-society
+                - link "Approvals & Accreditations":
+                  - /url: https://geu.ac.in/about-us/approvals-accreditations
+                - link "Awards & Rankings":
+                  - /url: https://geu.ac.in/about-us/awards-rankings
+              - generic:
+                - heading "Placements" [level=5]
+                - link "Overview":
+                  - /url: https://geu.ac.in/placements/placements-overview
+                - link "Placement Cell":
+                  - /url: https://geu.ac.in/placements/placements-overview#cell_team
+                - link "Our Recruiters":
+                  - /url: https://geu.ac.in/placements/our-recruiters
+                - link "Placements Record":
+                  - /url: https://geu.ac.in/placements/placements-record
+                - link "Placement Testimonials":
+                  - /url: https://geu.ac.in/placements/placement-testimonials
+                - link "Testimonials":
+                  - /url: https://geu.ac.in/placements/testimonials
+              - generic:
+                - heading "International Affairs" [level=5]
+                - link "Director’s Message":
+                  - /url: https://geu.ac.in/international-affairs/directors-message
+                - link "International Lectures & Conferences":
+                  - /url: https://geu.ac.in/international-affairs/international-lectures-conferences
+                - link "Internships & International Students":
+                  - /url: https://geu.ac.in/international-affairs/internships-international-students
+                - link "Foreign Language Courses":
+                  - /url: https://geu.ac.in/international-affairs/foreign-language-courses
+                - link "International Students Academic Projects":
+                  - /url: https://geu.ac.in/international-affairs/international-students-academic-projects
+                - link "Fee Structure for International Students":
+                  - /url: https://geu.ac.in/international-affairs/fee-structure-for-international-students
+              - generic:
+                - heading "Student Support" [level=5]
+                - link "Exam Portal":
+                  - /url: https://geu.ac.in/academics/examinations
+                - link "Library":
+                  - /url: https://geu.knimbus.com/portal/v2/default/home
+                - link "National Scholarship Portal":
+                  - /url: https://scholarships.gov.in/
+                - link "Academic Bank of Credits (ABC)":
+                  - /url: https://www.abc.gov.in/
+                - link "Digi Locker NAD Portal":
+                  - /url: https://nad.digilocker.gov.in/students
+                - link "SWAYAM":
+                  - /url: https://geu.ac.in/student-support/swayam
+                - link "Newsletter":
+                  - /url: https://geu.ac.in/student-support/newsletter
+              - generic:
+                - heading "Quick Links" [level=5]
+                - link "NAAC Public Disclosure":
+                  - /url: https://geu.ac.in/quick-links/naac-public-disclosure
+                - link "AICTE Mandatory Disclosure":
+                  - /url: https://geu.ac.in/quick-links/aicte-mandatory-disclosure
+                - link "IQAC":
+                  - /url: https://geu.ac.in/quick-links/iqac
+                - link "ARIIA":
+                  - /url: https://geu.ac.in/quick-links/ariia
+                - link "NIRF":
+                  - /url: https://geu.ac.in/quick-links/nirf
+                - link "Internal Complaint Committee":
+                  - /url: https://geu.ac.in/frontend/assets/pdf/internal-complaint-committee.pdf
+                - link "NISP":
+                  - /url: https://geu.ac.in/quick-links/nisp
+                - link "Mandatory Disclosure":
+                  - /url: https://geu.ac.in/frontend/assets/pdf/mandatory_disclosure.pdf
+                - link "Disclaimer":
+                  - /url: https://geu.ac.in/quick-links/disclaimer
+                - link "Anti-Ragging":
+                  - /url: https://geu.ac.in/quick-links/anti-ragging
+                - link "Sitemap":
+                  - /url: https://geu.ac.in/quick-links/sitemap
+                - link "HR Landscape @GEU":
+                  - /url: https://geu.ac.in/hr-lanscape-at-geu/hr-landscape-at-geu
+              - generic:
+                - link "Apply Now":
+                  - /url: https://apply.geu.ac.in/?_gl=1*e6yife*_gcl_au*MTQzMzU4NTMyOC4xNzc3MjczNzE2
+            - generic:
+              - link "Blog":
+                - /url: https://geu.ac.in/blogs
+              - link "Testimonials":
+                - /url: https://geu.ac.in/placements/placement-testimonials
+              - link "Careers":
+                - /url: https://geu.ac.in/careers
+              - link "Contact Us":
+                - /url: https://geu.ac.in/contact-us
+              - link "Fee Pay Online":
+                - /url: https://student.geu.ac.in/
+            - generic:
+              - img "Mask"
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - heading "Admissions" [level=1] [ref=e39]
+      - list [ref=e40]:
+        - listitem [ref=e41]:
+          - link "Home" [ref=e42] [cursor=pointer]:
+            - /url: https://geu.ac.in
+        - listitem [ref=e43]:
+          - link "ADMISSIONS" [ref=e44] [cursor=pointer]:
+            - /url: https://geu.ac.in/admissions/admissions-overview
+        - listitem [ref=e45]: Overview
+    - list [ref=e47]:
+      - listitem [ref=e48]:
+        - link "Overview" [ref=e49] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/admissions-overview
+      - listitem [ref=e50]:
+        - link "Admission Process" [ref=e51] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/admissions-overview#admissionprocess
+      - listitem [ref=e52]:
+        - link "Scholarship" [ref=e53] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/scholarship
+      - listitem [ref=e54]:
+        - link "Global Exchange Program" [ref=e55] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/global-exchange-program
+      - listitem [ref=e56]:
+        - link "GECET" [ref=e57] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/gecet
+      - listitem [ref=e58]:
+        - link "FAQs" [ref=e59] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/faq
+      - listitem [ref=e60]:
+        - link "Guidelines & Policies" [ref=e61] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/guidelines-policies
+      - listitem [ref=e62]:
+        - link "Financial Assistance" [ref=e63] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/financial-assistance
+      - listitem [ref=e64]:
+        - link "Lateral Entry" [ref=e65] [cursor=pointer]:
+          - /url: https://geu.ac.in/admissions/lateral-entry
+  - generic [ref=e66]:
+    - generic [ref=e69]:
+      - blockquote [ref=e70]: Take your First Step towards success!
+      - paragraph [ref=e71]: Choosing the right University is an important decision for any student, for the professional success one aspires for in their lives, depends on this very decision. Graphic Era (Deemed to be University) offers its prospective students, more than 85 UG, PG and Doctoral Programmes to choose from, spread across various domains such as Engineering, Computer Application, Management, Commerce, Life Sciences, Food Technology, Hospitality, Paramedical, Humanities and Social Sciences and more.
+    - img "Scholarship" [ref=e74]
+  - generic [ref=e75]:
+    - img "img" [ref=e77]
+    - generic [ref=e79]:
+      - figure [ref=e81]:
+        - img "Scholar" [ref=e82]
+      - generic [ref=e83]:
+        - paragraph [ref=e84]: The application process at Graphic Era (Deemed to be University) is strictly based on the Merit of the qualifying examination with the entire Admission Process available for completion online.
+        - paragraph [ref=e85]: "*NOTE: Graphic Era (Deemed to be University) doesn’t outsource any of its admission activities. Please beware of imposters posing to represent Graphic Era (Deemed to be University)."
+        - paragraph [ref=e86]:
+          - text: For any and all clarifications, please write to us at
+          - link "enquiry@geu.ac.in" [ref=e87] [cursor=pointer]:
+            - /url: mailto:enquiry@geu.ac.in
+          - text: "or call us on our Toll Free:"
+          - link "1800 890 6027" [ref=e88] [cursor=pointer]:
+            - /url: tel:1800 890 6027
+        - link "Apply Now" [ref=e91] [cursor=pointer]:
+          - /url: https://apply.geu.ac.in/?_gl=1*yimo6h*_gcl_au*NTM5MTM1Mjc3LjE3NzQ0NDE4NDA.
+  - generic [ref=e96]:
+    - generic [ref=e97]:
+      - generic [ref=e98]:
+        - figure [ref=e99]:
+          - img "placement-fact-icon1" [ref=e100]
+        - generic [ref=e101]:
+          - heading "Top Placements" [level=4] [ref=e102]
+          - paragraph [ref=e103]: Consistently High Placements at Top MNCs like Amazon, Adobe, Microsoft and Google
+      - generic [ref=e104]:
+        - figure [ref=e105]:
+          - img "placement-fact-icon1" [ref=e106]
+        - generic [ref=e107]:
+          - heading "Merit Based Scholarships" [level=4] [ref=e108]
+          - paragraph [ref=e109]: Merit-Based Scholarships in all courses for the entire duration of the course
+      - generic [ref=e110]:
+        - figure [ref=e111]:
+          - img "placement-fact-icon1" [ref=e112]
+        - generic [ref=e113]:
+          - heading "Additional Scholarships" [level=4] [ref=e114]
+          - paragraph [ref=e115]: 10% Additional Scholarship for Female Candidates and 5% Fee Concession for Wards of Defence Personnel
+      - generic [ref=e116]:
+        - figure [ref=e117]:
+          - img "placement-fact-icon1" [ref=e118]
+        - generic [ref=e119]:
+          - heading "Accreditations and Rankings" [level=4] [ref=e120]
+          - paragraph [ref=e121]: Graphic Era enjoys Top-Tier Rankings and Accreditations, some of which are exclusive (in the region)
+          - link [ref=e122] [cursor=pointer]:
+            - /url: https://geu.ac.in/about-us/approvals-accreditations-1
+    - link "Apply Now" [ref=e125] [cursor=pointer]:
+      - /url: https://apply.geu.ac.in/?_gl=1*yimo6h*_gcl_au*NTM5MTM1Mjc3LjE3NzQ0NDE4NDA.
+  - generic [ref=e127]:
+    - heading "Complete Admission process by Paying the fee" [level=2] [ref=e130]
+    - generic [ref=e132]:
+      - generic [ref=e133]:
+        - generic [ref=e134]: "01"
+        - heading "Choose your Course of Interest" [level=6] [ref=e135]
+        - paragraph [ref=e136]: This is the most important step of your application process since there are more than 85 Programs to choose from at UG, PG and PhD Level. Considering your core skills, aptitude and interest are key factors before arriving at the right choice.
+      - generic [ref=e137]:
+        - generic [ref=e138]: "02"
+        - heading "Start your Online Application" [level=6] [ref=e139]
+        - paragraph [ref=e140]: Although this step can be performed while you visit our campus or one of our Pan India admission centres, we advise that you start your application online. This ensures timely updates and a hassle free paperless admission process.
+        - paragraph [ref=e141]:
+          - text: Application can be started by
+          - link "Clicking Here" [ref=e142] [cursor=pointer]:
+            - /url: https://apply.geu.ac.in/?utm_source=website&utm_medium=apply_cta&utm_campaign=geu_admissions&utm_content=apply-redirect
+      - generic [ref=e143]:
+        - generic [ref=e144]: "03"
+        - heading "Fill your form and upload documents" [level=6] [ref=e145]
+        - paragraph [ref=e146]: The Online application process allows you to fill up forms on multiple levels and submit your qualifying documents
+      - generic [ref=e147]:
+        - generic [ref=e148]: "04"
+        - heading "Review your application and Submit" [level=6] [ref=e149]
+        - paragraph [ref=e150]: Carefully review your application and your credentials and then submit the application form
+      - generic [ref=e151]:
+        - generic [ref=e152]: "05"
+        - heading "Complete Application Fee Payment" [level=6] [ref=e153]
+        - paragraph [ref=e154]: Once your form is successfully submitted, complete the application fee payment (₹ 1500 for all courses)
+      - generic [ref=e155]:
+        - generic [ref=e156]: "06"
+        - heading "Finalize Admission by Paying the Course Fee" [level=6] [ref=e157]
+        - paragraph [ref=e158]: The final course fee can be paid once Step 5 is completed by choosing the appropriate payment mode. The final/provisional allotment letter will be provided digitally along with other course commencement information.
+    - link "Apply Now" [ref=e161] [cursor=pointer]:
+      - /url: https://apply.geu.ac.in/
+  - contentinfo [ref=e162]:
+    - generic [ref=e164]:
+      - generic [ref=e165]:
+        - img "Graphic Era University" [ref=e166]
+        - generic [ref=e167]:
+          - paragraph [ref=e168]: 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand - 248002
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - img "GEU" [ref=e171]
+              - link "1800 270 1280" [ref=e172] [cursor=pointer]:
+                - /url: tel:1800 270 1280
+            - generic [ref=e173]:
+              - img "GEU" [ref=e174]
+              - link "enquiry@geu.ac.in" [ref=e175] [cursor=pointer]:
+                - /url: mailto:enquiry@geu.ac.in
+      - generic [ref=e176]:
+        - list [ref=e178]:
+          - listitem [ref=e179]:
+            - link "Academics" [ref=e180] [cursor=pointer]:
+              - /url: https://geu.ac.in/department/computer-science-and-engineering
+          - listitem [ref=e181]:
+            - link "Admissions" [ref=e182] [cursor=pointer]:
+              - /url: https://geu.ac.in/admissions/admissions-overview
+          - listitem [ref=e183]:
+            - link "Placements" [ref=e184] [cursor=pointer]:
+              - /url: https://geu.ac.in/placements/placements-overview
+          - listitem [ref=e185]:
+            - link "Careers" [ref=e186] [cursor=pointer]:
+              - /url: https://geu.ac.in/careers
+          - listitem [ref=e187]:
+            - link "Campus Life" [ref=e188] [cursor=pointer]:
+              - /url: https://geu.ac.in/life-geu/life-at-geu-overview
+          - listitem [ref=e189]:
+            - link "International" [ref=e190] [cursor=pointer]:
+              - /url: https://geu.ac.in/international-affairs/directors-message
+          - listitem [ref=e191]:
+            - link "Research" [ref=e192] [cursor=pointer]:
+              - /url: https://geu.ac.in/research/overview
+          - listitem [ref=e193]:
+            - link "Contact Us" [ref=e194] [cursor=pointer]:
+              - /url: https://geu.ac.in/contact-us
+        - generic [ref=e195]:
+          - list [ref=e197]:
+            - listitem [ref=e198]:
+              - link "About Us" [ref=e199] [cursor=pointer]:
+                - /url: https://geu.ac.in/about-us/about-overview
+            - listitem [ref=e200]:
+              - link "Student Area" [ref=e201] [cursor=pointer]:
+                - /url: https://geu.ac.in/life-geu/life-at-geu-overview
+            - listitem [ref=e202]:
+              - link "Notices & Updates" [ref=e203] [cursor=pointer]:
+                - /url: https://geu.ac.in/academics/notices
+            - listitem [ref=e204]:
+              - link "Refund Policy" [ref=e205] [cursor=pointer]:
+                - /url: https://geu.ac.in/frontend/assets/pdf/UGC-Notice-reg-Fees-refund.pdf
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "Sitemap" [ref=e209] [cursor=pointer]:
+                - /url: https://geu.ac.in/other-links/sitemap
+            - listitem [ref=e210]:
+              - link "Disclaimer" [ref=e211] [cursor=pointer]:
+                - /url: https://geu.ac.in/quick-links/disclaimer
+            - listitem [ref=e212]:
+              - link "Privacy Policy" [ref=e213] [cursor=pointer]:
+                - /url: https://geu.ac.in/other-links/privacy-policy
+            - listitem [ref=e214]:
+              - link "Terms & Conditions" [ref=e215] [cursor=pointer]:
+                - /url: https://geu.ac.in/other-links/terms-conditions
+            - listitem [ref=e216]:
+              - link "Blog" [ref=e217] [cursor=pointer]:
+                - /url: https://geu.ac.in/blogs
+          - list [ref=e219]:
+            - listitem [ref=e220]:
+              - link "GEU Journal" [ref=e221] [cursor=pointer]:
+                - /url: https://www.journal.riverpublishers.com/index.php/JGEU/
+            - listitem [ref=e222]:
+              - link "IT Policy" [ref=e223] [cursor=pointer]:
+                - /url: https://geu.ac.in/frontend/assets/images/GEU_IT_Policy_compressed.pdf
+            - listitem [ref=e224]:
+              - link "Library" [ref=e225] [cursor=pointer]:
+                - /url: https://geu.ac.in/academics/library
+            - listitem [ref=e226]:
+              - link "Anti Ragging" [ref=e227] [cursor=pointer]:
+                - /url: https://geu.ac.in/quick-links/anti-ragging
+            - listitem [ref=e228]:
+              - link "Society Renewal" [ref=e229] [cursor=pointer]:
+                - /url: https://geu.ac.in/frontend/assets/images/society-renewal.pdf
+          - generic [ref=e230]:
+            - paragraph [ref=e231]:
+              - text: © 2026 Graphic Era University.
+              - text: All Rights Reserved.
+            - paragraph [ref=e232]: Website Design and Development by Sterco
+            - generic [ref=e233]:
+              - link "GEU" [ref=e234] [cursor=pointer]:
+                - /url: https://www.facebook.com/geuofficial/
+                - img "GEU" [ref=e235]
+              - link "GEU" [ref=e236] [cursor=pointer]:
+                - /url: https://www.youtube.com/@GraphicEraOfficial?reload=9
+                - img "GEU" [ref=e237]
+              - link "GEU" [ref=e238] [cursor=pointer]:
+                - /url: https://www.instagram.com/geuofficial/
+                - img "GEU" [ref=e239]
+              - link "GEU" [ref=e240] [cursor=pointer]:
+                - /url: https://www.linkedin.com/school/graphic-era-official
+                - img "GEU" [ref=e241]
+  - text: + + + + + + + + + +
