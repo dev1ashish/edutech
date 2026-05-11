@@ -24,9 +24,18 @@ const schema = z
     specializationRequested: z.boolean(),
     cseTrack: z.string().default(""),
     program: z.string().min(1, "Please choose a programme"),
-    consent: z.literal(true, { error: "We need consent to contact you" }),
+    consent: z.boolean().refine((v) => v === true, {
+      message: "We need consent to contact you",
+    }),
   })
   .superRefine((data, ctx) => {
+    if (data.programLevel !== "UG" && data.programLevel !== "PG") {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: "Please choose UG or PG",
+        path: ["programLevel"],
+      });
+    }
     const level =
       data.programLevel === "UG" || data.programLevel === "PG"
         ? data.programLevel
