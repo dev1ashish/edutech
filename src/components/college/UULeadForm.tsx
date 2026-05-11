@@ -24,18 +24,9 @@ const schema = z
     specializationRequested: z.boolean(),
     cseTrack: z.string().default(""),
     program: z.string().min(1, "Please choose a programme"),
-    consent: z.boolean().refine((v) => v === true, {
-      message: "We need consent to contact you",
-    }),
+    consent: z.literal(true, { error: "We need consent to contact you" }),
   })
   .superRefine((data, ctx) => {
-    if (data.programLevel !== "UG" && data.programLevel !== "PG") {
-      ctx.addIssue({
-        code: z.ZodIssueCode.custom,
-        message: "Please choose UG or PG",
-        path: ["programLevel"],
-      });
-    }
     const level =
       data.programLevel === "UG" || data.programLevel === "PG"
         ? data.programLevel
@@ -189,8 +180,12 @@ export function UULeadForm({
   }, [programLevel, setValue]);
 
   useEffect(() => {
-    setValue("program", "");
-  }, [programCategory, setValue]);
+    if (programOptions.length === 1) {
+      setValue("program", programOptions[0]);
+    } else {
+      setValue("program", "");
+    }
+  }, [programCategory, programOptions, setValue]);
 
   useEffect(() => {
     setValue("specializationRequested", false);
@@ -466,7 +461,7 @@ export function UULeadForm({
         />
         <span>
           I authorise the admissions team to contact me by call, SMS, WhatsApp
-          or email regarding my enquiry. This will override the registry on DND.
+          or email regarding my enquiry.
         </span>
       </label>
       {errors.consent && (
