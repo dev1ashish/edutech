@@ -20,9 +20,11 @@ const schema = z
     state: z.string().min(1, "Please choose your state"),
     programLevel: z.union([z.literal(""), z.literal("UG"), z.literal("PG")]),
     specializationRequested: z.boolean(),
-    cseTrack: z.string().optional().default(""),
+    cseTrack: z.string(),
     program: z.string().min(1, "Please choose a programme"),
-    consent: z.literal(true, { error: "We need consent to contact you" }),
+    consent: z.boolean().refine((v) => v === true, {
+      message: "We need consent to contact you",
+    }),
   })
   .superRefine((data, ctx) => {
     if (data.programLevel !== "UG" && data.programLevel !== "PG") {
