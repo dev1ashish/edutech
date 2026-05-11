@@ -79,14 +79,18 @@ export async function POST(req: Request) {
   const webhook = process.env.LEAD_WEBHOOK_URL;
   if (webhook) {
     try {
-      await fetch(webhook, {
+      console.log("[lead] Firing webhook to:", webhook);
+      const whRes = await fetch(webhook, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(record),
       });
+      console.log("[lead] Webhook responded:", whRes.status, whRes.statusText);
     } catch (err) {
-      console.error("Lead webhook failed:", err);
+      console.error("[lead] Webhook failed:", err);
     }
+  } else {
+    console.warn("[lead] No LEAD_WEBHOOK_URL set — webhook skipped");
   }
 
   return NextResponse.json({ ok: true });

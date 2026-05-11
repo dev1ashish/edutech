@@ -1795,10 +1795,13 @@ body:has(.uu-root)::before {
   align-items: center;
   gap: 0.55rem;
   padding: 0.85rem 1.2rem;
+  border: none;
   border-radius: 999px;
   font-weight: 700;
   font-size: 0.92rem;
+  font-family: inherit;
   color: #fff;
+  cursor: pointer;
   box-shadow: 0 16px 32px -12px rgba(0, 0, 0, 0.3);
   transition: transform 0.2s, box-shadow 0.2s;
 }
@@ -1923,12 +1926,15 @@ body:has(.uu-root)::before {
   align-items: center;
   gap: 0.5rem;
   padding: 0.65rem 1.25rem;
+  border: none;
   background: var(--uu2-green);
   color: #fff;
   border-radius: 999px;
   font-weight: 800;
   font-size: 0.9rem;
+  font-family: inherit;
   letter-spacing: 0.01em;
+  cursor: pointer;
   box-shadow: 0 6px 16px -8px rgba(126, 181, 65, 0.85), 0 0 0 6px rgba(126, 181, 65, 0.18);
   transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
 }

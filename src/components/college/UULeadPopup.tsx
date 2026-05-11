@@ -3,22 +3,22 @@
 import { useEffect, useState } from "react";
 import { ThemedLeadForm } from "./ThemedLeadForm";
 
-const STORAGE_KEY = "uu-popup-shown";
 const OPEN_DELAY_MS = 1200;
+export const POPUP_EVENT = "open-uu-lead-popup";
 
 export function UULeadPopup() {
   const [open, setOpen] = useState(false);
 
+  const showPopup = () => setOpen(true);
+
   useEffect(() => {
-    if (typeof window === "undefined") return;
-    if (window.sessionStorage.getItem(STORAGE_KEY)) return;
-
-    const t = window.setTimeout(() => {
-      setOpen(true);
-      window.sessionStorage.setItem(STORAGE_KEY, "1");
-    }, OPEN_DELAY_MS);
-
+    const t = window.setTimeout(showPopup, OPEN_DELAY_MS);
     return () => window.clearTimeout(t);
+  }, []);
+
+  useEffect(() => {
+    window.addEventListener(POPUP_EVENT, showPopup);
+    return () => window.removeEventListener(POPUP_EVENT, showPopup);
   }, []);
 
   useEffect(() => {

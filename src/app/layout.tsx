@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: [{ url: "/favicon.ico" }],
+    icon: [{ url: "/colleges/uu/favicon_www_uudoon_in_64x64.png", type: "image/png" }],
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GSC_VERIFICATION || undefined,

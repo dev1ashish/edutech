@@ -1,48 +1,14 @@
-import { redirect } from "next/navigation";
+import type { Metadata } from "next";
+import { UUPageContent } from "@/components/college/UUPageContent";
+import "./uttaranchal-university/uu.css";
+
+export const metadata: Metadata = {
+  title: "Uttaranchal University Admissions 2026 — Apply Online",
+  description:
+    "Apply for Uttaranchal University Dehradun 2026–27. 100+ industry-centric programmes, ₹1.5 Cr highest international package, 750+ recruiters, NAAC A+ accreditation, scholarships up to 65%.",
+  alternates: { canonical: "/" },
+};
 
 export default function Home() {
-  redirect("/uttaranchal-university");
+  return <UUPageContent />;
 }
-
-/* ─────────────────────────────────────────────────────────────────────────
-   Original landing page — temporarily disabled. Re-enable when the full
-   multi-college experience is needed again.
-   ────────────────────────────────────────────────────────────────────── */
-
-/*
-import { Header } from "@/components/Header";
-import { Hero } from "@/components/Hero";
-import { Stats } from "@/components/Stats";
-import { Partners } from "@/components/Partners";
-import { EditorialPromise } from "@/components/Promise";
-import { Programs } from "@/components/Programs";
-import { Counselling } from "@/components/Counselling";
-import { Process } from "@/components/Process";
-import { Placements } from "@/components/Placements";
-import { FAQ } from "@/components/FAQ";
-import { Footer } from "@/components/Footer";
-import { StickyCTA } from "@/components/StickyCTA";
-import { StructuredData } from "@/components/StructuredData";
-
-export default function Home() {
-  return (
-    <>
-      <StructuredData />
-      <Header />
-      <main className="flex-1">
-        <Hero />
-        <Stats />
-        <Partners />
-        <EditorialPromise />
-        <Programs />
-        <Process />
-        <Counselling />
-        <Placements />
-        <FAQ />
-      </main>
-      <Footer />
-      <StickyCTA />
-    </>
-  );
-}
-*/

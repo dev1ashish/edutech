@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { SITE } from "@/lib/site";
+import { POPUP_EVENT } from "./UULeadPopup";
 
 export function UUStickyCTA() {
   const [show, setShow] = useState(false);
@@ -12,13 +14,17 @@ export function UUStickyCTA() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  const openPopup = () => {
+    window.dispatchEvent(new Event(POPUP_EVENT));
+  };
+
   return (
     <div
       className={`uu-sticky ${show ? "uu-sticky-on" : ""}`}
       aria-hidden={!show}
     >
       <a
-        href="https://wa.me/919000000000?text=Hi%2C%20I%27d%20like%20admissions%20info%20for%20Uttaranchal%20University"
+        href={`https://wa.me/${SITE.whatsapp}?text=Hi%2C%20I%27d%20like%20admissions%20info%20for%20Uttaranchal%20University`}
         target="_blank"
         rel="noopener noreferrer"
         className="uu-sticky-btn uu-sticky-wa"
@@ -29,9 +35,13 @@ export function UUStickyCTA() {
         </svg>
         <span>WhatsApp</span>
       </a>
-      <a href="#apply" className="uu-sticky-btn uu-sticky-apply">
+      <button
+        type="button"
+        className="uu-sticky-btn uu-sticky-apply"
+        onClick={openPopup}
+      >
         <span>Apply Now</span>
-      </a>
+      </button>
     </div>
   );
 }

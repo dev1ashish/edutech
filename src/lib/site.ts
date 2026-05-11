@@ -9,8 +9,8 @@ export const SITE = {
   city: "Dehradun",
   region: "Uttarakhand",
   country: "India",
-  phone: "+91-9000000000",
-  whatsapp: "919000000000",
+  phone: "+91 88594 58459",
+  whatsapp: "918859458459",
   email: "admissions@edutechsolutions.in",
   address: {
     street: "Rajpur Road",
