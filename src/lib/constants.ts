@@ -50,7 +50,6 @@ export const COLLEGES: College[] = [
     flagshipPrograms: [
       "B.Tech Computer Science",
       "BBA · MBA",
-      "B.Des",
       "BA LLB",
     ],
     monogram: "UPES",

@@ -5,9 +5,10 @@ import { useForm, type DefaultValues } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 import {
-  getUUBaseProgramOptions,
   getUUCseSpecializationTracks,
   isUUCseParentProgramme,
+  getUUProgramCategories,
+  getUUProgramsByCategory,
 } from "@/lib/uuPrograms";
 
 const schema = z
@@ -18,11 +19,10 @@ const schema = z
       .regex(/^[+\d][\d\s-]{8,15}$/, "Enter a valid phone number"),
     email: z.string().email("Enter a valid email").optional().or(z.literal("")),
     state: z.string().min(1, "Please choose your state"),
-    programLevel: z
-      .string()
-      .refine((v) => v === "UG" || v === "PG", "Please choose UG or PG"),
+    programLevel: z.enum(["UG", "PG"], { message: "Please choose UG or PG" }),
+    programCategory: z.string().min(1, "Please choose a category"),
     specializationRequested: z.boolean(),
-    cseTrack: z.string().optional().default(""),
+    cseTrack: z.string().default(""),
     program: z.string().min(1, "Please choose a programme"),
     consent: z.literal(true, { error: "We need consent to contact you" }),
   })
@@ -98,11 +98,12 @@ const defaultValues: DefaultValues<FormValues> = {
   phone: "",
   email: "",
   state: "",
-  programLevel: "",
+  programLevel: undefined,
+  programCategory: "",
   specializationRequested: false,
   cseTrack: "",
   program: "",
-  consent: false,
+  consent: undefined,
 };
 
 function resolveSubmittedProgram(values: FormValues): string {
@@ -139,20 +140,27 @@ export function UULeadForm({
     formState: { errors, isSubmitting },
     reset,
   } = useForm<FormValues>({
-    resolver: zodResolver(schema),
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    resolver: zodResolver(schema) as any,
     defaultValues,
   });
 
   const programLevel = watch("programLevel");
+  const programCategory = watch("programCategory");
   const program = watch("program");
   const specializationRequested = watch("specializationRequested");
 
   const typedLevel =
     programLevel === "UG" || programLevel === "PG" ? programLevel : "";
 
-  const programOptions = useMemo(
-    () => getUUBaseProgramOptions(typedLevel),
+  const categoryOptions = useMemo(
+    () => getUUProgramCategories(typedLevel),
     [typedLevel]
+  );
+
+  const programOptions = useMemo(
+    () => getUUProgramsByCategory(typedLevel, programCategory),
+    [typedLevel, programCategory]
   );
 
   const cseTracks = useMemo(
@@ -167,8 +175,13 @@ export function UULeadForm({
     cseTracks.length > 0;
 
   useEffect(() => {
+    setValue("programCategory", "");
     setValue("program", "");
   }, [programLevel, setValue]);
+
+  useEffect(() => {
+    setValue("program", "");
+  }, [programCategory, setValue]);
 
   useEffect(() => {
     setValue("specializationRequested", false);
@@ -342,17 +355,41 @@ export function UULeadForm({
       </div>
 
       <div className={classes.field}>
+        <label htmlFor={`${uid}-category`} className={classes.label}>
+          Programme Category<span aria-hidden>*</span>
+        </label>
+        <select
+          id={`${uid}-category`}
+          className={classes.select}
+          disabled={!programLevel}
+          {...register("programCategory")}
+        >
+          <option value="" disabled>
+            {!programLevel ? "-- Select level first --" : "-- Select Category --"}
+          </option>
+          {categoryOptions.map((c) => (
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
+        </select>
+        {errors.programCategory && (
+          <p className={classes.error}>{errors.programCategory.message}</p>
+        )}
+      </div>
+
+      <div className={classes.field}>
         <label htmlFor={`${uid}-program`} className={classes.label}>
-          Programme of Interest<span aria-hidden>*</span>
+          Programme / Specialization<span aria-hidden>*</span>
         </label>
         <select
           id={`${uid}-program`}
           className={classes.select}
-          disabled={!programLevel}
+          disabled={!programCategory}
           {...register("program")}
         >
           <option value="" disabled>
-            {!programLevel ? "-- Select level first --" : "-- Select Programme --"}
+            {!programCategory ? "-- Select category first --" : "-- Select Programme --"}
           </option>
           {programOptions.map((p) => (
             <option key={p} value={p}>

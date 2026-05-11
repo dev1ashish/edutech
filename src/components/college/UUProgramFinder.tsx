@@ -24,7 +24,6 @@ const PROGRAMMES: Programme[] = [
   { name: "B.Pharm", level: "UG", stream: "Pharmacy", duration: "4 years", intake: "100 seats" },
   { name: "B.Sc. Nursing", level: "UG", stream: "Health Sciences", duration: "4 years", intake: "60 seats" },
   { name: "B.Sc. Agriculture", level: "UG", stream: "Agriculture", duration: "4 years", intake: "60 seats" },
-  { name: "B.Des Communication", level: "UG", stream: "Design", duration: "4 years", intake: "30 seats" },
   { name: "BA Journalism & Mass Comm.", level: "UG", stream: "Liberal Arts", duration: "3 years", intake: "60 seats" },
   { name: "M.Tech CSE / Civil", level: "PG", stream: "Engineering", duration: "2 years", intake: "18 seats" },
   { name: "MBA (Mktg / Fin / HR)", level: "PG", stream: "Management", duration: "2 years", intake: "120 seats" },
