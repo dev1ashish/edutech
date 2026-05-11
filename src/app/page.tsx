@@ -1,3 +1,15 @@
+import { redirect } from "next/navigation";
+
+export default function Home() {
+  redirect("/uttaranchal-university");
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Original landing page — temporarily disabled. Re-enable when the full
+   multi-college experience is needed again.
+   ────────────────────────────────────────────────────────────────────── */
+
+/*
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { Stats } from "@/components/Stats";
@@ -33,3 +45,4 @@ export default function Home() {
     </>
   );
 }
+*/

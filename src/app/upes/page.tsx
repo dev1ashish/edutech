@@ -1,3 +1,15 @@
+import { redirect } from "next/navigation";
+
+export default function UpesPage() {
+  redirect("/uttaranchal-university");
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   UPES landing page — temporarily disabled. Re-enable when needed by
+   removing the redirect above and unwrapping the comment block.
+   ────────────────────────────────────────────────────────────────────── */
+
+/*
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -580,3 +592,4 @@ export default function UpesPage() {
     </div>
   );
 }
+*/

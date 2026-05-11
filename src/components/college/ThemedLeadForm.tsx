@@ -95,6 +95,8 @@ export function ThemedLeadForm({
         body: JSON.stringify({
           name: values.name,
           phone: values.phone,
+          email: values.email || "",
+          state: values.state,
           program: values.program,
           university,
           consent: values.consent,
