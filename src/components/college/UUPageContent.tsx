@@ -104,7 +104,7 @@ export function UUPageContent() {
         <div className="uu2-header-inner">
           <Link href="/" className="uu2-brand">
             <Image
-              src="/colleges/uu/image.png"
+              src="/colleges/uu/UU-Logo-Naac-Nirf.png"
               alt="Uttaranchal University · NAAC Grade A+"
               width={599}
               height={176}
@@ -113,12 +113,10 @@ export function UUPageContent() {
             />
           </Link>
           <nav className="uu2-nav">
-            <a href="#about">Home</a>
             <a href="#about">About UU</a>
             <a href="#programs">Programs</a>
             <a href="#success">Placements</a>
             <a href="#recruiters">Recruiters</a>
-            <a href="#apply">Contact</a>
           </nav>
           <div className="uu2-header-right">
             <div className="uu2-phones">
