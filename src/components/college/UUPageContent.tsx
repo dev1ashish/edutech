@@ -120,8 +120,8 @@ export function UUPageContent() {
           </nav>
           <div className="uu2-header-right">
             <div className="uu2-phones">
-              <a href="tel:8859458459">
-                <span aria-hidden>☎</span> +91 88594 58459
+              <a href="tel:8273625802">
+                <span aria-hidden>☎</span> +91 82736 25802
               </a>
             </div>
             <UUApplyTrigger className="uu2-apply-btn">

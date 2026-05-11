@@ -10,7 +10,7 @@ const SLIDES = [
       "The three core goals of Uttaranchal University are committed to student-centric teaching-learning, world-class research & innovation, and humanistic social responsibility — encapsulated in our firmness while steering the university into a new arena.",
     name: "Jitender Joshi",
     role: "President",
-    photo: "/uu-new/intellectual/president.png",
+    photo: "/colleges/uu/Screenshot 2026-05-11 164344.png",
   },
   {
     quote: "Where ideas become institutions",
@@ -20,14 +20,7 @@ const SLIDES = [
     role: "Vice-Chancellor",
     photo: "/uu-new/intellectual/president.png",
   },
-  {
-    quote: "Research that travels beyond the lab",
-    body:
-      "Six thousand-plus peer-reviewed papers, 730+ IPRs filed, 160+ granted, 45+ international IPRs and twenty start-ups incubated — every metric here reflects what our faculty and students have built together since 2017.",
-    name: "Dr. Neeti Sharma",
-    role: "Dean — Research & Innovation",
-    photo: "/uu-new/intellectual/president.png",
-  },
+  
 ];
 
 export function UUIntellectualCarousel() {

@@ -848,11 +848,25 @@ body:has(.uu-root)::before {
   margin: 0 0 1.1rem;
 }
 @media (max-width: 480px) {
+  .uu-popup-card {
+    max-width: 92vw;
+    max-height: 80vh;
+    border-radius: 10px;
+  }
+  .uu-popup-body {
+    padding: 1rem 1.1rem 1.2rem;
+  }
+  .uu-popup-ribbon {
+    padding: 0.75rem 1rem;
+  }
   .uu-popup-ribbon strong {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
   }
   .uu-popup-title {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
+  }
+  .uu-popup-sub {
+    font-size: 0.8rem;
   }
 }
 
@@ -1811,6 +1825,10 @@ body:has(.uu-root)::before {
 }
 .uu-sticky-wa {
   background: #1f7a3a;
+}
+.uu-sticky-wa-icon {
+  border-radius: 50%;
+  object-fit: cover;
 }
 .uu-sticky-apply {
   background: linear-gradient(135deg, var(--uu-orange), var(--uu-orange-deep));
