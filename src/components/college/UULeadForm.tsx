@@ -18,15 +18,20 @@ const schema = z
       .regex(/^[+\d][\d\s-]{8,15}$/, "Enter a valid phone number"),
     email: z.string().email("Enter a valid email").optional().or(z.literal("")),
     state: z.string().min(1, "Please choose your state"),
-    programLevel: z
-      .string()
-      .refine((v) => v === "UG" || v === "PG", "Please choose UG or PG"),
+    programLevel: z.union([z.literal(""), z.literal("UG"), z.literal("PG")]),
     specializationRequested: z.boolean(),
     cseTrack: z.string().optional().default(""),
     program: z.string().min(1, "Please choose a programme"),
     consent: z.literal(true, { error: "We need consent to contact you" }),
   })
   .superRefine((data, ctx) => {
+    if (data.programLevel !== "UG" && data.programLevel !== "PG") {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: "Please choose UG or PG",
+        path: ["programLevel"],
+      });
+    }
     const level =
       data.programLevel === "UG" || data.programLevel === "PG"
         ? data.programLevel
