@@ -65,17 +65,16 @@ export async function POST(req: Request) {
     userAgent: req.headers.get("user-agent") ?? "unknown",
   };
 
+  // Best-effort local xlsx write (fails on serverless — that's fine).
+  let xlsxOk = false;
   try {
     await appendLead(record);
+    xlsxOk = true;
   } catch (err) {
-    console.error("Failed to append lead to spreadsheet:", err);
-    return NextResponse.json(
-      { error: "Could not save your enquiry. Please try again." },
-      { status: 500 }
-    );
+    console.error("[lead] xlsx write failed (expected on Vercel/serverless):", err);
   }
 
-  // Optional secondary destination (CRM / Google Sheet webhook / etc.).
+  // Primary durable storage: webhook to Google Sheets / CRM.
   const webhook = process.env.LEAD_WEBHOOK_URL;
   if (webhook) {
     try {
@@ -85,12 +84,28 @@ export async function POST(req: Request) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(record),
       });
-      console.log("[lead] Webhook responded:", whRes.status, whRes.statusText);
+      if (!whRes.ok) {
+        console.error("[lead] Webhook returned:", whRes.status, whRes.statusText);
+        return NextResponse.json(
+          { error: "Could not save your enquiry. Please try again." },
+          { status: 502 }
+        );
+      }
+      console.log("[lead] Webhook OK");
     } catch (err) {
       console.error("[lead] Webhook failed:", err);
+      return NextResponse.json(
+        { error: "Could not save your enquiry. Please try again." },
+        { status: 502 }
+      );
     }
-  } else {
-    console.warn("[lead] No LEAD_WEBHOOK_URL set — webhook skipped");
+  } else if (!xlsxOk) {
+    // No webhook configured AND xlsx failed — nothing was saved.
+    console.error("[lead] No webhook configured and xlsx write failed");
+    return NextResponse.json(
+      { error: "Could not save your enquiry. Please try again." },
+      { status: 500 }
+    );
   }
 
   return NextResponse.json({ ok: true });
