@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { ThemedLeadForm } from "./ThemedLeadForm";
+import { UULeadForm } from "./UULeadForm";
 
 const OPEN_DELAY_MS = 1200;
 export const POPUP_EVENT = "open-uu-lead-popup";
@@ -72,22 +72,8 @@ export function UULeadPopup() {
             checklist.
           </p>
 
-          <ThemedLeadForm
+          <UULeadForm
             university="Uttaranchal University"
-            programs={[
-              "B.Tech CSE / AI / Cyber",
-              "B.Tech Civil / Mech / ECE",
-              "BBA / MBA",
-              "BA LLB / BBA LLB",
-              "BCA / MCA",
-              "B.Pharm / M.Pharm",
-              "B.Sc. Agri / Nursing",
-              "BHMCT / Hospitality",
-              "BA Journalism",
-              "B.Des",
-              "PhD",
-              "Other",
-            ]}
             buttonLabel="Submit Enquiry"
             successText="A senior Uttaranchal University admissions counsellor will reach out shortly with your eligibility, scholarship slab and document checklist."
             classes={{

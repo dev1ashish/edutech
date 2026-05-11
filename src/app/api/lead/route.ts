@@ -15,9 +15,15 @@ const leadSchema = z.object({
     .or(z.literal(""))
     .transform((v) => v ?? ""),
   state: z.string().max(40).optional().default(""),
-  program: z.string().min(1).max(80),
+  program: z.string().min(1).max(200),
   university: z.string().min(1).max(80),
   consent: z.literal(true),
+  programLevel: z
+    .string()
+    .max(4)
+    .default("")
+    .transform((v) => (v === "UG" || v === "PG" ? v : "")),
+  specializationRequested: z.boolean().default(false),
 });
 
 function formatIST(date: Date): string {
@@ -61,6 +67,8 @@ export async function POST(req: Request) {
     state: parsed.data.state,
     program: parsed.data.program,
     university: parsed.data.university,
+    programLevel: parsed.data.programLevel,
+    specializationInterest: parsed.data.specializationRequested ? "Yes" : "No",
     source: req.headers.get("referer") ?? "direct",
     userAgent: req.headers.get("user-agent") ?? "unknown",
   };

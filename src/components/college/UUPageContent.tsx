@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ThemedLeadForm } from "@/components/college/ThemedLeadForm";
+import { UULeadForm } from "@/components/college/UULeadForm";
 import { UUCountUp } from "@/components/college/UUCountUp";
 import { UUImageHero } from "@/components/college/UUImageHero";
 import { UUAboutModal } from "@/components/college/UUAboutModal";
@@ -181,22 +181,8 @@ export function UUPageContent() {
             <div className="uu2-form-card">
               <p className="uu2-form-eyebrow">Admissions 2026–27 · Apply Now</p>
               <h3 className="uu2-form-title">Talk to an Admissions Counsellor</h3>
-              <ThemedLeadForm
+              <UULeadForm
                 university="Uttaranchal University"
-                programs={[
-                  "B.Tech CSE / AI / Cyber",
-                  "B.Tech Civil / Mech / Aerospace",
-                  "BBA / MBA / Business Analytics",
-                  "BA LLB / BBA LLB / LLM",
-                  "BCA / MCA",
-                  "B.Pharm / M.Pharm",
-                  "B.Sc. Agri / Nursing",
-                  "Hospitality / Hotel Mgmt",
-                  "BA Journalism / Mass Comm",
-                  "B.Des",
-                  "PhD",
-                  "Other",
-                ]}
                 buttonLabel="Submit"
                 successText="A senior Uttaranchal University admissions counsellor will reach out shortly with eligibility, scholarship slab and document checklist."
                 classes={{

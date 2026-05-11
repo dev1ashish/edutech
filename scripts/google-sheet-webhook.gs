@@ -19,7 +19,9 @@ var COLUMNS = [
   { header: "Programme", key: "program" },
   { header: "University", key: "university" },
   { header: "Source URL", key: "source" },
-  { header: "User Agent", key: "userAgent" }
+  { header: "User Agent", key: "userAgent" },
+  { header: "Level (UG/PG)", key: "programLevel" },
+  { header: "Specialization list shown", key: "specializationInterest" }
 ];
 
 function doPost(e) {

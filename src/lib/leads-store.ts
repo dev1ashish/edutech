@@ -10,6 +10,8 @@ export type LeadRecord = {
   state: string;
   program: string;
   university: string;
+  programLevel: string;
+  specializationInterest: string;
   source: string;
   userAgent: string;
 };
@@ -24,10 +26,16 @@ const COLUMNS: Array<{
   { header: "Phone", key: "phone", width: 18 },
   { header: "Email", key: "email", width: 28 },
   { header: "State", key: "state", width: 18 },
-  { header: "Programme", key: "program", width: 28 },
+  { header: "Programme", key: "program", width: 36 },
   { header: "University", key: "university", width: 24 },
   { header: "Source URL", key: "source", width: 40 },
   { header: "User Agent", key: "userAgent", width: 50 },
+  { header: "Level (UG/PG)", key: "programLevel", width: 14 },
+  {
+    header: "Specialization list shown",
+    key: "specializationInterest",
+    width: 22,
+  },
 ];
 
 const SHEET_NAME = "Leads";
