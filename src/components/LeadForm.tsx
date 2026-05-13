@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useForm } from "react-hook-form";
+import { useRouter } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 import { COLLEGES, PROGRAMS } from "@/lib/constants";
@@ -32,7 +33,7 @@ declare global {
 }
 
 export function LeadForm() {
-  const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
   const [serverError, setServerError] = useState<string | null>(null);
 
   const {
@@ -42,7 +43,7 @@ export function LeadForm() {
     reset,
   } = useForm<FormValues>({
     resolver: zodResolver(schema),
-    defaultValues: { university: "Help me decide" },
+    defaultValues: { university: "Help me decide", consent: true },
   });
 
   const onSubmit = async (values: FormValues) => {
@@ -85,8 +86,8 @@ export function LeadForm() {
         });
       }
 
-      setSubmitted(true);
       reset();
+      router.push("/thank-you");
     } catch {
       setServerError(
         "Something went wrong. Please try WhatsApp instead — we're 1 message away."
@@ -94,32 +95,6 @@ export function LeadForm() {
     }
   };
 
-  if (submitted) {
-    return (
-      <div className="card-paper p-8 md:p-10 text-center">
-        <div className="rule-ornament justify-center">
-          Thank you
-        </div>
-        <h3 className="font-display text-3xl mt-4 text-[color:var(--forest-deep)]">
-          A counsellor will call you shortly.
-        </h3>
-        <p className="mt-3 text-[color:var(--ink-soft)]">
-          We&apos;ve received your details. Expect a call from our Dehradun office
-          within the hour during business hours, or first thing tomorrow morning.
-        </p>
-        <a
-          href={`https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(
-            "Hi, I just submitted the counselling form."
-          )}`}
-          className="btn-whatsapp mt-7 inline-flex"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Open WhatsApp now
-        </a>
-      </div>
-    );
-  }
 
   return (
     <form

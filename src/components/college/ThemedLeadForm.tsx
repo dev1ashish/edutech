@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useForm } from "react-hook-form";
+import { useRouter } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 
@@ -73,7 +74,7 @@ export function ThemedLeadForm({
   successText,
   buttonLabel = "Submit Enquiry",
 }: ThemedLeadFormProps) {
-  const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
   const [serverError, setServerError] = useState<string | null>(null);
 
   const {
@@ -83,7 +84,7 @@ export function ThemedLeadForm({
     reset,
   } = useForm<FormValues>({
     resolver: zodResolver(schema),
-    defaultValues: { state: "" },
+    defaultValues: { state: "", consent: true },
   });
 
   const onSubmit = async (values: FormValues) => {
@@ -117,8 +118,8 @@ export function ThemedLeadForm({
         });
       }
 
-      setSubmitted(true);
       reset();
+      router.push("/thank-you");
     } catch {
       setServerError(
         "Something went wrong. Please try the WhatsApp button or call our helpline."
@@ -126,19 +127,6 @@ export function ThemedLeadForm({
     }
   };
 
-  if (submitted) {
-    return (
-      <div className={classes.success || "p-6 rounded-lg border bg-green-50"}>
-        <p className={classes.successTitle || "font-semibold text-lg"}>
-          Thank you — we&apos;ve received your enquiry.
-        </p>
-        <p className="mt-2 text-sm opacity-80">
-          {successText ||
-            `An admission counsellor will reach out to you shortly with the next steps for ${university}.`}
-        </p>
-      </div>
-    );
-  }
 
   return (
     <form

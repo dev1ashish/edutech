@@ -43,7 +43,7 @@ export function UUImageHero() {
             fill
             priority={i === 0}
             sizes="100vw"
-            style={{ objectFit: "cover", objectPosition: "center" }}
+            style={{ objectFit: "cover", objectPosition: "bottom" }}
           />
         </div>
       ))}

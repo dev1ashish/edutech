@@ -1995,7 +1995,7 @@ body:has(.uu-root)::before {
 .uu2-hero {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 6.4;
+  aspect-ratio: 16 / 7.2;
   min-height: 340px;
   max-height: 720px;
   overflow: hidden;
