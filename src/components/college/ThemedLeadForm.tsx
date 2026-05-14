@@ -2,9 +2,10 @@
 
 import { useState } from "react";
 import { useForm } from "react-hook-form";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
+import { ANALYTICS } from "@/lib/site";
 
 const schema = z.object({
   name: z.string().min(2, "Please enter your full name").max(80),
@@ -75,6 +76,7 @@ export function ThemedLeadForm({
   buttonLabel = "Submit Enquiry",
 }: ThemedLeadFormProps) {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [serverError, setServerError] = useState<string | null>(null);
 
   const {
@@ -111,6 +113,23 @@ export function ThemedLeadForm({
           content_name: university,
         });
       }
+
+      // Google Ads conversion
+      const adsId = ANALYTICS.googleAdsId;
+      const label = ANALYTICS.googleAdsConversionLabel;
+      if (
+        typeof window !== "undefined" &&
+        typeof window.gtag === "function" &&
+        adsId &&
+        label
+      ) {
+        window.gtag("event", "conversion", {
+          send_to: `${adsId}/${label}`,
+          event_category: "Lead",
+          event_label: values.program,
+        });
+      }
+
       if (typeof window !== "undefined" && typeof window.gtag === "function") {
         window.gtag("event", "generate_lead", {
           program: values.program,
@@ -119,7 +138,8 @@ export function ThemedLeadForm({
       }
 
       reset();
-      router.push("/thank-you");
+      const params = searchParams.toString();
+      router.push(`/thank-you${params ? `?${params}` : ""}`);
     } catch {
       setServerError(
         "Something went wrong. Please try the WhatsApp button or call our helpline."

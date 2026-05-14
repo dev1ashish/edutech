@@ -2,9 +2,10 @@
 
 import { useEffect, useId, useMemo, useState } from "react";
 import { useForm, type DefaultValues } from "react-hook-form";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
+import { ANALYTICS } from "@/lib/site";
 import {
   getUUCseSpecializationTracks,
   isUUCseParentProgramme,
@@ -131,6 +132,7 @@ export function UULeadForm({
 }: UULeadFormProps) {
   const uid = useId();
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [serverError, setServerError] = useState<string | null>(null);
 
   const {
@@ -228,6 +230,23 @@ export function UULeadForm({
           content_name: university,
         });
       }
+
+      // Google Ads conversion
+      const adsId = ANALYTICS.googleAdsId;
+      const label = ANALYTICS.googleAdsConversionLabel;
+      if (
+        typeof window !== "undefined" &&
+        typeof window.gtag === "function" &&
+        adsId &&
+        label
+      ) {
+        window.gtag("event", "conversion", {
+          send_to: `${adsId}/${label}`,
+          event_category: "Lead",
+          event_label: programmeSubmitted,
+        });
+      }
+
       if (typeof window !== "undefined" && typeof window.gtag === "function") {
         window.gtag("event", "generate_lead", {
           program: programmeSubmitted,
@@ -236,7 +255,8 @@ export function UULeadForm({
       }
 
       reset(defaultValues);
-      router.push("/thank-you");
+      const params = searchParams.toString();
+      router.push(`/thank-you${params ? `?${params}` : ""}`);
     } catch {
       setServerError(
         "Something went wrong. Please try the WhatsApp button or call our helpline."

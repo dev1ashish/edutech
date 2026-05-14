@@ -2,11 +2,11 @@
 
 import { useState } from "react";
 import { useForm } from "react-hook-form";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 import { COLLEGES, PROGRAMS } from "@/lib/constants";
-import { SITE } from "@/lib/site";
+import { SITE, ANALYTICS } from "@/lib/site";
 
 const schema = z.object({
   name: z
@@ -34,6 +34,7 @@ declare global {
 
 export function LeadForm() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [serverError, setServerError] = useState<string | null>(null);
 
   const {
@@ -64,8 +65,8 @@ export function LeadForm() {
         });
       }
       // Google Ads conversion
-      const adsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
-      const label = process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_LABEL;
+      const adsId = ANALYTICS.googleAdsId;
+      const label = ANALYTICS.googleAdsConversionLabel;
       if (
         typeof window !== "undefined" &&
         typeof window.gtag === "function" &&
@@ -87,7 +88,8 @@ export function LeadForm() {
       }
 
       reset();
-      router.push("/thank-you");
+      const params = searchParams.toString();
+      router.push(`/thank-you${params ? `?${params}` : ""}`);
     } catch {
       setServerError(
         "Something went wrong. Please try WhatsApp instead — we're 1 message away."
