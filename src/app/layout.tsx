@@ -92,6 +92,9 @@ export const viewport: Viewport = {
   maximumScale: 5,
 };
 
+import { Suspense } from "react";
+import { GTMPageView } from "@/components/GTMPageView";
+
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
@@ -101,6 +104,9 @@ export default function RootLayout({
       className={`${fraunces.variable} ${manrope.variable} h-full antialiased`}
     >
       <head>
+        <Suspense>
+          <GTMPageView />
+        </Suspense>
         {/* Google Tag Manager */}
         {ANALYTICS.gtmId ? (
           <Script id="google-tag-manager" strategy="afterInteractive">
